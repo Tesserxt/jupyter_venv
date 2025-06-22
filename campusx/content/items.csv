@@ -1,0 +1,4623 @@
+item_id,item_name,item_price
+0,Chips and Fresh Tomato Salsa,$2.39 
+1,Izze,$3.39 
+2,Nantucket Nectar,$3.39 
+3,Chips and Tomatillo-Green Chili Salsa,$2.39 
+4,Chicken Bowl,$16.98 
+5,Chicken Bowl,$10.98 
+6,Side of Chips,
+7,Steak Burrito,$11.75 
+8,Steak Soft Tacos,
+9,Steak Burrito,$9.25 
+10,Chips and Guacamole,$4.45 
+11,Chicken Crispy Tacos,$8.75 
+12,Chicken Soft Tacos,$8.75 
+13,Chicken Bowl,$11.25 
+14,Chips and Guacamole,$4.45 
+15,Chips and Tomatillo-Green Chili Salsa,$2.39 
+16,Chicken Burrito,$8.49 
+17,Chicken Burrito,$8.49 
+18,Canned Soda,$2.18 
+19,Chicken Bowl,$8.75 
+20,Chips and Guacamole,$4.45 
+21,Barbacoa Burrito,$8.99 
+22,Nantucket Nectar,$3.39 
+23,Chicken Burrito,$10.98 
+24,Izze,$3.39 
+25,Chips and Fresh Tomato Salsa,$2.39 
+26,Chicken Bowl,$8.49 
+27,Carnitas Burrito,$8.99 
+28,Canned Soda,$1.09 
+29,Chicken Burrito,$8.49 
+30,Chips and Tomatillo-Green Chili Salsa,$2.39 
+31,Steak Burrito,$8.99 
+32,Side of Chips,$1.69 
+33,Carnitas Bowl,$8.99 
+34,Bottled Water,$1.09 
+35,Chicken Soft Tacos,$8.75 
+36,Chicken Soft Tacos,$8.75 
+37,Chips and Guacamole,$4.45 
+38,Chips and Tomatillo Green Chili Salsa,$2.95 
+39,Barbacoa Bowl,$11.75 
+40,Chips,
+41,Chips and Guacamole,$4.45 
+42,Chicken Bowl,$11.25 
+43,Steak Burrito,$11.75 
+44,Chicken Salad Bowl,$8.75 
+45,Chicken Burrito,$10.98 
+46,Steak Burrito,$8.99 
+47,Izze,$3.39 
+48,Steak Burrito,$8.99 
+49,Chips and Guacamole,$3.99 
+50,Steak Burrito,$8.99 
+51,Canned Soda,$2.18 
+52,Chicken Burrito,$10.98 
+53,Canned Soda,$1.09 
+54,Steak Bowl,$8.99 
+55,Chips and Fresh Tomato Salsa,$2.39 
+56,Barbacoa Soft Tacos,$9.25 
+57,Veggie Burrito,$11.25 
+58,Barbacoa Bowl,$11.75 
+59,Chips,$2.15 
+60,Chips and Guacamole,$4.45 
+61,Steak Soft Tacos,$9.25 
+62,Veggie Bowl,$11.25 
+63,Chicken Burrito,$8.75 
+64,Steak Burrito,$8.99 
+65,Steak Soft Tacos,$8.99 
+66,Izze,$3.39 
+67,Steak Burrito,$8.99 
+68,Chicken Burrito,$10.98 
+69,Steak Burrito,$8.99 
+70,Side of Chips,$1.69 
+71,Steak Burrito,$8.99 
+72,Chips and Guacamole,$3.99 
+73,Chicken Burrito,
+74,Chips and Guacamole,$4.45 
+75,Chicken Soft Tacos,$8.75 
+76,Chicken Bowl,$8.75 
+77,Chips,$2.15 
+78,Chicken Bowl,$8.75 
+79,Chicken Soft Tacos,$11.25 
+80,Chips,$2.15 
+81,Barbacoa Burrito,$9.25 
+82,Chicken Burrito,$8.75 
+83,Chicken Burrito,$8.75 
+84,Steak Soft Tacos,$9.25 
+85,Veggie Bowl,$8.49 
+86,Steak Bowl,$8.99 
+87,Bottled Water,$1.09 
+88,Carnitas Burrito,$9.25 
+89,Chips and Fresh Tomato Salsa,$2.95 
+90,Steak Bowl,$11.75 
+91,Steak Bowl,$11.75 
+92,Steak Crispy Tacos,$9.25 
+93,Carnitas Burrito,$11.75 
+94,Chips and Guacamole,$4.45 
+95,Barbacoa Bowl,$9.25 
+96,Chips and Guacamole,$4.45 
+97,Carnitas Bowl,$11.75 
+98,Chicken Burrito,$8.75 
+99,Chicken Bowl,$8.75 
+100,Chips and Guacamole,$4.45 
+101,Steak Burrito,$8.99 
+102,Steak Bowl,$8.99 
+103,Chips and Guacamole,$3.99 
+104,Veggie Burrito,$8.49 
+105,Nantucket Nectar,$3.39 
+106,Steak Burrito,$8.99 
+107,Canned Soda,$1.09 
+108,Steak Burrito,$9.25 
+109,Chips and Guacamole,$4.45 
+110,Chicken Bowl,$8.75 
+111,Chips and Tomatillo Red Chili Salsa,$2.95 
+112,Chips and Guacamole,$4.45 
+113,Chips and Tomatillo-Green Chili Salsa,$2.39 
+114,Chicken Burrito,$8.49 
+115,Barbacoa Bowl,$8.99 
+116,Chicken Burrito,$8.49 
+117,Canned Soda,$1.09 
+118,Steak Soft Tacos,$8.99 
+119,Chips and Guacamole,$3.99 
+120,Chicken Burrito,$8.75 
+121,Barbacoa Burrito,$9.25 
+122,Chips and Guacamole,$4.45 
+123,Chicken Bowl,$11.25 
+124,Chips and Guacamole,$4.45 
+125,Steak Burrito,$8.99 
+126,Canned Soda,$1.09 
+127,Barbacoa Bowl,$9.25 
+128,Chips and Tomatillo Red Chili Salsa,$2.95 
+129,Chips and Guacamole,$4.45 
+130,Barbacoa Burrito,$11.75 
+131,Chips and Guacamole,$4.45 
+132,Chicken Burrito,$8.49 
+133,Chips and Tomatillo-Green Chili Salsa,$2.39 
+134,Chicken Burrito,$10.98 
+135,Chicken Salad Bowl,$22.50 
+136,Barbacoa Bowl,$11.75 
+137,Chips and Guacamole,$4.45 
+138,Chicken Bowl,$11.25 
+139,Chips and Guacamole,$4.45 
+140,Chicken Bowl,$11.25 
+141,Chips and Guacamole,$4.45 
+142,Chicken Bowl,$11.25 
+143,Veggie Bowl,$11.25 
+144,Barbacoa Burrito,$11.75 
+145,Carnitas Bowl,$9.25 
+146,Chips and Guacamole,$4.45 
+147,Steak Burrito,$11.48 
+148,Steak Burrito,$17.98 
+149,Side of Chips,$1.69 
+150,Chicken Burrito,$17.50 
+151,Chips and Guacamole,$4.45 
+152,Chicken Burrito,$8.49 
+153,Chips and Tomatillo-Green Chili Salsa,$2.39 
+154,Chicken Bowl,$17.50 
+155,Chips and Guacamole,$4.45 
+156,Chips and Guacamole,$4.45 
+157,Veggie Bowl,$11.25 
+158,Steak Burrito,$11.75 
+159,Chicken Burrito,$10.98 
+160,Chicken Bowl,$8.49 
+161,Chicken Burrito,$10.98 
+162,Canned Soda,$2.18 
+163,Carnitas Bowl,$11.48 
+164,Veggie Bowl,$8.49 
+165,Chips and Tomatillo-Green Chili Salsa,$2.39 
+166,Chips and Guacamole,$4.45 
+167,Chicken Burrito,$11.25 
+168,Barbacoa Crispy Tacos,$11.75 
+169,Chicken Burrito,$8.75 
+170,Chicken Burrito,$8.49 
+171,Canned Soda,$2.18 
+172,Chicken Burrito,$8.49 
+173,Nantucket Nectar,$3.39 
+174,Chicken Burrito,$8.49 
+175,Steak Soft Tacos,$8.99 
+176,Chicken Bowl,$10.98 
+177,Steak Burrito,$11.48 
+178,Chicken Burrito,$8.49 
+179,Canned Soda,$1.09 
+180,Canned Soda,$1.09 
+181,Barbacoa Soft Tacos,$9.25 
+182,Chicken Bowl,$8.75 
+183,Chips and Fresh Tomato Salsa,$2.95 
+184,Steak Soft Tacos,$9.25 
+185,Chips and Guacamole,$4.45 
+186,Veggie Salad Bowl,$11.25 
+187,Steak Bowl,$11.48 
+188,Chicken Burrito,$8.49 
+189,Chicken Burrito,$8.49 
+190,Steak Burrito,$8.99 
+191,Chips and Roasted Chili-Corn Salsa,$2.39 
+192,Veggie Bowl,$11.25 
+193,Chicken Bowl,$8.75 
+194,Chips and Fresh Tomato Salsa,$2.95 
+195,Canned Soda,$1.09 
+196,Steak Burrito,$8.99 
+197,Chicken Burrito,$8.49 
+198,Chips and Tomatillo-Green Chili Salsa,$2.39 
+199,Chicken Bowl,$10.98 
+200,Canned Soda,$1.09 
+201,Chips and Guacamole,$3.99 
+202,Chicken Burrito,$11.25 
+203,Chicken Burrito,$8.75 
+204,Chicken Burrito,$8.49 
+205,Nantucket Nectar,$3.39 
+206,Chicken Bowl,$8.75 
+207,Steak Bowl,$9.25 
+208,Chips,$2.15 
+209,Chicken Bowl,$11.25 
+210,Veggie Bowl,
+211,Chicken Bowl,$11.25 
+212,Chips and Guacamole,$4.45 
+213,Chicken Salad Bowl,$22.50 
+214,Chips and Guacamole,$4.45 
+215,Steak Bowl,$11.75 
+216,Chicken Burrito,$8.75 
+217,Chicken Crispy Tacos,$17.50 
+218,Chicken Bowl,$8.75 
+219,Barbacoa Bowl,$9.25 
+220,Chicken Bowl,$8.75 
+221,Chips,$2.15 
+222,Barbacoa Burrito,$9.25 
+223,Chips,$4.30 
+224,Chicken Bowl,$8.75 
+225,Veggie Burrito,$11.25 
+226,Chips,$2.15 
+227,Steak Burrito,$8.99 
+228,Canned Soda,$1.09 
+229,Steak Burrito,$8.99 
+230,Chips and Guacamole,$3.99 
+231,Chicken Bowl,$8.75 
+232,Chips and Tomatillo Green Chili Salsa,$2.95 
+233,Chips and Roasted Chili Corn Salsa,$2.95 
+234,Steak Burrito,$11.75 
+235,Chips and Tomatillo Green Chili Salsa,$5.90 
+236,Steak Burrito,$9.25 
+237,Carnitas Soft Tacos,$9.25 
+238,Steak Burrito,$11.75 
+239,Carnitas Burrito,$9.25 
+240,Chips and Fresh Tomato Salsa,$2.95 
+241,Chicken Burrito,$17.50 
+242,Chicken Burrito,$8.75 
+243,Steak Bowl,$9.25 
+244,Chicken Burrito,$10.98 
+245,Steak Burrito,$8.99 
+246,Canned Soda,$1.09 
+247,Canned Soda,$1.09 
+248,Canned Soda,$1.09 
+249,Barbacoa Burrito,$8.99 
+250,Chicken Salad,$10.98 
+251,Canned Soda,$1.09 
+252,Chicken Bowl,$8.75 
+253,Veggie Bowl,$8.75 
+254,Barbacoa Bowl,$9.25 
+255,Barbacoa Crispy Tacos,$9.25 
+256,Chicken Salad Bowl,$8.75 
+257,Chicken Bowl,$8.75 
+258,Steak Burrito,$8.99 
+259,Steak Bowl,$8.99 
+260,Steak Bowl,$8.99 
+261,Canned Soda,$1.09 
+262,Steak Bowl,$11.75 
+263,Canned Soft Drink,$1.25 
+264,Steak Burrito,$8.99 
+265,Chips and Fresh Tomato Salsa,$2.39 
+266,Steak Soft Tacos,$9.25 
+267,Chips and Fresh Tomato Salsa,$2.95 
+268,Barbacoa Soft Tacos,$8.99 
+269,Chips and Guacamole,$3.99 
+270,Chicken Burrito,$8.49 
+271,Chips and Tomatillo-Green Chili Salsa,$2.39 
+272,Chicken Burrito,$8.49 
+273,Chicken Burrito,$8.49 
+274,Chicken Burrito,$8.49 
+275,Side of Chips,$1.69 
+276,Chicken Burrito,$8.49 
+277,Chips and Guacamole,$3.99 
+278,Steak Soft Tacos,$8.99 
+279,Side of Chips,$1.69 
+280,Canned Soda,$1.09 
+281,Steak Salad Bowl,
+282,Chicken Bowl,$17.50 
+283,Chips,$2.15 
+284,Chicken Bowl,$8.75 
+285,Steak Bowl,$9.25 
+286,Steak Bowl,$9.25 
+287,Veggie Bowl,$8.75 
+288,Chips and Guacamole,$4.45 
+289,Chicken Burrito,$8.75 
+290,Chicken Bowl,$11.25 
+291,Chicken Bowl,$11.25 
+292,Canned Soft Drink,$1.25 
+293,Steak Soft Tacos,$9.25 
+294,Chips and Guacamole,$4.45 
+295,Veggie Salad Bowl,$11.25 
+296,Steak Burrito,$11.75 
+297,Steak Burrito,$11.75 
+298,6 Pack Soft Drink,$6.49 
+299,Steak Soft Tacos,$8.99 
+300,Chips and Tomatillo-Red Chili Salsa,$2.39 
+301,Chicken Bowl,$8.49 
+302,Chips and Fresh Tomato Salsa,$2.39 
+303,Chicken Bowl,$11.25 
+304,Chicken Bowl,$8.75 
+305,Chips,$2.15 
+306,Steak Bowl,$8.99 
+307,Side of Chips,$1.69 
+308,Chicken Burrito,$8.75 
+309,Chicken Burrito,$11.25 
+310,Chips,$2.15 
+311,Chips and Guacamole,$4.45 
+312,Chicken Bowl,$8.75 
+313,Chicken Soft Tacos,$8.49 
+314,Steak Burrito,$8.99 
+315,Chicken Salad Bowl,
+316,Chicken Burrito,$8.49 
+317,Canned Soda,$1.09 
+318,Bottled Water,$1.09 
+319,Chicken Bowl,$8.75 
+320,Canned Soft Drink,$1.25 
+321,Chips,$2.15 
+322,Steak Burrito,$11.08 
+323,Chicken Burrito,$8.49 
+324,Chicken Soft Tacos,$8.49 
+325,Steak Burrito,$8.99 
+326,Chips and Fresh Tomato Salsa,$2.39 
+327,Chicken Bowl,$8.75 
+328,Chips,$2.15 
+329,Bottled Water,$1.50 
+330,Chicken Burrito,$11.25 
+331,Chips,$2.15 
+332,Chicken Soft Tacos,$8.49 
+333,Chicken Soft Tacos,$8.49 
+334,Barbacoa Burrito,$11.75 
+335,Steak Burrito,$9.25 
+336,Steak Bowl,$11.75 
+337,Canned Soft Drink,$1.25 
+338,Chicken Burrito,$11.25 
+339,Chicken Burrito,$8.75 
+340,Chips and Guacamole,$4.45 
+341,6 Pack Soft Drink,$6.49 
+342,Steak Soft Tacos,$9.25 
+343,Chips and Fresh Tomato Salsa,$2.95 
+344,Chicken Soft Tacos,$11.25 
+345,Chips and Guacamole,$4.45 
+346,Canned Soft Drink,$1.25 
+347,Canned Soft Drink,$1.25 
+348,Chicken Bowl,$8.49 
+349,Chips and Tomatillo-Red Chili Salsa,$2.39 
+350,Canned Soda,$2.18 
+351,Chicken Burrito,$8.49 
+352,Canned Soda,$2.18 
+353,Steak Burrito,$22.16 
+354,Chicken Soft Tacos,$17.50 
+355,Chicken Burrito,$8.75 
+356,Chips and Tomatillo Red Chili Salsa,$2.95 
+357,6 Pack Soft Drink,$6.49 
+358,Steak Burrito,$8.99 
+359,Izze,$3.39 
+360,Izze,$3.39 
+361,Steak Burrito,$8.99 
+362,Chicken Burrito,$8.49 
+363,Chicken Burrito,$11.25 
+364,Chips,$2.15 
+365,Chicken Crispy Tacos,$11.25 
+366,Chips and Tomatillo Green Chili Salsa,$2.95 
+367,Chicken Burrito,$11.25 
+368,Canned Soft Drink,$1.25 
+369,Steak Burrito,$8.99 
+370,Canned Soda,$1.09 
+371,Chicken Bowl,$8.75 
+372,Chicken Burrito,$8.75 
+373,Carnitas Burrito,$9.25 
+374,Chips and Fresh Tomato Salsa,$2.95 
+375,Barbacoa Burrito,$11.75 
+376,Bottled Water,$1.50 
+377,Steak Burrito,$8.99 
+378,Canned Soda,$1.09 
+379,Chicken Bowl,$11.25 
+380,Canned Soft Drink,$1.25 
+381,Canned Soft Drink,$1.25 
+382,Chicken Burrito,$11.25 
+383,Steak Burrito,$11.75 
+384,Chips,$2.15 
+385,Barbacoa Burrito,$8.99 
+386,Side of Chips,$1.69 
+387,Steak Bowl,$11.75 
+388,6 Pack Soft Drink,$6.49 
+389,Chicken Burrito,$8.75 
+390,Steak Soft Tacos,$9.25 
+391,Chicken Burrito,$11.25 
+392,Chips and Guacamole,$4.45 
+393,Canned Soft Drink,$1.25 
+394,Veggie Burrito,$11.25 
+395,Chips and Guacamole,$4.45 
+396,Chicken Burrito,$8.49 
+397,Barbacoa Burrito,
+398,Chicken Burrito,$8.49 
+399,Carnitas Bowl,$8.99 
+400,Chicken Burrito,$11.25 
+401,Canned Soft Drink,$1.25 
+402,Steak Burrito,$11.75 
+403,Canned Soft Drink,$1.25 
+404,Steak Burrito,$11.75 
+405,Carnitas Soft Tacos,$9.25 
+406,Chips and Guacamole,$4.45 
+407,Chicken Bowl,$11.25 
+408,Chips,$2.15 
+409,Chicken Bowl,$32.94 
+410,Canned Soft Drink,$1.25 
+411,Chicken Bowl,$11.25 
+412,Steak Bowl,$11.48 
+413,Side of Chips,$1.69 
+414,Canned Soda,$1.09 
+415,Chicken Bowl,$17.50 
+416,Chips and Guacamole,$4.45 
+417,6 Pack Soft Drink,$6.49 
+418,Barbacoa Bowl,$9.25 
+419,Chicken Soft Tacos,$8.75 
+420,Steak Burrito,$9.25 
+421,Carnitas Burrito,$9.25 
+422,Chicken Bowl,$8.75 
+423,Chicken Burrito,$8.75 
+424,Chips,$2.15 
+425,Chips and Fresh Tomato Salsa,$2.95 
+426,Chicken Soft Tacos,$17.50 
+427,Chicken Soft Tacos,
+428,Steak Bowl,$11.48 
+429,Barbacoa Crispy Tacos,$11.48 
+430,Izze,$3.39 
+431,Steak Burrito,$8.99 
+432,Side of Chips,$1.69 
+433,Carnitas Bowl,$8.99 
+434,Canned Soda,$1.09 
+435,Veggie Burrito,$10.98 
+436,Nantucket Nectar,$3.39 
+437,Steak Crispy Tacos,$8.99 
+438,Canned Soda,$1.09 
+439,Steak Burrito,$9.25 
+440,Chicken Soft Tacos,$8.75 
+441,Chicken Burrito,$11.25 
+442,Chips and Guacamole,$4.45 
+443,Chips and Tomatillo Red Chili Salsa,$2.95 
+444,Steak Bowl,$9.25 
+445,Bowl,$22.20 
+446,Chicken Burrito,$8.49 
+447,Steak Burrito,$8.99 
+448,Chicken Burrito,$8.75 
+449,Chicken Bowl,$8.75 
+450,Barbacoa Burrito,$11.75 
+451,Chicken Burrito,$8.75 
+452,Chicken Burrito,$11.25 
+453,Carnitas Soft Tacos,$9.25 
+454,Chicken Bowl,
+455,Veggie Salad Bowl,$11.25 
+456,Chicken Bowl,$8.75 
+457,Chicken Burrito,$11.25 
+458,Chips and Fresh Tomato Salsa,$2.95 
+459,Canned Soft Drink,$1.25 
+460,Chicken Bowl,$8.49 
+461,Side of Chips,$1.69 
+462,Carnitas Burrito,$11.75 
+463,Chicken Burrito,$11.25 
+464,Chicken Bowl,$8.75 
+465,Chicken Bowl,$8.75 
+466,Chips and Guacamole,$4.45 
+467,Veggie Burrito,$8.49 
+468,Chips and Guacamole,$3.99 
+469,Veggie Burrito,$8.49 
+470,Chips and Guacamole,$3.99 
+471,Barbacoa Bowl,$11.48 
+472,Side of Chips,$1.69 
+473,Canned Soda,$1.09 
+474,Chicken Soft Tacos,$11.25 
+475,Bottled Water,$1.50 
+476,Chicken Burrito,$10.58 
+477,Side of Chips,$1.69 
+478,Carnitas Burrito,$9.25 
+479,Veggie Burrito,$11.25 
+480,Chicken Bowl,$8.75 
+481,Steak Burrito,$9.25 
+482,Chicken Burrito,$11.25 
+483,Chicken Bowl,$11.25 
+484,Chicken Bowl,$8.75 
+485,Barbacoa Crispy Tacos,$11.75 
+486,Chicken Burrito,$8.75 
+487,Chicken Burrito,$8.75 
+488,Chicken Bowl,$8.75 
+489,Chips,$2.15 
+490,Chicken Bowl,$11.25 
+491,Steak Bowl,$11.75 
+492,Canned Soft Drink,$2.50 
+493,Chips and Guacamole,$4.45 
+494,Steak Soft Tacos,$9.25 
+495,Chips and Guacamole,$4.45 
+496,Veggie Salad Bowl,$11.25 
+497,Veggie Burrito,$8.49 
+498,Chips and Guacamole,$3.99 
+499,Steak Bowl,$9.25 
+500,Steak Bowl,$9.25 
+501,Chicken Bowl,$11.25 
+502,Barbacoa Burrito,$9.25 
+503,Steak Burrito,$11.75 
+504,Chicken Soft Tacos,$11.25 
+505,Canned Soft Drink,$1.25 
+506,Carnitas Bowl,$23.50 
+507,Canned Soft Drink,$1.25 
+508,Steak Burrito,$8.99 
+509,Chicken Bowl,$8.49 
+510,Burrito,$7.40 
+511,Burrito,$7.40 
+512,Veggie Bowl,$8.75 
+513,Canned Soft Drink,$1.25 
+514,Chips and Guacamole,$4.45 
+515,Veggie Bowl,$8.75 
+516,Chips,$2.15 
+517,Chicken Burrito,$8.75 
+518,Chips and Guacamole,$4.45 
+519,Burrito,$7.40 
+520,Crispy Tacos,$7.40 
+521,Crispy Tacos,$7.40 
+522,Steak Burrito,$8.99 
+523,Chips and Guacamole,$3.99 
+524,Steak Bowl,$8.99 
+525,Side of Chips,$1.69 
+526,Chicken Salad Bowl,$8.75 
+527,Chicken Bowl,$8.75 
+528,Chicken Salad Bowl,$8.75 
+529,Chicken Salad Bowl,$8.75 
+530,Veggie Bowl,$11.25 
+531,Chicken Burrito,$11.25 
+532,Chips and Fresh Tomato Salsa,$2.95 
+533,Chicken Burrito,$8.75 
+534,Steak Burrito,$18.50 
+535,Veggie Burrito,$8.49 
+536,Chips and Guacamole,$3.99 
+537,Chips and Tomatillo Green Chili Salsa,$2.95 
+538,Carnitas Bowl,$9.25 
+539,Steak Burrito,$9.25 
+540,Bottled Water,$3.00 
+541,Canned Soft Drink,$1.25 
+542,Chicken Bowl,$8.75 
+543,Barbacoa Burrito,$9.25 
+544,Chips and Guacamole,$4.45 
+545,Chicken Bowl,$8.75 
+546,Chicken Bowl,$11.25 
+547,Chips and Guacamole,$4.45 
+548,Chicken Bowl,$10.98 
+549,Steak Burrito,$22.16 
+550,Chips and Guacamole,$4.45 
+551,Chicken Burrito,$8.75 
+552,Steak Burrito,$9.25 
+553,6 Pack Soft Drink,$6.49 
+554,Carnitas Crispy Tacos,$9.25 
+555,Veggie Bowl,$11.25 
+556,Chicken Bowl,$8.75 
+557,Barbacoa Burrito,$9.25 
+558,Chips,$2.15 
+559,Steak Bowl,$9.25 
+560,Chips and Guacamole,$4.45 
+561,Barbacoa Burrito,$9.25 
+562,Chips and Roasted Chili Corn Salsa,$2.95 
+563,Steak Burrito,$9.25 
+564,Chicken Burrito,$8.75 
+565,Carnitas Soft Tacos,$9.25 
+566,Canned Soft Drink,$1.25 
+567,Canned Soft Drink,$1.25 
+568,Chicken Salad Bowl,$8.75 
+569,Chicken Burrito,$8.75 
+570,Steak Soft Tacos,$9.25 
+571,Chips and Guacamole,$4.45 
+572,Steak Burrito,$11.75 
+573,Steak Burrito,
+574,Barbacoa Burrito,$11.75 
+575,Barbacoa Burrito,$9.25 
+576,Steak Burrito,$9.25 
+577,Chicken Soft Tacos,$16.98 
+578,Chips and Tomatillo-Green Chili Salsa,$2.39 
+579,Izze,$3.39 
+580,Izze,$3.39 
+581,Steak Crispy Tacos,$9.25 
+582,Steak Burrito,$11.75 
+583,Chicken Bowl,$11.25 
+584,Chips,$2.15 
+585,Chicken Salad Bowl,$8.75 
+586,Barbacoa Burrito,$9.25 
+587,Chips and Guacamole,$4.45 
+588,Chicken Burrito,$10.98 
+589,Chicken Burrito,$11.25 
+590,Carnitas Soft Tacos,$9.25 
+591,Chicken Salad Bowl,$22.50 
+592,Barbacoa Bowl,$9.25 
+593,Chips and Tomatillo Red Chili Salsa,$2.95 
+594,Bottled Water,$1.50 
+595,Steak Bowl,$11.48 
+596,Chicken Bowl,$8.49 
+597,Side of Chips,$1.69 
+598,Chicken Crispy Tacos,$8.49 
+599,Chicken Burrito,$8.49 
+600,Chicken Crispy Tacos,$8.49 
+601,Nantucket Nectar,$6.78 
+602,Barbacoa Burrito,$11.75 
+603,Chips and Guacamole,$4.45 
+604,Chicken Bowl,$8.75 
+605,Chips and Guacamole,$4.45 
+606,Steak Salad Bowl,$11.89 
+607,Steak Salad Bowl,$9.39 
+608,Chicken Burrito,$8.75 
+609,Chips and Fresh Tomato Salsa,$2.95 
+610,Canned Soft Drink,$1.25 
+611,Barbacoa Soft Tacos,$9.25 
+612,Chicken Burrito,$8.75 
+613,Steak Salad Bowl,$23.78 
+614,Chicken Bowl,$8.75 
+615,Barbacoa Burrito,$9.25 
+616,Chips,$2.15 
+617,Chips,$2.15 
+618,Canned Soft Drink,$1.25 
+619,Veggie Bowl,$8.49 
+620,Chips and Guacamole,$3.99 
+621,Chicken Burrito,$10.98 
+622,Canned Soda,$1.09 
+623,Veggie Burrito,$8.75 
+624,Chips and Guacamole,$4.45 
+625,Chicken Bowl,$8.75 
+626,Carnitas Burrito,$11.75 
+627,Chips and Tomatillo Green Chili Salsa,$2.95 
+628,Chips and Guacamole,$4.45 
+629,Steak Burrito,$9.25 
+630,Chicken Soft Tacos,$8.75 
+631,Veggie Burrito,$8.49 
+632,Chips and Guacamole,$3.99 
+633,Chicken Salad Bowl,$22.50 
+634,Chicken Burrito,$11.25 
+635,Canned Soft Drink,$1.25 
+636,Chicken Burrito,$8.75 
+637,Chicken Bowl,$8.75 
+638,Steak Burrito,$18.50 
+639,6 Pack Soft Drink,$6.49 
+640,Chicken Burrito,$8.75 
+641,Chicken Soft Tacos,$8.75 
+642,Chips and Guacamole,$4.45 
+643,Veggie Bowl,$8.49 
+644,Chips and Guacamole,$3.99 
+645,Steak Burrito,$8.99 
+646,Canned Soda,$1.09 
+647,Chicken Bowl,$8.49 
+648,Chips and Roasted Chili-Corn Salsa,$2.39 
+649,Steak Burrito,$11.48 
+650,Side of Chips,$1.69 
+651,Canned Soft Drink,$2.50 
+652,Carnitas Burrito,$9.25 
+653,Bottled Water,$1.50 
+654,Chicken Bowl,$17.50 
+655,Chips and Tomatillo Green Chili Salsa,$2.95 
+656,Chicken Burrito,$8.75 
+657,Chips and Guacamole,$4.45 
+658,Steak Burrito,$11.75 
+659,Chicken Burrito,$8.75 
+660,Chicken Bowl,$8.49 
+661,Side of Chips,$1.69 
+662,Veggie Burrito,$8.49 
+663,Chips and Guacamole,$3.99 
+664,Steak Salad,$8.99 
+665,Steak Bowl,$8.99 
+666,Chips and Guacamole,$3.99 
+667,Carnitas Soft Tacos,$8.99 
+668,Chicken Bowl,$11.25 
+669,Chips and Guacamole,$4.45 
+670,Canned Soft Drink,$1.25 
+671,Chips and Guacamole,$3.99 
+672,Chicken Burrito,$10.98 
+673,Bowl,$7.40 
+674,Chips and Mild Fresh Tomato Salsa,$3.00 
+675,Burrito,$7.40 
+676,Chips and Guacamole,$4.00 
+677,Veggie Bowl,$8.49 
+678,Chips and Guacamole,$3.99 
+679,Steak Bowl,$9.25 
+680,Chips and Guacamole,$4.45 
+681,Chicken Burrito,$11.25 
+682,Canned Soft Drink,$1.25 
+683,Steak Burrito,$11.75 
+684,Canned Soft Drink,$1.25 
+685,Chicken Burrito,$11.25 
+686,Chips,$2.15 
+687,Chicken Bowl,$11.25 
+688,Chips and Guacamole,$4.45 
+689,Canned Soft Drink,$3.75 
+690,Steak Bowl,$11.75 
+691,Carnitas Burrito,$8.99 
+692,Chips and Tomatillo-Red Chili Salsa,$2.39 
+693,Chicken Salad Bowl,$8.75 
+694,Chips and Guacamole,$4.45 
+695,Canned Soft Drink,$1.25 
+696,Steak Burrito,$8.99 
+697,Chicken Soft Tacos,$8.49 
+698,Canned Soda,$2.18 
+699,Chicken Burrito,$8.49 
+700,Canned Soda,$2.18 
+701,Bottled Water,$1.09 
+702,Chicken Salad Bowl,$8.75 
+703,Chips and Tomatillo Green Chili Salsa,$2.95 
+704,Canned Soft Drink,$1.25 
+705,Bottled Water,$1.50 
+706,Chicken Bowl,$11.25 
+707,Steak Burrito,$9.25 
+708,Chips and Roasted Chili Corn Salsa,$2.95 
+709,Canned Soft Drink,$1.25 
+710,Veggie Burrito,$8.49 
+711,Chips and Guacamole,$3.99 
+712,Steak Burrito,$11.48 
+713,Chips and Guacamole,$3.99 
+714,Veggie Burrito,$8.49 
+715,Chicken Burrito,$11.25 
+716,Canned Soft Drink,$1.25 
+717,Barbacoa Burrito,$8.99 
+718,Side of Chips,$1.69 
+719,Chicken Bowl,$11.25 
+720,Canned Soft Drink,$1.25 
+721,6 Pack Soft Drink,$6.49 
+722,Chicken Bowl,$8.75 
+723,Barbacoa Burrito,$9.25 
+724,Chicken Burrito,$8.75 
+725,Chips and Fresh Tomato Salsa,$2.95 
+726,Chicken Burrito,$8.75 
+727,Steak Burrito,$11.75 
+728,Steak Burrito,$8.69 
+729,Steak Crispy Tacos,$8.69 
+730,Chips and Fresh Tomato Salsa,$2.29 
+731,Chips and Guacamole,$3.99 
+732,Veggie Burrito,$8.49 
+733,Chicken Bowl,$8.75 
+734,Chicken Burrito,$8.75 
+735,Canned Soft Drink,$1.25 
+736,Steak Burrito,$11.75 
+737,Veggie Bowl,$11.25 
+738,Veggie Soft Tacos,$11.25 
+739,Chicken Burrito,$11.25 
+740,Canned Soft Drink,$1.25 
+741,Steak Burrito,$9.25 
+742,Barbacoa Burrito,$11.75 
+743,6 Pack Soft Drink,$6.49 
+744,Chips and Guacamole,$3.99 
+745,Veggie Burrito,$8.49 
+746,Chicken Burrito,$11.25 
+747,Chips,$2.15 
+748,Chicken Burrito,$11.25 
+749,Steak Salad Bowl,$11.89 
+750,Barbacoa Bowl,$8.99 
+751,Side of Chips,$1.69 
+752,Steak Salad,$8.99 
+753,Steak Bowl,$8.99 
+754,Chips and Guacamole,$3.99 
+755,Carnitas Soft Tacos,$8.99 
+756,Barbacoa Burrito,$9.25 
+757,Steak Bowl,$9.25 
+758,Chips,$2.15 
+759,Burrito,$7.40 
+760,Burrito,$7.40 
+761,Veggie Burrito,$8.75 
+762,Chicken Salad Bowl,$8.75 
+763,Barbacoa Crispy Tacos,$9.25 
+764,Chips and Guacamole,$4.45 
+765,Chicken Bowl,$11.25 
+766,Canned Soft Drink,$1.25 
+767,Carnitas Burrito,$11.75 
+768,Chicken Crispy Tacos,$11.25 
+769,Canned Soft Drink,$1.25 
+770,Chips and Guacamole,$3.99 
+771,Veggie Burrito,$8.49 
+772,Chicken Bowl,$8.49 
+773,Chicken Bowl,$8.49 
+774,Steak Crispy Tacos,$8.99 
+775,Chicken Bowl,$8.75 
+776,Chips,$2.15 
+777,Canned Soft Drink,$1.25 
+778,Chicken Burrito,$8.49 
+779,Canned Soda,$1.09 
+780,Bottled Water,$1.09 
+781,Veggie Soft Tacos,$8.75 
+782,Chips and Tomatillo Green Chili Salsa,$2.95 
+783,Canned Soft Drink,$1.25 
+784,Steak Bowl,$9.25 
+785,Canned Soft Drink,$1.25 
+786,Chips,$2.15 
+787,Chicken Burrito,$11.25 
+788,Canned Soft Drink,$1.25 
+789,Chips and Guacamole,$4.45 
+790,Chicken Burrito,$8.75 
+791,Canned Soft Drink,$2.50 
+792,Chips and Guacamole,$8.90 
+793,Chicken Burrito,$8.75 
+794,Chicken Bowl,$8.75 
+795,Chicken Bowl,$8.75 
+796,Chicken Burrito,$11.25 
+797,Veggie Burrito,$11.25 
+798,Chicken Bowl,$10.98 
+799,Chips and Guacamole,$3.99 
+800,Chicken Burrito,$10.98 
+801,Chips and Guacamole,$3.99 
+802,Side of Chips,$1.69 
+803,Barbacoa Bowl,$8.99 
+804,Barbacoa Bowl,$9.25 
+805,Chicken Bowl,$8.75 
+806,Steak Burrito,$8.99 
+807,Canned Soda,$1.09 
+808,Steak Burrito,$9.25 
+809,Chips and Tomatillo Green Chili Salsa,$2.95 
+810,Chicken Burrito,$8.75 
+811,Steak Burrito,$9.25 
+812,Chips and Guacamole,$3.99 
+813,Veggie Burrito,$8.49 
+814,Chicken Burrito,$8.75 
+815,Chicken Bowl,$8.75 
+816,Chicken Salad Bowl,$22.50 
+817,Chicken Bowl,$10.98 
+818,Bottled Water,$3.27 
+819,Chips and Guacamole,$3.99 
+820,Carnitas Soft Tacos,$8.99 
+821,Canned Soda,$1.09 
+822,Carnitas Bowl,$11.08 
+823,Chicken Burrito,$8.75 
+824,Chips and Guacamole,$4.45 
+825,Steak Bowl,$11.08 
+826,Chips and Guacamole,$3.99 
+827,Veggie Burrito,$8.49 
+828,Chips,$4.30 
+829,Barbacoa Crispy Tacos,$9.25 
+830,Chicken Crispy Tacos,$8.75 
+831,Veggie Bowl,$11.25 
+832,Veggie Bowl,$11.25 
+833,Carnitas Bowl,$9.25 
+834,Chicken Burrito,$8.49 
+835,Carnitas Burrito,$8.99 
+836,Chicken Burrito,$8.49 
+837,Chicken Bowl,$8.75 
+838,Chips and Tomatillo Red Chili Salsa,$2.95 
+839,Chips and Guacamole,$4.45 
+840,Barbacoa Bowl,$9.25 
+841,Chips and Roasted Chili Corn Salsa,$2.95 
+842,Steak Bowl,$9.25 
+843,Veggie Bowl,$8.75 
+844,Chicken Bowl,$11.25 
+845,Chips and Guacamole,$4.45 
+846,Veggie Bowl,$16.98 
+847,Veggie Burrito,$8.49 
+848,Chips and Fresh Tomato Salsa,$2.39 
+849,Chicken Bowl,$11.25 
+850,Canned Soft Drink,$3.75 
+851,Carnitas Bowl,$9.25 
+852,Chips and Guacamole,$4.45 
+853,Barbacoa Burrito,$9.25 
+854,Barbacoa Burrito,$9.25 
+855,Chips and Guacamole,$4.45 
+856,Chicken Burrito,$8.75 
+857,Barbacoa Soft Tacos,$9.25 
+858,Chicken Burrito,$8.75 
+859,Barbacoa Burrito,$9.25 
+860,Steak Burrito,$9.25 
+861,Steak Burrito,$9.25 
+862,Steak Burrito,$11.48 
+863,Steak Burrito,$8.99 
+864,Chicken Salad Bowl,$22.50 
+865,Carnitas Burrito,$11.75 
+866,Chicken Crispy Tacos,$11.25 
+867,Canned Soft Drink,$1.25 
+868,Chicken Bowl,$8.75 
+869,Chips,$2.15 
+870,Canned Soft Drink,$1.25 
+871,Chicken Bowl,$11.25 
+872,Chicken Soft Tacos,$8.75 
+873,Canned Soft Drink,$1.25 
+874,Veggie Burrito,$11.25 
+875,Bottled Water,$1.50 
+876,Chicken Soft Tacos,$11.25 
+877,Chicken Bowl,$11.25 
+878,Barbacoa Burrito,$9.25 
+879,6 Pack Soft Drink,$6.49 
+880,Chips and Guacamole,$8.90 
+881,Chicken Bowl,$8.75 
+882,Chips and Guacamole,$4.45 
+883,Chicken Soft Tacos,$11.25 
+884,Canned Soft Drink,$1.25 
+885,Chicken Crispy Tacos,$17.50 
+886,Steak Burrito,$9.25 
+887,Veggie Bowl,$8.75 
+888,Barbacoa Burrito,$11.75 
+889,Bottled Water,$3.00 
+890,Chicken Bowl,$8.49 
+891,Veggie Burrito,$8.49 
+892,Chicken Bowl,$10.98 
+893,Steak Salad,$8.99 
+894,Chips and Guacamole,$3.99 
+895,Chicken Burrito,$8.75 
+896,Chips and Guacamole,$4.45 
+897,Steak Burrito,$8.99 
+898,Side of Chips,$1.69 
+899,Steak Bowl,$11.75 
+900,Chicken Bowl,$8.75 
+901,Veggie Bowl,$11.25 
+902,Chips and Guacamole,$4.45 
+903,Barbacoa Burrito,$11.75 
+904,Canned Soft Drink,$1.25 
+905,Steak Bowl,$11.75 
+906,Chips and Roasted Chili Corn Salsa,$2.95 
+907,Steak Burrito,$8.99 
+908,Steak Burrito,$8.99 
+909,Canned Soda,$2.18 
+910,Steak Bowl,$17.98 
+911,Steak Burrito,$8.99 
+912,Chicken Burrito,$8.49 
+913,Side of Chips,$1.69 
+914,Steak Burrito,$11.75 
+915,Chicken Bowl,$11.25 
+916,Chips and Tomatillo Green Chili Salsa,$2.95 
+917,Canned Soft Drink,$3.75 
+918,Steak Crispy Tacos,$9.25 
+919,Barbacoa Bowl,$11.75 
+920,Chicken Bowl,$8.75 
+921,Chips,$2.15 
+922,Bottled Water,$1.50 
+923,Chicken Soft Tacos,$8.49 
+924,Chicken Soft Tacos,$8.49 
+925,Nantucket Nectar,$3.39 
+926,Steak Bowl,$8.69 
+927,Chips and Guacamole,$3.89 
+928,Chicken Bowl,$8.75 
+929,Chips and Guacamole,$4.45 
+930,Chicken Bowl,$8.75 
+931,Veggie Burrito,$11.25 
+932,Chips,$2.15 
+933,Chicken Bowl,$8.75 
+934,Chicken Bowl,$8.49 
+935,Side of Chips,$1.69 
+936,Veggie Bowl,$8.49 
+937,Chicken Bowl,$8.49 
+938,Canned Soft Drink,$1.25 
+939,Chicken Burrito,$8.75 
+940,Steak Burrito,$11.75 
+941,Steak Burrito,$11.75 
+942,Steak Burrito,$8.99 
+943,Bottled Water,$1.09 
+944,Chicken Bowl,$8.75 
+945,Chips and Guacamole,$4.45 
+946,Chicken Crispy Tacos,$8.75 
+947,Chips and Fresh Tomato Salsa,$2.95 
+948,Chicken Bowl,$8.75 
+949,Chips,$2.15 
+950,Chips and Guacamole,$3.99 
+951,Chicken Burrito,$8.49 
+952,Steak Bowl,$8.99 
+953,Chips and Guacamole,$3.99 
+954,Chicken Burrito,$8.49 
+955,Side of Chips,$1.69 
+956,Canned Soda,$1.09 
+957,Steak Burrito,$8.99 
+958,Canned Soda,$1.09 
+959,Carnitas Burrito,$9.25 
+960,Veggie Salad Bowl,$8.75 
+961,Steak Soft Tacos,$8.99 
+962,Chips and Fresh Tomato Salsa,$2.39 
+963,Canned Soft Drink,$1.25 
+964,Canned Soft Drink,$1.25 
+965,Chicken Burrito,$11.25 
+966,Chicken Soft Tacos,$11.25 
+967,Steak Burrito,$9.25 
+968,Steak Soft Tacos,$9.25 
+969,Chicken Soft Tacos,$11.25 
+970,Bottled Water,$1.50 
+971,Chips and Guacamole,$3.99 
+972,Veggie Burrito,$8.49 
+973,Veggie Burrito,$11.25 
+974,Carnitas Burrito,$9.25 
+975,Chicken Bowl,$11.25 
+976,Chicken Bowl,$17.50 
+977,Chicken Bowl,$8.75 
+978,Chips and Guacamole,$8.90 
+979,Chicken Bowl,$8.75 
+980,Chicken Bowl,$8.75 
+981,Barbacoa Burrito,$8.99 
+982,Chips and Tomatillo-Green Chili Salsa,$2.39 
+983,Chicken Burrito,$11.25 
+984,Carnitas Bowl,$9.25 
+985,Chips,$2.15 
+986,Chicken Burrito,$11.25 
+987,Canned Soft Drink,$1.25 
+988,Barbacoa Soft Tacos,$11.75 
+989,Canned Soft Drink,$1.25 
+990,Chicken Burrito,$11.25 
+991,Steak Burrito,$11.75 
+992,Canned Soft Drink,$1.25 
+993,Chicken Bowl,$11.25 
+994,Chicken Bowl,$11.25 
+995,Chicken Bowl,$8.49 
+996,Chicken Bowl,$10.98 
+997,Chicken Burrito,$8.75 
+998,Canned Soft Drink,$1.25 
+999,Chicken Soft Tacos,$8.75 
+1000,Chicken Bowl,$8.49 
+1001,Chicken Bowl,$8.49 
+1002,Bottled Water,$1.50 
+1003,Bottled Water,$1.50 
+1004,Chicken Bowl,$8.75 
+1005,Chips and Guacamole,$4.45 
+1006,Chicken Crispy Tacos,$11.25 
+1007,Canned Soft Drink,$1.25 
+1008,Carnitas Crispy Tacos,$11.75 
+1009,Chicken Burrito,$8.49 
+1010,Chips and Tomatillo-Green Chili Salsa,$2.39 
+1011,Steak Bowl,$9.25 
+1012,Chips and Guacamole,$4.45 
+1013,Steak Burrito,$9.25 
+1014,Chicken Bowl,$8.75 
+1015,Steak Burrito,$8.99 
+1016,Side of Chips,$1.69 
+1017,Chicken Bowl,$17.50 
+1018,Chips and Tomatillo-Green Chili Salsa,$2.39 
+1019,Barbacoa Crispy Tacos,$8.99 
+1020,Steak Crispy Tacos,$8.99 
+1021,Chicken Burrito,$11.25 
+1022,Chips and Guacamole,$4.45 
+1023,Chicken Bowl,$8.75 
+1024,Chips and Guacamole,
+1025,Steak Burrito,$9.25 
+1026,6 Pack Soft Drink,$6.49 
+1027,Chicken Crispy Tacos,$10.98 
+1028,Chicken Burrito,$8.49 
+1029,Chicken Burrito,$8.49 
+1030,Canned Soda,$1.09 
+1031,Side of Chips,$1.69 
+1032,Barbacoa Bowl,$9.25 
+1033,Chips and Guacamole,$4.45 
+1034,Chicken Bowl,$8.75 
+1035,Canned Soft Drink,$1.25 
+1036,Chips and Fresh Tomato Salsa,$2.95 
+1037,Chips and Guacamole,$3.99 
+1038,Veggie Burrito,$8.49 
+1039,Steak Bowl,$11.75 
+1040,Steak Bowl,$11.75 
+1041,Chips,$2.15 
+1042,Steak Bowl,$11.48 
+1043,Chicken Bowl,$8.75 
+1044,Chips,$2.15 
+1045,Canned Soft Drink,$1.25 
+1046,Chicken Burrito,$11.25 
+1047,Chips,$2.15 
+1048,Canned Soft Drink,$1.25 
+1049,Chicken Burrito,$8.75 
+1050,Chicken Burrito,$8.75 
+1051,6 Pack Soft Drink,$6.49 
+1052,Side of Chips,$1.69 
+1053,Steak Bowl,$8.99 
+1054,Chicken Burrito,$8.75 
+1055,Barbacoa Burrito,$11.75 
+1056,Chicken Burrito,$10.98 
+1057,Canned Soda,$1.09 
+1058,Chicken Bowl,$8.49 
+1059,Izze,$3.39 
+1060,Chicken Bowl,$8.75 
+1061,Chips,$2.15 
+1062,Canned Soft Drink,$1.25 
+1063,Carnitas Burrito,$11.48 
+1064,Chicken Burrito,$10.98 
+1065,Chicken Salad,$10.98 
+1066,Chicken Bowl,$8.49 
+1067,Chips and Roasted Chili Corn Salsa,$2.95 
+1068,Barbacoa Bowl,$9.25 
+1069,Steak Burrito,$9.25 
+1070,Steak Burrito,$11.75 
+1071,Chips and Guacamole,$4.45 
+1072,Steak Burrito,$11.48 
+1073,Chicken Bowl,$11.25 
+1074,Veggie Burrito,$8.75 
+1075,Chips and Guacamole,$4.45 
+1076,Side of Chips,$1.69 
+1077,Steak Bowl,$8.99 
+1078,Chicken Bowl,$8.75 
+1079,Chips and Guacamole,$4.45 
+1080,Bottled Water,$1.50 
+1081,Steak Bowl,$11.75 
+1082,Chips,$2.15 
+1083,Steak Burrito,$8.99 
+1084,Chips and Tomatillo-Green Chili Salsa,$2.39 
+1085,Chicken Burrito,$8.75 
+1086,Chips and Fresh Tomato Salsa,$2.95 
+1087,Canned Soft Drink,$1.25 
+1088,Chicken Bowl,$8.75 
+1089,Chips,$2.15 
+1090,Canned Soft Drink,$1.25 
+1091,Canned Soda,$2.18 
+1092,Canned Soda,$2.18 
+1093,Steak Burrito,$11.48 
+1094,Chicken Soft Tacos,$8.75 
+1095,Chips and Fresh Tomato Salsa,$2.95 
+1096,Steak Bowl,$11.75 
+1097,Carnitas Burrito,$11.75 
+1098,Canned Soft Drink,$1.25 
+1099,Chicken Burrito,$10.58 
+1100,Barbacoa Burrito,$8.99 
+1101,Chips and Tomatillo-Red Chili Salsa,$2.39 
+1102,Steak Burrito,$11.75 
+1103,Chips and Guacamole,$4.45 
+1104,Chicken Bowl,$11.25 
+1105,Veggie Burrito,$11.25 
+1106,Chicken Bowl,$17.50 
+1107,Chicken Burrito,$8.75 
+1108,Chicken Bowl,$8.75 
+1109,Chicken Salad Bowl,$8.75 
+1110,Chicken Salad Bowl,$22.50 
+1111,Steak Bowl,$9.25 
+1112,Chicken Bowl,$8.75 
+1113,Chips and Guacamole,$4.45 
+1114,Steak Burrito,$11.75 
+1115,Canned Soft Drink,$1.25 
+1116,Chicken Burrito,$11.25 
+1117,Chicken Burrito,$11.25 
+1118,Chips and Fresh Tomato Salsa,$2.95 
+1119,Barbacoa Burrito,$8.99 
+1120,Side of Chips,$1.69 
+1121,Chicken Burrito,$11.25 
+1122,Chips and Guacamole,$4.45 
+1123,Chicken Bowl,$8.75 
+1124,6 Pack Soft Drink,$6.49 
+1125,Chicken Burrito,$8.75 
+1126,Chips and Guacamole,$4.45 
+1127,Carnitas Burrito,$9.25 
+1128,Chips and Guacamole,$4.45 
+1129,Barbacoa Soft Tacos,$11.75 
+1130,Steak Burrito,$11.75 
+1131,Chips and Guacamole,$4.45 
+1132,Carnitas Salad Bowl,$11.89 
+1133,Steak Bowl,$11.75 
+1134,Chicken Bowl,$11.25 
+1135,Chips and Fresh Tomato Salsa,$2.95 
+1136,Bottled Water,$1.50 
+1137,Chips and Guacamole,$4.45 
+1138,Chicken Burrito,$8.75 
+1139,Steak Burrito,$8.99 
+1140,Bottled Water,$1.09 
+1141,Steak Burrito,$8.99 
+1142,Canned Soda,$1.09 
+1143,Chips and Guacamole,$3.99 
+1144,Steak Burrito,$11.48 
+1145,Veggie Burrito,$8.49 
+1146,Steak Burrito,$9.25 
+1147,Chips and Guacamole,$4.45 
+1148,Steak Bowl,$11.48 
+1149,Barbacoa Soft Tacos,$9.25 
+1150,Chips and Roasted Chili Corn Salsa,
+1151,Barbacoa Burrito,$9.25 
+1152,Chicken Burrito,$8.49 
+1153,Steak Burrito,$8.99 
+1154,Steak Burrito,$8.99 
+1155,Chicken Burrito,$8.49 
+1156,Chicken Bowl,$8.75 
+1157,Chips and Tomatillo Green Chili Salsa,$2.95 
+1158,Chips and Guacamole,$4.45 
+1159,Steak Salad Bowl,$11.89 
+1160,Chicken Burrito,$10.58 
+1161,Chicken Burrito,$8.19 
+1162,Side of Chips,$1.69 
+1163,Chicken Bowl,$8.75 
+1164,Chips,$2.15 
+1165,Canned Soft Drink,$1.25 
+1166,Chicken Burrito,$17.50 
+1167,6 Pack Soft Drink,$6.49 
+1168,Steak Crispy Tacos,$9.25 
+1169,Chips,$2.15 
+1170,Chicken Burrito,$8.75 
+1171,Chips and Guacamole,$4.45 
+1172,Chicken Bowl,$8.75 
+1173,Canned Soft Drink,$1.25 
+1174,Barbacoa Bowl,$11.48 
+1175,Barbacoa Bowl,$11.48 
+1176,Steak Bowl,$8.99 
+1177,Bottled Water,$2.18 
+1178,Chicken Bowl,$8.49 
+1179,Barbacoa Bowl,$8.99 
+1180,Chips and Roasted Chili-Corn Salsa,$2.39 
+1181,Chips and Tomatillo-Red Chili Salsa,$2.39 
+1182,Bottled Water,$2.18 
+1183,Chicken Bowl,$8.75 
+1184,Chips and Guacamole,$4.45 
+1185,Chicken Burrito,$11.25 
+1186,Carnitas Soft Tacos,$9.25 
+1187,Barbacoa Burrito,$9.25 
+1188,Chicken Bowl,$11.25 
+1189,Chicken Salad Bowl,$11.25 
+1190,Chips and Guacamole,$4.45 
+1191,Chips and Tomatillo Red Chili Salsa,$2.95 
+1192,Steak Bowl,$11.75 
+1193,Veggie Burrito,$8.49 
+1194,Chicken Soft Tacos,$8.49 
+1195,Carnitas Crispy Tacos,$8.99 
+1196,Side of Chips,$1.69 
+1197,Carnitas Burrito,$9.25 
+1198,Chicken Bowl,$11.25 
+1199,Steak Burrito,$11.75 
+1200,Carnitas Bowl,$9.25 
+1201,Chicken Burrito,$8.75 
+1202,Barbacoa Burrito,$11.75 
+1203,Chicken Burrito,$8.75 
+1204,Chicken Bowl,$8.75 
+1205,Chicken Bowl,$11.25 
+1206,Chicken Bowl,$11.25 
+1207,Chicken Bowl,$10.98 
+1208,Chicken Burrito,$11.25 
+1209,Chips and Guacamole,$4.45 
+1210,Chicken Bowl,$10.98 
+1211,Chicken Burrito,$8.49 
+1212,Carnitas Bowl,$8.99 
+1213,Izze,$3.39 
+1214,Chips and Guacamole,$3.99 
+1215,Steak Burrito,$8.99 
+1216,Canned Soda,$1.09 
+1217,Canned Soda,$1.09 
+1218,Chips and Tomatillo-Green Chili Salsa,$2.39 
+1219,Chicken Burrito,$17.50 
+1220,Chips and Guacamole,$4.45 
+1221,Chicken Bowl,$11.25 
+1222,Chicken Bowl,$11.25 
+1223,Chips and Guacamole,$4.45 
+1224,Steak Bowl,$9.25 
+1225,Chips and Guacamole,$4.45 
+1226,Chicken Bowl,$8.75 
+1227,Chips,$2.15 
+1228,Canned Soft Drink,$1.25 
+1229,Barbacoa Salad Bowl,$11.89 
+1230,Chips and Fresh Tomato Salsa,
+1231,Steak Burrito,$11.75 
+1232,Canned Soft Drink,$1.25 
+1233,Chicken Burrito,$11.25 
+1234,Chips and Guacamole,$4.45 
+1235,Barbacoa Bowl,$11.48 
+1236,Barbacoa Bowl,$11.48 
+1237,Chips and Fresh Tomato Salsa,$2.95 
+1238,Carnitas Burrito,$9.25 
+1239,Chicken Burrito,$8.75 
+1240,Barbacoa Soft Tacos,$9.25 
+1241,Chips and Fresh Tomato Salsa,$2.95 
+1242,Veggie Bowl,$11.25 
+1243,Canned Soft Drink,$1.25 
+1244,Carnitas Bowl,$11.75 
+1245,Canned Soft Drink,$1.25 
+1246,Steak Bowl,$8.99 
+1247,Chips and Fresh Tomato Salsa,$2.39 
+1248,Canned Soft Drink,$1.25 
+1249,Chicken Soft Tacos,$11.25 
+1250,Canned Soft Drink,$1.25 
+1251,Chicken Burrito,$11.25 
+1252,Veggie Burrito,$8.49 
+1253,Chips and Guacamole,$3.99 
+1254,Chicken Burrito,$35.00 
+1255,Steak Burrito,$27.75 
+1256,Veggie Burrito,$8.75 
+1257,Chips and Fresh Tomato Salsa,$11.80 
+1258,Chips and Guacamole,$8.90 
+1259,Chips and Tomatillo Green Chili Salsa,$5.90 
+1260,6 Pack Soft Drink,$6.49 
+1261,Veggie Burrito,$10.98 
+1262,Steak Burrito,$17.98 
+1263,Chips and Tomatillo-Green Chili Salsa,$2.39 
+1264,Barbacoa Bowl,$9.25 
+1265,Chicken Bowl,$8.75 
+1266,Chips,$2.15 
+1267,Chicken Soft Tacos,$8.75 
+1268,Chips and Guacamole,$4.45 
+1269,Chicken Burrito,$8.49 
+1270,Side of Chips,$1.69 
+1271,Chicken Burrito,$8.19 
+1272,Steak Burrito,$8.69 
+1273,Chicken Burrito,$10.98 
+1274,Chips and Guacamole,$3.99 
+1275,Steak Burrito,$11.48 
+1276,Steak Burrito,$11.48 
+1277,Chips and Guacamole,$4.45 
+1278,Chicken Soft Tacos,$8.75 
+1279,6 Pack Soft Drink,$6.49 
+1280,Chicken Burrito,$8.75 
+1281,Chicken Bowl,$8.75 
+1282,Steak Burrito,$9.25 
+1283,Canned Soft Drink,$1.25 
+1284,Chips and Guacamole,$4.45 
+1285,Chicken Burrito,$8.49 
+1286,Side of Chips,$1.69 
+1287,Carnitas Burrito,$9.25 
+1288,Chips and Guacamole,$4.45 
+1289,Steak Burrito,$8.99 
+1290,Canned Soda,$1.09 
+1291,Chicken Bowl,$11.25 
+1292,Chips and Roasted Chili Corn Salsa,$2.95 
+1293,Steak Bowl,$11.08 
+1294,Carnitas Bowl,$11.08 
+1295,Chips and Guacamole,$3.89 
+1296,Chicken Bowl,$10.98 
+1297,Veggie Bowl,$11.25 
+1298,Chicken Bowl,$8.75 
+1299,Chicken Bowl,$11.25 
+1300,Barbacoa Burrito,$9.25 
+1301,Chips,$4.30 
+1302,Chicken Bowl,$8.75 
+1303,Chicken Bowl,$8.49 
+1304,Chips and Guacamole,$3.99 
+1305,Side of Chips,$1.69 
+1306,Steak Bowl,
+1307,Chicken Bowl,$8.49 
+1308,Side of Chips,$1.69 
+1309,Steak Burrito,$11.75 
+1310,Chicken Burrito,$11.25 
+1311,Steak Salad Bowl,$11.89 
+1312,Steak Bowl,$9.25 
+1313,Chips and Tomatillo Red Chili Salsa,$2.95 
+1314,Steak Bowl,$9.25 
+1315,Chips and Fresh Tomato Salsa,$2.95 
+1316,Veggie Salad Bowl,$8.75 
+1317,Chips and Guacamole,$4.45 
+1318,Chips and Guacamole,$4.45 
+1319,Veggie Bowl,$8.75 
+1320,Chicken Burrito,$10.98 
+1321,Steak Burrito,$11.48 
+1322,Chicken Burrito,$8.49 
+1323,Steak Burrito,$9.25 
+1324,Chips and Guacamole,$4.45 
+1325,Steak Burrito,$11.75 
+1326,Barbacoa Salad Bowl,$11.89 
+1327,Steak Crispy Tacos,$8.99 
+1328,Chicken Burrito,$8.49 
+1329,Chicken Bowl,$8.75 
+1330,Steak Bowl,$9.25 
+1331,Chicken Burrito,$8.75 
+1332,Chicken Bowl,$8.75 
+1333,Steak Burrito,$11.75 
+1334,Barbacoa Soft Tacos,$11.75 
+1335,Chips and Guacamole,$4.45 
+1336,Chicken Burrito,$11.25 
+1337,Carnitas Burrito,$11.75 
+1338,Canned Soft Drink,$2.50 
+1339,Steak Burrito,$8.99 
+1340,Side of Chips,$1.69 
+1341,Carnitas Bowl,$11.75 
+1342,Chips,$2.15 
+1343,Canned Soft Drink,$1.25 
+1344,Carnitas Bowl,$9.25 
+1345,Chicken Crispy Tacos,$8.75 
+1346,Chips and Guacamole,$8.90 
+1347,Barbacoa Bowl,$9.25 
+1348,Chips and Tomatillo Red Chili Salsa,$2.95 
+1349,Veggie Burrito,$8.75 
+1350,Chicken Burrito,$11.25 
+1351,Chips and Guacamole,$8.90 
+1352,Chicken Salad Bowl,$11.25 
+1353,Steak Soft Tacos,$11.75 
+1354,Steak Bowl,$11.48 
+1355,Side of Chips,$1.69 
+1356,Nantucket Nectar,$3.39 
+1357,Barbacoa Bowl,$9.25 
+1358,Chips and Roasted Chili Corn Salsa,$2.95 
+1359,Carnitas Bowl,$8.99 
+1360,Side of Chips,$1.69 
+1361,Chicken Soft Tacos,$8.49 
+1362,Chicken Burrito,$10.98 
+1363,Veggie Bowl,$11.25 
+1364,Chips and Fresh Tomato Salsa,$2.95 
+1365,Steak Soft Tacos,$8.99 
+1366,Side of Chips,$1.69 
+1367,Chicken Bowl,$8.75 
+1368,Chips,$2.15 
+1369,Canned Soft Drink,$1.25 
+1370,Chicken Bowl,$8.75 
+1371,Chips and Roasted Chili Corn Salsa,$2.95 
+1372,Steak Burrito,$9.25 
+1373,Canned Soft Drink,$2.50 
+1374,Veggie Bowl,$11.25 
+1375,Canned Soft Drink,$1.25 
+1376,Carnitas Bowl,$11.75 
+1377,Canned Soft Drink,$2.50 
+1378,Chicken Bowl,$11.25 
+1379,Bottled Water,$1.50 
+1380,Chicken Soft Tacos,$8.75 
+1381,Canned Soft Drink,$1.25 
+1382,Chips and Tomatillo Red Chili Salsa,$2.95 
+1383,Barbacoa Bowl,$11.48 
+1384,Steak Burrito,
+1385,Chicken Bowl,$8.75 
+1386,Chicken Bowl,$8.75 
+1387,Chips,$2.15 
+1388,Steak Burrito,$11.75 
+1389,Canned Soft Drink,$1.25 
+1390,Carnitas Soft Tacos,$9.25 
+1391,Barbacoa Soft Tacos,$9.25 
+1392,6 Pack Soft Drink,$6.49 
+1393,Carnitas Bowl,$11.75 
+1394,Veggie Burrito,$8.49 
+1395,Veggie Soft Tacos,$8.49 
+1396,Canned Soda,$1.09 
+1397,Chicken Bowl,$10.98 
+1398,Chicken Burrito,$8.75 
+1399,Canned Soft Drink,$1.25 
+1400,Chips,$2.15 
+1401,Chicken Bowl,$11.25 
+1402,Bottled Water,$1.50 
+1403,Chicken Burrito,$11.25 
+1404,Veggie Bowl,$11.25 
+1405,Chicken Bowl,$8.49 
+1406,Chicken Burrito,$8.49 
+1407,Chicken Bowl,$8.75 
+1408,Bottled Water,$1.50 
+1409,Canned Soft Drink,$1.25 
+1410,Bottled Water,$1.50 
+1411,Chicken Bowl,$8.75 
+1412,Canned Soft Drink,$2.50 
+1413,Chips,$2.15 
+1414,Salad,$7.40 
+1415,Salad,$7.40 
+1416,Chips and Guacamole,$4.00 
+1417,Barbacoa Bowl,$9.25 
+1418,Barbacoa Salad Bowl,$9.39 
+1419,Barbacoa Bowl,$9.25 
+1420,Barbacoa Bowl,$9.25 
+1421,Barbacoa Salad Bowl,$9.39 
+1422,Chicken Salad Bowl,$11.25 
+1423,Chips and Guacamole,$8.90 
+1424,Chicken Burrito,$11.25 
+1425,Bottled Water,$6.00 
+1426,Chicken Soft Tacos,$11.25 
+1427,Chicken Bowl,$11.25 
+1428,Veggie Bowl,$11.25 
+1429,Chicken Bowl,$22.50 
+1430,Carnitas Bowl,$11.48 
+1431,Canned Soda,$1.09 
+1432,Chicken Bowl,$8.49 
+1433,Veggie Bowl,$8.49 
+1434,Chicken Burrito,$17.50 
+1435,Chicken Burrito,$11.25 
+1436,Bottled Water,$1.50 
+1437,Carnitas Soft Tacos,$9.25 
+1438,Chicken Soft Tacos,$8.75 
+1439,Chips and Guacamole,$3.99 
+1440,Veggie Burrito,$8.49 
+1441,Veggie Bowl,$8.75 
+1442,Chicken Bowl,$8.75 
+1443,Chicken Burrito,$8.75 
+1444,Chicken Burrito,$8.75 
+1445,Chicken Burrito,$8.75 
+1446,Steak Bowl,$11.75 
+1447,Bottled Water,$1.50 
+1448,Chicken Burrito,$11.25 
+1449,Chicken Bowl,$11.25 
+1450,Chips and Roasted Chili Corn Salsa,$2.95 
+1451,Steak Crispy Tacos,$8.99 
+1452,Chicken Burrito,$10.98 
+1453,Steak Burrito,$9.25 
+1454,Veggie Bowl,$8.75 
+1455,Chips and Guacamole,$4.45 
+1456,Chicken Bowl,
+1457,Canned Soda,$1.09 
+1458,Chips and Roasted Chili-Corn Salsa,$2.39 
+1459,Veggie Burrito,$8.75 
+1460,Chicken Salad Bowl,$8.75 
+1461,Steak Bowl,$11.48 
+1462,Carnitas Burrito,$8.99 
+1463,Chicken Burrito,$8.49 
+1464,Chicken Burrito,$8.49 
+1465,Chips and Fresh Tomato Salsa,$2.39 
+1466,Chicken Burrito,$10.98 
+1467,Chicken Soft Tacos,$8.49 
+1468,Chips and Guacamole,$3.99 
+1469,Steak Burrito,$11.75 
+1470,Chips and Guacamole,$4.45 
+1471,Chicken Salad Bowl,$8.75 
+1472,Chips,$2.15 
+1473,Canned Soft Drink,$1.25 
+1474,Chicken Bowl,$10.98 
+1475,Steak Bowl,$8.99 
+1476,Chicken Soft Tacos,$11.25 
+1477,Bottled Water,$1.50 
+1478,Chicken Bowl,$8.75 
+1479,Chips,$2.15 
+1480,Canned Soft Drink,$1.25 
+1481,Chicken Burrito,$8.75 
+1482,Steak Bowl,$9.25 
+1483,Chicken Salad Bowl,$8.75 
+1484,Chicken Bowl,$11.25 
+1485,Bottled Water,$1.50 
+1486,Chicken Burrito,$8.75 
+1487,Canned Soft Drink,$1.25 
+1488,Chips and Guacamole,$4.45 
+1489,Chicken Soft Tacos,$10.98 
+1490,Chicken Bowl,$8.75 
+1491,Chips and Tomatillo Red Chili Salsa,$2.95 
+1492,Canned Soft Drink,$1.25 
+1493,Chicken Burrito,$8.75 
+1494,Chips and Fresh Tomato Salsa,$2.95 
+1495,Canned Soft Drink,$1.25 
+1496,Chicken Soft Tacos,$8.49 
+1497,Veggie Burrito,$8.49 
+1498,Chips and Fresh Tomato Salsa,$2.39 
+1499,Chicken Bowl,$11.25 
+1500,Canned Soft Drink,$1.25 
+1501,Chicken Burrito,$8.75 
+1502,Chicken Burrito,$8.75 
+1503,Steak Bowl,$9.25 
+1504,Chicken Bowl,$8.75 
+1505,Steak Salad Bowl,$11.89 
+1506,Canned Soft Drink,$1.25 
+1507,Chicken Bowl,$8.75 
+1508,Chips,$2.15 
+1509,Canned Soft Drink,$1.25 
+1510,Steak Burrito,$8.99 
+1511,Canned Soda,$1.09 
+1512,Chicken Bowl,$8.75 
+1513,Chips and Guacamole,$4.45 
+1514,Chicken Bowl,$26.25 
+1515,Chicken Bowl,$8.75 
+1516,Chips and Guacamole,$4.45 
+1517,Steak Burrito,$11.75 
+1518,Chips and Tomatillo Green Chili Salsa,$2.95 
+1519,Chicken Bowl,$8.75 
+1520,Chicken Burrito,$8.75 
+1521,Steak Burrito,$11.75 
+1522,Chicken Burrito,$8.75 
+1523,Chicken Bowl,$11.25 
+1524,Chicken Salad Bowl,$11.25 
+1525,Chicken Bowl,$11.25 
+1526,Chips and Guacamole,$4.45 
+1527,Canned Soft Drink,
+1528,Chicken Bowl,$8.49 
+1529,Chicken Bowl,$8.49 
+1530,Chicken Bowl,$8.49 
+1531,Barbacoa Burrito,$8.99 
+1532,Barbacoa Burrito,$8.99 
+1533,Chips and Tomatillo-Red Chili Salsa,$2.39 
+1534,Chips and Tomatillo-Red Chili Salsa,$2.39 
+1535,Chips and Guacamole,$3.99 
+1536,Chicken Bowl,$8.75 
+1537,Chips and Guacamole,$4.45 
+1538,Chips,$2.15 
+1539,Steak Bowl,$9.25 
+1540,Canned Soft Drink,$1.25 
+1541,Chicken Burrito,$11.25 
+1542,Steak Soft Tacos,$11.75 
+1543,Chicken Bowl,$8.75 
+1544,Chips and Guacamole,$4.45 
+1545,Chicken Bowl,$11.25 
+1546,Chips,$2.15 
+1547,Chicken Salad Bowl,$8.75 
+1548,Chips and Guacamole,$4.45 
+1549,Chicken Burrito,$8.75 
+1550,Chicken Burrito,$8.75 
+1551,Canned Soft Drink,$1.25 
+1552,Chicken Bowl,$11.25 
+1553,Chips,$2.15 
+1554,Chicken Bowl,$8.75 
+1555,Chips and Roasted Chili Corn Salsa,$5.90 
+1556,Steak Bowl,$11.75 
+1557,Canned Soft Drink,$1.25 
+1558,Steak Burrito,$9.25 
+1559,Canned Soft Drink,$3.75 
+1560,Chicken Soft Tacos,$8.75 
+1561,Canned Soft Drink,$1.25 
+1562,Chips and Guacamole,$4.45 
+1563,Steak Bowl,$11.75 
+1564,Chips and Guacamole,$4.45 
+1565,Chicken Burrito,$8.75 
+1566,Steak Bowl,$23.50 
+1567,Chicken Burrito,$8.75 
+1568,Chips and Tomatillo Green Chili Salsa,$2.95 
+1569,Chicken Burrito,$8.75 
+1570,Chicken Bowl,$8.75 
+1571,Steak Salad Bowl,$11.89 
+1572,Chips and Guacamole,$4.45 
+1573,Chips and Tomatillo Green Chili Salsa,$2.95 
+1574,Canned Soft Drink,$1.25 
+1575,Chicken Bowl,$8.75 
+1576,Chips and Guacamole,$4.45 
+1577,Chips and Tomatillo Green Chili Salsa,$2.95 
+1578,Canned Soft Drink,$1.25 
+1579,Chicken Bowl,$8.75 
+1580,Chips,$2.15 
+1581,Canned Soft Drink,$1.25 
+1582,Steak Burrito,$11.75 
+1583,Chips and Tomatillo Green Chili Salsa,$2.95 
+1584,Barbacoa Burrito,$8.99 
+1585,Nantucket Nectar,$3.39 
+1586,Steak Burrito,$9.25 
+1587,Carnitas Soft Tacos,$9.25 
+1588,Chicken Bowl,$17.50 
+1589,Chips and Tomatillo Green Chili Salsa,$2.95 
+1590,Steak Salad Bowl,$11.89 
+1591,Bottled Water,$1.50 
+1592,Chicken Bowl,$11.25 
+1593,Chips and Tomatillo Green Chili Salsa,$2.95 
+1594,Carnitas Bowl,$9.25 
+1595,Chicken Burrito,$11.25 
+1596,Chicken Bowl,$11.25 
+1597,Chips and Roasted Chili Corn Salsa,$2.95 
+1598,Chicken Bowl,$8.75 
+1599,Barbacoa Burrito,$9.25 
+1600,Chips,$4.30 
+1601,Chicken Salad Bowl,$8.75 
+1602,Chicken Bowl,$8.75 
+1603,Chicken Bowl,$11.25 
+1604,Chicken Bowl,$8.75 
+1605,Chips,$4.30 
+1606,Chicken Burrito,$8.75 
+1607,Canned Soft Drink,$1.25 
+1608,Chips,$2.15 
+1609,Chicken Bowl,$8.49 
+1610,Chicken Bowl,$8.49 
+1611,Izze,$3.39 
+1612,Izze,$3.39 
+1613,Chicken Burrito,$10.98 
+1614,Chicken Soft Tacos,
+1615,Chips and Tomatillo-Green Chili Salsa,$2.39 
+1616,Chicken Burrito,$11.25 
+1617,Steak Soft Tacos,$11.75 
+1618,Steak Bowl,$11.75 
+1619,Canned Soft Drink,$1.25 
+1620,Chips and Tomatillo Red Chili Salsa,$5.90 
+1621,Chicken Salad Bowl,$8.75 
+1622,Veggie Bowl,$11.25 
+1623,Steak Bowl,$9.25 
+1624,Chips and Guacamole,$4.45 
+1625,Bottled Water,$1.50 
+1626,Nantucket Nectar,$3.39 
+1627,Carnitas Burrito,$8.99 
+1628,Chips and Roasted Chili-Corn Salsa,$2.39 
+1629,Chicken Bowl,$11.25 
+1630,Chips,$2.15 
+1631,Veggie Burrito,$11.25 
+1632,Carnitas Crispy Tacos,$11.75 
+1633,Steak Burrito,$11.75 
+1634,Chips and Guacamole,$4.45 
+1635,Steak Burrito,$11.75 
+1636,Chips and Guacamole,$4.45 
+1637,Steak Burrito,$9.25 
+1638,Chicken Bowl,$8.75 
+1639,Chicken Burrito,$8.49 
+1640,Steak Burrito,$8.99 
+1641,Chicken Burrito,$8.49 
+1642,Barbacoa Soft Tacos,$8.99 
+1643,Barbacoa Bowl,$11.75 
+1644,Veggie Bowl,$8.75 
+1645,Chicken Bowl,$8.49 
+1646,Chips and Guacamole,$3.99 
+1647,Chips and Guacamole,$3.89 
+1648,Barbacoa Burrito,$11.08 
+1649,Chicken Bowl,$8.49 
+1650,Barbacoa Bowl,$8.99 
+1651,Chicken Bowl,$8.49 
+1652,Veggie Burrito,$8.49 
+1653,Veggie Crispy Tacos,$8.49 
+1654,Chicken Burrito,$11.25 
+1655,Chips,$2.15 
+1656,Chicken Burrito,$17.50 
+1657,Chicken Soft Tacos,$8.75 
+1658,Chips and Roasted Chili Corn Salsa,$2.95 
+1659,Chicken Burrito,$8.49 
+1660,Chicken Bowl,$8.49 
+1661,Chicken Burrito,$10.98 
+1662,Canned Soda,$1.09 
+1663,Chicken Burrito,$11.25 
+1664,Chips,$2.15 
+1665,Chips and Tomatillo Red Chili Salsa,$2.95 
+1666,Canned Soft Drink,$1.25 
+1667,Chicken Burrito,$8.75 
+1668,Carnitas Soft Tacos,$9.25 
+1669,Barbacoa Soft Tacos,$9.25 
+1670,Barbacoa Bowl,$9.25 
+1671,Chips and Tomatillo Red Chili Salsa,$2.95 
+1672,Chicken Bowl,$8.75 
+1673,Chips,$2.15 
+1674,Canned Soft Drink,$1.25 
+1675,Steak Burrito,
+1676,Chips and Guacamole,$3.99 
+1677,Carnitas Burrito,$11.75 
+1678,Chips,$2.15 
+1679,Carnitas Bowl,$8.99 
+1680,Izze,$3.39 
+1681,Steak Burrito,$9.25 
+1682,Chicken Soft Tacos,$8.75 
+1683,Chicken Bowl,$11.25 
+1684,Chicken Bowl,$11.25 
+1685,Chips and Guacamole,$4.45 
+1686,Chicken Bowl,$8.75 
+1687,Chips,$2.15 
+1688,Canned Soft Drink,$1.25 
+1689,Steak Burrito,$11.75 
+1690,Chips and Guacamole,$4.45 
+1691,Steak Burrito,$9.25 
+1692,Chips and Fresh Tomato Salsa,$2.95 
+1693,Chicken Bowl,$8.49 
+1694,Veggie Salad,$8.49 
+1695,Veggie Burrito,$11.25 
+1696,Chicken Soft Tacos,$8.75 
+1697,Chips and Guacamole,$4.45 
+1698,Chicken Burrito,$11.25 
+1699,Veggie Soft Tacos,$11.25 
+1700,Chicken Burrito,$11.25 
+1701,Chicken Bowl,$11.25 
+1702,Chips and Guacamole,$4.45 
+1703,Chicken Bowl,$8.49 
+1704,Side of Chips,$1.69 
+1705,Chicken Bowl,$8.49 
+1706,Nantucket Nectar,$3.39 
+1707,Chicken Burrito,$8.75 
+1708,Chicken Salad Bowl,$11.25 
+1709,Steak Burrito,$9.25 
+1710,Chicken Burrito,$8.75 
+1711,Chicken Bowl,$11.25 
+1712,Chicken Burrito,$11.25 
+1713,Steak Burrito,
+1714,Chicken Burrito,$11.25 
+1715,Steak Burrito,$11.75 
+1716,Chicken Bowl,$11.25 
+1717,Steak Burrito,$11.75 
+1718,Chicken Burrito,$21.96 
+1719,Chicken Bowl,$10.98 
+1720,Side of Chips,$1.69 
+1721,Steak Soft Tacos,$11.48 
+1722,Steak Bowl,$8.99 
+1723,Chicken Burrito,$8.49 
+1724,Side of Chips,$1.69 
+1725,Steak Bowl,$9.25 
+1726,Chips,$2.15 
+1727,Bottled Water,$1.50 
+1728,Chicken Burrito,$11.25 
+1729,Bottled Water,$1.50 
+1730,Chicken Bowl,$8.75 
+1731,Chicken Bowl,$8.75 
+1732,Chips and Tomatillo Red Chili Salsa,$2.95 
+1733,Chicken Bowl,$8.49 
+1734,Side of Chips,$1.69 
+1735,Chicken Bowl,$8.75 
+1736,Chips and Tomatillo Red Chili Salsa,$2.95 
+1737,Canned Soft Drink,$1.25 
+1738,Chicken Salad Bowl,$11.25 
+1739,Chips,$2.15 
+1740,Carnitas Bowl,$11.08 
+1741,Chicken Bowl,$8.49 
+1742,Chicken Bowl,$8.49 
+1743,Chicken Bowl,$8.49 
+1744,Steak Bowl,$11.75 
+1745,Canned Soft Drink,$1.25 
+1746,Barbacoa Bowl,$11.75 
+1747,Chicken Burrito,$8.75 
+1748,Chicken Burrito,$8.75 
+1749,Veggie Bowl,$8.75 
+1750,Chips and Guacamole,$4.45 
+1751,Chicken Burrito,$11.25 
+1752,Bottled Water,$1.50 
+1753,Steak Burrito,
+1754,Barbacoa Soft Tacos,$11.75 
+1755,6 Pack Soft Drink,$6.49 
+1756,Chicken Salad Bowl,$8.75 
+1757,Chips and Guacamole,$4.45 
+1758,6 Pack Soft Drink,$6.49 
+1759,Chicken Bowl,$8.75 
+1760,Canned Soft Drink,$2.50 
+1761,Chips,$2.15 
+1762,Chicken Bowl,$8.49 
+1763,Chips and Tomatillo-Red Chili Salsa,$2.39 
+1764,Chicken Burrito,$8.75 
+1765,Steak Burrito,$11.75 
+1766,Chips and Guacamole,$4.45 
+1767,Carnitas Bowl,$8.99 
+1768,Veggie Burrito,$10.98 
+1769,Steak Burrito,$9.25 
+1770,Chips and Fresh Tomato Salsa,$2.95 
+1771,Steak Burrito,$9.25 
+1772,Carnitas Soft Tacos,
+1773,Steak Burrito,$11.75 
+1774,Chicken Burrito,$8.75 
+1775,Chicken Burrito,$8.75 
+1776,Chicken Burrito,$8.75 
+1777,Chicken Bowl,$10.98 
+1778,Veggie Burrito,$11.25 
+1779,Steak Bowl,$9.25 
+1780,Chicken Bowl,$8.75 
+1781,Chicken Soft Tacos,$8.75 
+1782,Chips,$2.15 
+1783,Chicken Bowl,$11.25 
+1784,Chips,
+1785,Chips and Guacamole,$4.45 
+1786,Steak Bowl,$11.75 
+1787,Chicken Bowl,$8.49 
+1788,Chips and Fresh Tomato Salsa,$2.39 
+1789,Carnitas Soft Tacos,$9.25 
+1790,Canned Soft Drink,$1.25 
+1791,Canned Soft Drink,$1.25 
+1792,Canned Soft Drink,$1.25 
+1793,Canned Soft Drink,$1.25 
+1794,Chicken Bowl,$8.75 
+1795,Chips,$2.15 
+1796,Chicken Bowl,$8.49 
+1797,Side of Chips,$1.69 
+1798,Chicken Bowl,$11.25 
+1799,Bottled Water,$1.50 
+1800,Chicken Burrito,$8.75 
+1801,Chicken Soft Tacos,$8.75 
+1802,Chicken Bowl,$8.49 
+1803,Chips and Guacamole,$3.99 
+1804,Barbacoa Bowl,$8.99 
+1805,Canned Soda,$1.09 
+1806,Chicken Salad Bowl,$11.25 
+1807,Canned Soft Drink,$1.25 
+1808,Chicken Burrito,$8.49 
+1809,Chips and Fresh Tomato Salsa,$2.39 
+1810,Chicken Soft Tacos,$8.49 
+1811,Chicken Bowl,$8.75 
+1812,Barbacoa Burrito,$9.25 
+1813,Chicken Salad Bowl,$11.25 
+1814,Chips and Guacamole,$4.45 
+1815,Chicken Salad Bowl,$11.25 
+1816,Steak Salad Bowl,$11.89 
+1817,Steak Burrito,$8.99 
+1818,Chicken Soft Tacos,$8.49 
+1819,Chicken Burrito,$8.75 
+1820,Chips and Guacamole,$4.45 
+1821,Chicken Burrito,
+1822,Steak Bowl,$11.75 
+1823,Steak Bowl,$11.75 
+1824,Chips and Guacamole,$8.90 
+1825,Barbacoa Salad Bowl,$9.39 
+1826,Chips and Fresh Tomato Salsa,$2.95 
+1827,Chicken Burrito,$8.49 
+1828,Chips and Guacamole,$3.99 
+1829,Chicken Bowl,$8.75 
+1830,Chips,$2.15 
+1831,Canned Soft Drink,$1.25 
+1832,Chicken Bowl,$21.96 
+1833,Veggie Bowl,$8.49 
+1834,Side of Chips,$1.69 
+1835,Chicken Burrito,$8.75 
+1836,Chips and Guacamole,$4.45 
+1837,Chicken Soft Tacos,$8.49 
+1838,Carnitas Crispy Tacos,$8.99 
+1839,Chicken Bowl,$8.49 
+1840,Chips and Guacamole,$3.99 
+1841,Veggie Bowl,$8.75 
+1842,Chicken Burrito,$8.75 
+1843,Chips and Fresh Tomato Salsa,$2.95 
+1844,Chicken Crispy Tacos,$8.75 
+1845,Chicken Burrito,$17.50 
+1846,Barbacoa Burrito,$9.25 
+1847,Chips and Tomatillo Green Chili Salsa,$2.95 
+1848,Chicken Bowl,$8.75 
+1849,6 Pack Soft Drink,$6.49 
+1850,Chips,$4.30 
+1851,Chicken Bowl,$8.75 
+1852,Chicken Bowl,$8.75 
+1853,Chips,$2.15 
+1854,Bottled Water,$1.50 
+1855,Chicken Bowl,$8.49 
+1856,Chicken Bowl,$8.49 
+1857,Chips and Tomatillo-Red Chili Salsa,$2.39 
+1858,Steak Burrito,$9.25 
+1859,Chips and Guacamole,$4.45 
+1860,6 Pack Soft Drink,$6.49 
+1861,Steak Burrito,$11.75 
+1862,Chips and Guacamole,$4.45 
+1863,Veggie Bowl,$10.98 
+1864,Side of Chips,$1.69 
+1865,Carnitas Salad Bowl,$9.39 
+1866,Barbacoa Crispy Tacos,$9.25 
+1867,Steak Bowl,$9.25 
+1868,Chips and Fresh Tomato Salsa,$2.95 
+1869,Chicken Burrito,$8.75 
+1870,Chips,$2.15 
+1871,Canned Soft Drink,$1.25 
+1872,Chicken Bowl,$11.25 
+1873,Carnitas Bowl,$9.25 
+1874,Chicken Soft Tacos,$8.75 
+1875,Veggie Bowl,$11.25 
+1876,Chicken Bowl,$8.75 
+1877,Chicken Bowl,$11.25 
+1878,Canned Soft Drink,$2.50 
+1879,Canned Soft Drink,$2.50 
+1880,Bottled Water,$6.00 
+1881,Chips and Guacamole,$8.90 
+1882,Chips and Fresh Tomato Salsa,$5.90 
+1883,Chicken Salad Bowl,$11.25 
+1884,Veggie Salad Bowl,$11.25 
+1885,Chicken Burrito,$8.49 
+1886,Chicken Burrito,$10.98 
+1887,Chicken Bowl,$8.75 
+1888,Chips,$2.15 
+1889,Bottled Water,$1.50 
+1890,Steak Bowl,$9.25 
+1891,Canned Soft Drink,$1.25 
+1892,Bottled Water,$1.50 
+1893,Chips,$2.15 
+1894,Canned Soft Drink,$1.25 
+1895,Chicken Bowl,$8.75 
+1896,Chips and Tomatillo Red Chili Salsa,$2.95 
+1897,Chicken Soft Tacos,$8.49 
+1898,Chips and Guacamole,$3.99 
+1899,Chicken Salad Bowl,$11.25 
+1900,Chips,$4.30 
+1901,Steak Bowl,$11.75 
+1902,Chips,$2.15 
+1903,Barbacoa Crispy Tacos,$18.50 
+1904,Chicken Bowl,$8.49 
+1905,Chips and Fresh Tomato Salsa,$2.39 
+1906,Chicken Bowl,$8.75 
+1907,Chips and Guacamole,$4.45 
+1908,Carnitas Bowl,$11.75 
+1909,Carnitas Burrito,$8.99 
+1910,Chips and Guacamole,$3.99 
+1911,Steak Burrito,$9.25 
+1912,Steak Soft Tacos,$9.25 
+1913,Bottled Water,$1.50 
+1914,Chicken Bowl,$8.75 
+1915,Chips and Tomatillo Red Chili Salsa,$2.95 
+1916,6 Pack Soft Drink,$6.49 
+1917,Carnitas Bowl,$11.75 
+1918,Chicken Burrito,$8.49 
+1919,Steak Burrito,$8.99 
+1920,Chicken Bowl,$8.75 
+1921,Chips and Guacamole,$4.45 
+1922,6 Pack Soft Drink,$6.49 
+1923,Chicken Salad Bowl,$22.50 
+1924,Steak Bowl,$9.25 
+1925,Chips and Roasted Chili Corn Salsa,$2.95 
+1926,Chicken Bowl,$8.49 
+1927,Side of Chips,$1.69 
+1928,Chicken Bowl,$10.98 
+1929,Chicken Bowl,$8.75 
+1930,Chips and Guacamole,$4.45 
+1931,Chicken Bowl,$11.25 
+1932,Chips and Tomatillo Red Chili Salsa,$2.95 
+1933,Steak Bowl,$8.99 
+1934,Chicken Bowl,$8.49 
+1935,Chips and Tomatillo-Green Chili Salsa,$2.39 
+1936,Steak Burrito,$11.75 
+1937,6 Pack Soft Drink,$6.49 
+1938,Chicken Soft Tacos,$11.25 
+1939,Steak Burrito,$11.75 
+1940,Chips and Fresh Tomato Salsa,$2.95 
+1941,Steak Bowl,$8.99 
+1942,Side of Chips,$1.69 
+1943,Steak Bowl,$8.99 
+1944,Canned Soda,$2.18 
+1945,Canned Soda,$1.09 
+1946,Steak Burrito,$8.99 
+1947,Carnitas Burrito,$8.99 
+1948,Canned Soda,$1.09 
+1949,Steak Burrito,$8.99 
+1950,Steak Burrito,$8.99 
+1951,Chicken Soft Tacos,$8.49 
+1952,Chicken Bowl,$10.98 
+1953,Canned Soda,$1.09 
+1954,Steak Burrito,$11.75 
+1955,Steak Bowl,$9.25 
+1956,Chicken Salad Bowl,$11.25 
+1957,Chicken Burrito,$11.25 
+1958,Chips,$2.15 
+1959,Veggie Burrito,$11.25 
+1960,Chicken Soft Tacos,$8.75 
+1961,Chips and Guacamole,$4.45 
+1962,Chips and Roasted Chili Corn Salsa,$2.95 
+1963,Carnitas Soft Tacos,$11.75 
+1964,Bottled Water,$1.50 
+1965,Steak Burrito,$8.99 
+1966,Chicken Bowl,$10.98 
+1967,Chips and Tomatillo-Green Chili Salsa,$2.39 
+1968,Chicken Burrito,$8.75 
+1969,Chips,$2.15 
+1970,Barbacoa Bowl,$9.25 
+1971,Bottled Water,$1.50 
+1972,Chicken Bowl,$8.75 
+1973,Chips,$2.15 
+1974,Chips and Guacamole,$3.99 
+1975,Steak Bowl,$8.99 
+1976,6 Pack Soft Drink,$6.49 
+1977,Chicken Salad Bowl,$8.75 
+1978,Chips and Guacamole,$8.90 
+1979,Steak Soft Tacos,$8.99 
+1980,Chips and Guacamole,$3.99 
+1981,Chicken Burrito,$17.50 
+1982,Veggie Burrito,$11.25 
+1983,Canned Soft Drink,$1.25 
+1984,Chicken Bowl,$10.98 
+1985,Barbacoa Soft Tacos,$9.25 
+1986,Chips and Guacamole,$4.45 
+1987,Canned Soft Drink,
+1988,Bottled Water,$3.00 
+1989,Chicken Bowl,$11.25 
+1990,Chips and Guacamole,$4.45 
+1991,Chips and Guacamole,$4.45 
+1992,Chips and Tomatillo Red Chili Salsa,$2.95 
+1993,Steak Burrito,$9.25 
+1994,Chicken Bowl,$11.25 
+1995,Chips,$2.15 
+1996,Chicken Bowl,$11.25 
+1997,Chicken Bowl,$11.25 
+1998,Chips and Guacamole,$4.45 
+1999,Chips and Tomatillo Red Chili Salsa,$2.95 
+2000,Carnitas Soft Tacos,$9.25 
+2001,Chicken Bowl,$11.25 
+2002,Canned Soft Drink,$1.25 
+2003,Chicken Bowl,$8.75 
+2004,Chips and Tomatillo Red Chili Salsa,$2.95 
+2005,Canned Soft Drink,$1.25 
+2006,Chicken Bowl,$8.75 
+2007,Chips and Guacamole,$4.45 
+2008,Steak Burrito,$11.48 
+2009,Steak Burrito,$11.48 
+2010,Chicken Bowl,$8.49 
+2011,Chips and Tomatillo-Red Chili Salsa,$2.39 
+2012,Chicken Bowl,$11.25 
+2013,Barbacoa Bowl,$11.75 
+2014,Chips,$2.15 
+2015,Bottled Water,$1.50 
+2016,Chips,$2.15 
+2017,Chicken Bowl,$8.75 
+2018,Chicken Bowl,$11.25 
+2019,Chips and Guacamole,$8.90 
+2020,Chicken Bowl,$11.25 
+2021,Chicken Bowl,
+2022,Canned Soft Drink,$1.25 
+2023,Chips and Guacamole,$4.45 
+2024,Steak Burrito,$9.25 
+2025,Steak Crispy Tacos,$9.25 
+2026,Chicken Burrito,$8.75 
+2027,Carnitas Bowl,$9.25 
+2028,Veggie Bowl,$8.75 
+2029,Chicken Burrito,$8.75 
+2030,Steak Bowl,$9.25 
+2031,Chicken Salad Bowl,$8.75 
+2032,Carnitas Burrito,$11.75 
+2033,Carnitas Bowl,$11.75 
+2034,Veggie Bowl,$8.75 
+2035,Chicken Bowl,$8.75 
+2036,Chips and Guacamole,$8.90 
+2037,Chips and Fresh Tomato Salsa,$2.95 
+2038,Chicken Bowl,$10.98 
+2039,Veggie Bowl,$8.49 
+2040,Chicken Burrito,$8.49 
+2041,Chicken Burrito,$10.98 
+2042,Steak Bowl,$8.99 
+2043,Steak Bowl,$8.99 
+2044,Steak Burrito,$11.75 
+2045,Chicken Burrito,$17.50 
+2046,Steak Bowl,$11.75 
+2047,Chips and Guacamole,$3.99 
+2048,Chicken Soft Tacos,$8.49 
+2049,Chicken Bowl,$10.98 
+2050,Side of Chips,$1.69 
+2051,Chicken Burrito,$17.50 
+2052,Steak Burrito,$8.99 
+2053,Chips and Roasted Chili-Corn Salsa,$2.39 
+2054,Steak Burrito,$8.99 
+2055,Chips and Fresh Tomato Salsa,$2.39 
+2056,Canned Soft Drink,$1.25 
+2057,Chicken Bowl,$8.75 
+2058,Chips and Tomatillo Red Chili Salsa,$2.95 
+2059,Steak Burrito,$11.75 
+2060,Chicken Soft Tacos,$11.25 
+2061,Chicken Burrito,$17.50 
+2062,Chicken Bowl,$8.49 
+2063,Veggie Bowl,$8.49 
+2064,Chips and Fresh Tomato Salsa,$2.39 
+2065,Chicken Bowl,$11.25 
+2066,Bottled Water,$1.50 
+2067,Veggie Burrito,$8.75 
+2068,Bottled Water,$3.00 
+2069,Canned Soft Drink,$1.25 
+2070,Chicken Bowl,$8.75 
+2071,Chips and Guacamole,$4.45 
+2072,Steak Bowl,$11.75 
+2073,Barbacoa Bowl,$11.75 
+2074,Chips and Guacamole,$4.45 
+2075,Chicken Bowl,$21.96 
+2076,Chicken Soft Tacos,$8.75 
+2077,Chips and Guacamole,$4.45 
+2078,Chicken Soft Tacos,$8.75 
+2079,Chicken Soft Tacos,$11.25 
+2080,Carnitas Soft Tacos,$9.25 
+2081,Steak Burrito,$8.99 
+2082,Chips and Fresh Tomato Salsa,$2.39 
+2083,Barbacoa Soft Tacos,$9.25 
+2084,Veggie Burrito,$8.75 
+2085,Chicken Burrito,$10.98 
+2086,Chicken Soft Tacos,$8.49 
+2087,Chips and Guacamole,$3.99 
+2088,Izze,$3.39 
+2089,Steak Bowl,$11.75 
+2090,Bottled Water,$1.50 
+2091,Chips and Guacamole,$4.45 
+2092,Carnitas Burrito,$9.25 
+2093,Chicken Burrito,$8.75 
+2094,Canned Soft Drink,$1.25 
+2095,Steak Bowl,$11.75 
+2096,Veggie Burrito,$8.75 
+2097,Bottled Water,$1.50 
+2098,Chicken Burrito,$8.75 
+2099,Chicken Bowl,$8.75 
+2100,Chips,$2.15 
+2101,Bottled Water,$1.50 
+2102,Chicken Burrito,$8.75 
+2103,Chips and Tomatillo Red Chili Salsa,$2.95 
+2104,Chicken Bowl,$8.75 
+2105,Chicken Burrito,$8.75 
+2106,Chicken Bowl,$17.50 
+2107,Chicken Burrito,$8.75 
+2108,6 Pack Soft Drink,$6.49 
+2109,Chips and Guacamole,$4.45 
+2110,Chicken Burrito,$11.25 
+2111,Chicken Salad Bowl,$11.25 
+2112,Chips,$4.30 
+2113,Chicken Salad Bowl,$8.75 
+2114,Chicken Bowl,$11.25 
+2115,Chips and Guacamole,$4.45 
+2116,Steak Burrito,$8.99 
+2117,Chips and Fresh Tomato Salsa,$2.39 
+2118,Steak Burrito,$9.25 
+2119,Carnitas Soft Tacos,$9.25 
+2120,Steak Burrito,$9.25 
+2121,Chips and Guacamole,$4.45 
+2122,Steak Burrito,$11.75 
+2123,Veggie Bowl,$11.25 
+2124,Chips and Fresh Tomato Salsa,$2.95 
+2125,Chips,$2.15 
+2126,Chicken Burrito,$11.25 
+2127,Chicken Burrito,$11.25 
+2128,Chicken Bowl,$8.75 
+2129,Chips,$2.15 
+2130,Bottled Water,$1.50 
+2131,Barbacoa Burrito,$9.25 
+2132,Chips and Guacamole,$4.45 
+2133,Chicken Burrito,$10.98 
+2134,Steak Burrito,$8.99 
+2135,Canned Soda,$2.18 
+2136,Chicken Burrito,$8.75 
+2137,Chips and Guacamole,$4.45 
+2138,Canned Soft Drink,$1.25 
+2139,Steak Soft Tacos,$8.99 
+2140,Chips and Roasted Chili-Corn Salsa,$2.39 
+2141,Chips and Guacamole,$4.45 
+2142,Chicken Burrito,$8.75 
+2143,Chicken Burrito,$10.98 
+2144,Steak Soft Tacos,$11.75 
+2145,Bottled Water,$1.50 
+2146,Chicken Bowl,$10.98 
+2147,Steak Bowl,$8.99 
+2148,Chicken Bowl,$8.49 
+2149,Chips and Guacamole,$3.99 
+2150,Steak Burrito,$8.99 
+2151,Chicken Soft Tacos,$8.49 
+2152,Chips and Guacamole,$3.99 
+2153,Chicken Burrito,$8.49 
+2154,Chicken Burrito,$8.49 
+2155,Steak Burrito,$8.99 
+2156,Veggie Salad Bowl,$11.25 
+2157,Chicken Bowl,$11.25 
+2158,Chicken Burrito,$10.98 
+2159,Chicken Burrito,$10.98 
+2160,Chicken Burrito,$10.98 
+2161,Chips and Tomatillo-Green Chili Salsa,$2.39 
+2162,Nantucket Nectar,$3.39 
+2163,Chicken Bowl,$8.75 
+2164,Canned Soft Drink,$1.25 
+2165,Chips and Fresh Tomato Salsa,$2.95 
+2166,Steak Bowl,$11.75 
+2167,Bottled Water,$1.50 
+2168,Chicken Bowl,$10.98 
+2169,Side of Chips,$1.69 
+2170,Chips and Guacamole,$4.45 
+2171,Chicken Burrito,$8.75 
+2172,Chicken Bowl,$8.75 
+2173,Chicken Bowl,$8.75 
+2174,Chicken Bowl,$8.75 
+2175,Chips and Guacamole,$4.45 
+2176,Steak Burrito,$9.25 
+2177,Veggie Burrito,$8.75 
+2178,Chicken Bowl,$11.25 
+2179,Chicken Bowl,$8.75 
+2180,Chips and Guacamole,$3.99 
+2181,Steak Bowl,$8.99 
+2182,Chicken Burrito,$8.49 
+2183,Chicken Bowl,$11.25 
+2184,Chicken Burrito,$11.25 
+2185,Chicken Burrito,$8.75 
+2186,Chips and Guacamole,$4.45 
+2187,Chicken Bowl,$8.75 
+2188,Chips and Guacamole,$4.45 
+2189,Canned Soft Drink,$1.25 
+2190,Chicken Bowl,$8.75 
+2191,Chicken Bowl,$8.75 
+2192,Bottled Water,$1.50 
+2193,Chips,$2.15 
+2194,Carnitas Bowl,$11.75 
+2195,Steak Burrito,$11.75 
+2196,Steak Bowl,$11.75 
+2197,Steak Bowl,$11.75 
+2198,Steak Bowl,$11.75 
+2199,Bottled Water,$1.50 
+2200,Chicken Burrito,$8.75 
+2201,Carnitas Soft Tacos,$9.25 
+2202,Canned Soft Drink,$1.25 
+2203,Chicken Burrito,$8.75 
+2204,Chips,$2.15 
+2205,Steak Burrito,$8.99 
+2206,Canned Soda,$1.09 
+2207,Chips and Guacamole,$4.45 
+2208,Chicken Burrito,$11.25 
+2209,Steak Bowl,$11.75 
+2210,Chips,$2.15 
+2211,Chicken Bowl,$8.75 
+2212,Chicken Burrito,$8.75 
+2213,Canned Soft Drink,$1.25 
+2214,Steak Bowl,$9.25 
+2215,Chips,$2.15 
+2216,Steak Burrito,$11.75 
+2217,Chicken Burrito,$11.25 
+2218,Veggie Burrito,$8.75 
+2219,Veggie Burrito,$11.25 
+2220,Chips and Guacamole,$4.45 
+2221,Chicken Burrito,$8.49 
+2222,Side of Chips,$1.69 
+2223,Veggie Salad Bowl,$8.75 
+2224,Chicken Salad Bowl,$8.75 
+2225,Steak Burrito,$8.99 
+2226,Chicken Soft Tacos,$8.49 
+2227,Steak Crispy Tacos,$9.25 
+2228,Chicken Bowl,$11.25 
+2229,Chips and Tomatillo Red Chili Salsa,$2.95 
+2230,Chips and Guacamole,$4.45 
+2231,Steak Crispy Tacos,$11.75 
+2232,6 Pack Soft Drink,$6.49 
+2233,Carnitas Bowl,$11.48 
+2234,Steak Bowl,$8.99 
+2235,Canned Soda,$4.36 
+2236,Steak Burrito,$11.48 
+2237,Steak Burrito,$8.99 
+2238,Chicken Burrito,$8.49 
+2239,Carnitas Burrito,$11.48 
+2240,Chicken Bowl,$8.75 
+2241,Chips,$2.15 
+2242,Bottled Water,$1.50 
+2243,Barbacoa Burrito,$8.99 
+2244,Side of Chips,$1.69 
+2245,Chicken Bowl,$11.25 
+2246,Canned Soft Drink,$1.25 
+2247,Carnitas Soft Tacos,$9.25 
+2248,Barbacoa Soft Tacos,$9.25 
+2249,Chicken Soft Tacos,$8.75 
+2250,Steak Soft Tacos,$9.25 
+2251,Chips and Guacamole,$8.90 
+2252,Chips,$2.15 
+2253,Barbacoa Bowl,$9.25 
+2254,Chicken Burrito,$10.98 
+2255,Chicken Burrito,$8.49 
+2256,Chicken Bowl,$8.75 
+2257,Barbacoa Burrito,$9.25 
+2258,Chips,$4.30 
+2259,Barbacoa Soft Tacos,$9.25 
+2260,Chicken Bowl,$8.75 
+2261,Chicken Burrito,$8.75 
+2262,Chips,$2.15 
+2263,Canned Soft Drink,$1.25 
+2264,Chicken Bowl,$8.75 
+2265,Canned Soft Drink,$1.25 
+2266,Chicken Bowl,$8.75 
+2267,Chips and Fresh Tomato Salsa,$5.90 
+2268,Carnitas Bowl,$9.25 
+2269,Veggie Salad Bowl,$8.75 
+2270,Carnitas Burrito,$9.25 
+2271,Chips and Guacamole,$4.45 
+2272,Steak Bowl,$9.25 
+2273,Steak Bowl,$11.75 
+2274,Canned Soft Drink,$2.50 
+2275,Steak Bowl,$9.25 
+2276,Chips,$2.15 
+2277,Steak Bowl,$9.25 
+2278,Bottled Water,$1.50 
+2279,Canned Soft Drink,$1.25 
+2280,Veggie Burrito,$11.25 
+2281,Chips and Tomatillo Red Chili Salsa,$2.95 
+2282,Chicken Bowl,$8.75 
+2283,Chicken Soft Tacos,$8.75 
+2284,Chicken Soft Tacos,$8.75 
+2285,Chicken Burrito,$10.98 
+2286,Chicken Burrito,$8.75 
+2287,Chicken Soft Tacos,$8.75 
+2288,Chicken Burrito,$8.75 
+2289,Chips,$2.15 
+2290,Canned Soft Drink,$1.25 
+2291,Chicken Burrito,$10.98 
+2292,Chicken Bowl,$8.75 
+2293,Chips,$2.15 
+2294,Bottled Water,$1.50 
+2295,Chicken Bowl,$8.75 
+2296,Chips and Tomatillo Green Chili Salsa,$2.95 
+2297,Canned Soft Drink,$1.25 
+2298,Carnitas Soft Tacos,$9.25 
+2299,Carnitas Soft Tacos,$9.25 
+2300,Chicken Burrito,$8.49 
+2301,Chips and Roasted Chili-Corn Salsa,$2.39 
+2302,Chicken Burrito,$8.75 
+2303,Chips and Guacamole,$4.45 
+2304,Steak Burrito,$9.25 
+2305,Chicken Bowl,$8.75 
+2306,Chicken Bowl,$8.75 
+2307,Chicken Bowl,$8.75 
+2308,Steak Bowl,$9.25 
+2309,Chicken Bowl,$8.75 
+2310,Steak Burrito,$9.25 
+2311,Chicken Burrito,$8.75 
+2312,Chicken Bowl,$8.75 
+2313,Chicken Bowl,$8.75 
+2314,Chicken Salad Bowl,$8.75 
+2315,Steak Bowl,$9.25 
+2316,Chicken Burrito,$8.75 
+2317,Steak Bowl,$9.25 
+2318,Chicken Bowl,$8.75 
+2319,Steak Bowl,$9.25 
+2320,Chicken Burrito,$8.75 
+2321,Chicken Bowl,$8.75 
+2322,Chicken Bowl,$8.75 
+2323,Barbacoa Burrito,$9.25 
+2324,Chicken Burrito,$8.75 
+2325,Steak Bowl,$9.25 
+2326,Veggie Bowl,$8.75 
+2327,Steak Burrito,$8.99 
+2328,Steak Burrito,$8.99 
+2329,Chicken Bowl,$8.75 
+2330,Chips and Tomatillo Red Chili Salsa,$2.95 
+2331,Canned Soft Drink,$1.25 
+2332,Steak Bowl,$11.75 
+2333,Bottled Water,$1.50 
+2334,Chicken Bowl,$11.25 
+2335,Chicken Bowl,$11.25 
+2336,Chicken Bowl,$8.75 
+2337,Bottled Water,$1.50 
+2338,Chips,$2.15 
+2339,Chicken Bowl,$16.98 
+2340,Steak Bowl,$11.75 
+2341,Bottled Water,$1.50 
+2342,Chicken Bowl,$8.75 
+2343,Chips,$4.30 
+2344,Bottled Water,$1.50 
+2345,Chicken Burrito,$8.75 
+2346,Chips and Roasted Chili Corn Salsa,$2.95 
+2347,Canned Soft Drink,$1.25 
+2348,Canned Soft Drink,$1.25 
+2349,Steak Burrito,$9.25 
+2350,Chips and Guacamole,$4.45 
+2351,Chicken Bowl,$11.25 
+2352,Chicken Burrito,$8.75 
+2353,Chips and Guacamole,$4.45 
+2354,Chicken Bowl,$8.75 
+2355,Chips,$2.15 
+2356,Canned Soft Drink,$1.25 
+2357,Chicken Bowl,$10.98 
+2358,Side of Chips,$1.69 
+2359,Chicken Burrito,$8.75 
+2360,Canned Soft Drink,$1.25 
+2361,Chicken Bowl,$8.75 
+2362,Canned Soft Drink,$1.25 
+2363,Chicken Bowl,$11.25 
+2364,Chicken Burrito,$8.75 
+2365,Chicken Bowl,$8.75 
+2366,Chicken Burrito,$8.49 
+2367,Side of Chips,
+2368,Carnitas Bowl,$9.25 
+2369,Steak Burrito,$11.75 
+2370,Chicken Bowl,$8.49 
+2371,Chips and Roasted Chili-Corn Salsa,$2.39 
+2372,Barbacoa Bowl,$9.25 
+2373,Chips and Roasted Chili Corn Salsa,$2.95 
+2374,6 Pack Soft Drink,$6.49 
+2375,Chicken Crispy Tacos,$8.75 
+2376,Veggie Bowl,$8.75 
+2377,Steak Burrito,$9.25 
+2378,Chicken Bowl,$8.75 
+2379,Nantucket Nectar,$6.78 
+2380,Steak Burrito,$17.98 
+2381,Nantucket Nectar,$3.39 
+2382,Carnitas Burrito,$11.75 
+2383,Chicken Bowl,$11.25 
+2384,Veggie Soft Tacos,$8.75 
+2385,Chips and Guacamole,$4.45 
+2386,Steak Bowl,$11.75 
+2387,Steak Bowl,$9.25 
+2388,Chicken Burrito,$8.75 
+2389,6 Pack Soft Drink,$6.49 
+2390,Steak Burrito,$8.99 
+2391,Chips and Fresh Tomato Salsa,$2.39 
+2392,Veggie Bowl,$8.75 
+2393,Chicken Burrito,$11.25 
+2394,Steak Burrito,$11.75 
+2395,Chips and Guacamole,$4.45 
+2396,Chicken Bowl,$8.75 
+2397,Chips,$2.15 
+2398,Barbacoa Burrito,$9.25 
+2399,Barbacoa Bowl,$9.25 
+2400,Barbacoa Burrito,$9.25 
+2401,Steak Salad Bowl,$11.89 
+2402,Steak Bowl,$11.75 
+2403,Chicken Salad Bowl,$11.25 
+2404,Carnitas Bowl,$9.25 
+2405,Steak Burrito,$9.25 
+2406,Chicken Bowl,$8.75 
+2407,Chicken Bowl,$8.75 
+2408,Chicken Bowl,$8.49 
+2409,Side of Chips,$1.69 
+2410,Bottled Water,$1.09 
+2411,Chicken Bowl,$11.25 
+2412,Bottled Water,$1.50 
+2413,Chicken Burrito,$11.25 
+2414,Chicken Burrito,$11.25 
+2415,Steak Bowl,$11.75 
+2416,Bottled Water,$1.50 
+2417,Chicken Burrito,$8.49 
+2418,Steak Crispy Tacos,$8.99 
+2419,Chicken Salad Bowl,$22.50 
+2420,Chicken Burrito,$8.75 
+2421,Chips,$4.30 
+2422,Chicken Crispy Tacos,$8.75 
+2423,Chicken Salad Bowl,$11.25 
+2424,Chips,$2.15 
+2425,Veggie Burrito,$11.25 
+2426,Chips and Tomatillo Red Chili Salsa,$2.95 
+2427,Chips and Guacamole,$4.45 
+2428,Chicken Bowl,$11.25 
+2429,Chicken Bowl,$8.49 
+2430,Nantucket Nectar,$3.39 
+2431,Chips and Fresh Tomato Salsa,$2.39 
+2432,Steak Bowl,$11.75 
+2433,Chips,$2.15 
+2434,Barbacoa Soft Tacos,$11.75 
+2435,Steak Burrito,$8.99 
+2436,Chips and Fresh Tomato Salsa,$2.39 
+2437,Chicken Bowl,$8.75 
+2438,Steak Burrito,$11.75 
+2439,Steak Salad Bowl,$11.89 
+2440,Canned Soft Drink,$1.25 
+2441,Bottled Water,$7.50 
+2442,Barbacoa Salad Bowl,$11.89 
+2443,Canned Soda,$1.09 
+2444,Veggie Bowl,$8.49 
+2445,Chips and Fresh Tomato Salsa,$2.39 
+2446,Chicken Bowl,$8.75 
+2447,Chicken Burrito,$8.75 
+2448,Chicken Bowl,
+2449,Chicken Bowl,$8.75 
+2450,Steak Soft Tacos,$9.25 
+2451,Chicken Bowl,$11.25 
+2452,Chicken Bowl,$8.75 
+2453,Chips and Guacamole,$8.90 
+2454,Carnitas Burrito,$9.25 
+2455,Chicken Soft Tacos,$8.75 
+2456,Chicken Burrito,$8.75 
+2457,Steak Bowl,$11.75 
+2458,Bottled Water,$3.00 
+2459,Bottled Water,$1.50 
+2460,Chicken Bowl,$11.25 
+2461,Steak Crispy Tacos,$11.75 
+2462,Barbacoa Burrito,$8.99 
+2463,Chicken Burrito,$10.98 
+2464,Chips and Guacamole,$4.45 
+2465,Chicken Soft Tacos,$8.75 
+2466,Chips,$2.15 
+2467,Steak Burrito,$9.25 
+2468,Chicken Burrito,$11.25 
+2469,Chips and Guacamole,$4.45 
+2470,Side of Chips,$1.69 
+2471,Veggie Bowl,$10.98 
+2472,Steak Bowl,$9.25 
+2473,Steak Bowl,$11.75 
+2474,Steak Burrito,$9.25 
+2475,Chips and Guacamole,$4.45 
+2476,Chicken Bowl,$10.98 
+2477,Chips and Guacamole,$3.99 
+2478,Chicken Bowl,$8.49 
+2479,Canned Soft Drink,$1.25 
+2480,Steak Burrito,$9.25 
+2481,Chips and Guacamole,$4.45 
+2482,Veggie Burrito,$10.98 
+2483,Chicken Bowl,$8.75 
+2484,Chicken Bowl,$8.75 
+2485,Steak Burrito,$11.75 
+2486,Chicken Burrito,$11.25 
+2487,Chicken Bowl,$8.49 
+2488,Carnitas Bowl,$11.48 
+2489,Chips and Guacamole,$4.45 
+2490,Canned Soft Drink,$1.25 
+2491,Chicken Burrito,$11.25 
+2492,Steak Burrito,$8.99 
+2493,Canned Soda,$1.09 
+2494,Chips and Fresh Tomato Salsa,$2.39 
+2495,Chicken Bowl,$11.25 
+2496,Chips,$2.15 
+2497,Chicken Bowl,$8.75 
+2498,Chips and Guacamole,$4.45 
+2499,Chicken Burrito,$8.49 
+2500,Side of Chips,$1.69 
+2501,Chicken Burrito,$10.98 
+2502,Side of Chips,$1.69 
+2503,Steak Burrito,$9.25 
+2504,Chips and Guacamole,$4.45 
+2505,Chicken Bowl,$11.25 
+2506,Chicken Soft Tacos,$8.75 
+2507,Chicken Crispy Tacos,$11.25 
+2508,Steak Burrito,$11.75 
+2509,Chicken Soft Tacos,$11.25 
+2510,Chicken Bowl,$22.50 
+2511,Chicken Bowl,$8.49 
+2512,Chips and Fresh Tomato Salsa,$2.39 
+2513,Canned Soft Drink,$2.50 
+2514,Chicken Soft Tacos,$8.75 
+2515,Chicken Crispy Tacos,$8.75 
+2516,Steak Burrito,$9.25 
+2517,Barbacoa Bowl,$9.25 
+2518,Chicken Bowl,$11.25 
+2519,Steak Burrito,$8.99 
+2520,Canned Soda,$1.09 
+2521,Barbacoa Burrito,$8.99 
+2522,Side of Chips,$1.69 
+2523,Carnitas Burrito,$11.75 
+2524,Canned Soft Drink,$1.25 
+2525,Chicken Bowl,$21.96 
+2526,Chicken Burrito,$8.75 
+2527,Chips,
+2528,Canned Soft Drink,$1.25 
+2529,Chicken Soft Tacos,$8.75 
+2530,Veggie Bowl,$11.25 
+2531,Steak Bowl,$9.25 
+2532,Chicken Burrito,$11.25 
+2533,Chicken Bowl,$8.75 
+2534,Chicken Burrito,$8.75 
+2535,Chicken Burrito,$11.25 
+2536,Chips,$2.15 
+2537,Carnitas Bowl,$8.99 
+2538,Canned Soda,$1.09 
+2539,Side of Chips,$1.69 
+2540,Chicken Bowl,$8.75 
+2541,Chips,$2.15 
+2542,Canned Soft Drink,$1.25 
+2543,Chicken Bowl,$8.49 
+2544,Canned Soda,$1.09 
+2545,Bottled Water,$1.09 
+2546,Side of Chips,$1.69 
+2547,Carnitas Bowl,$11.48 
+2548,Chicken Bowl,$8.49 
+2549,Chicken Crispy Tacos,$8.49 
+2550,Chips and Tomatillo-Red Chili Salsa,$4.78 
+2551,Carnitas Soft Tacos,$9.25 
+2552,Canned Soft Drink,$1.25 
+2553,Canned Soft Drink,$1.25 
+2554,Canned Soft Drink,$1.25 
+2555,Chicken Bowl,$11.25 
+2556,Chicken Crispy Tacos,$11.25 
+2557,Carnitas Bowl,$11.75 
+2558,Chips and Guacamole,$4.45 
+2559,Chicken Bowl,$11.25 
+2560,Chips and Guacamole,$4.45 
+2561,Steak Burrito,$8.99 
+2562,Canned Soda,$1.09 
+2563,Chicken Salad Bowl,$11.25 
+2564,Chips,$2.15 
+2565,Veggie Bowl,$11.25 
+2566,Steak Bowl,$9.25 
+2567,Carnitas Bowl,$11.75 
+2568,Veggie Bowl,$11.25 
+2569,Chicken Bowl,$11.25 
+2570,Steak Bowl,$9.25 
+2571,Chips and Fresh Tomato Salsa,$2.95 
+2572,Chicken Burrito,$11.25 
+2573,Chips and Guacamole,$4.45 
+2574,Chicken Bowl,$8.75 
+2575,Chips and Tomatillo Red Chili Salsa,$2.95 
+2576,Chips and Tomatillo Red Chili Salsa,$2.95 
+2577,Chicken Bowl,$11.25 
+2578,Bottled Water,$1.50 
+2579,Chicken Burrito,$10.98 
+2580,Chicken Bowl,$16.98 
+2581,Carnitas Burrito,$18.50 
+2582,Chicken Bowl,$10.98 
+2583,Chips and Guacamole,$3.99 
+2584,Canned Soda,$1.09 
+2585,Barbacoa Burrito,$9.25 
+2586,Carnitas Burrito,$9.25 
+2587,Chicken Burrito,$8.75 
+2588,Chips and Guacamole,$4.45 
+2589,Chicken Burrito,$17.50 
+2590,Chicken Bowl,$8.75 
+2591,Chips and Guacamole,$4.45 
+2592,Chicken Bowl,$8.75 
+2593,Canned Soft Drink,$1.25 
+2594,Chips and Guacamole,$4.45 
+2595,Steak Burrito,$9.25 
+2596,Chicken Burrito,$8.75 
+2597,Chicken Bowl,$8.75 
+2598,Chicken Burrito,$17.50 
+2599,Chips and Guacamole,$4.45 
+2600,Steak Salad Bowl,$9.39 
+2601,Canned Soft Drink,$1.25 
+2602,Chips and Roasted Chili Corn Salsa,$2.95 
+2603,Chicken Bowl,$11.25 
+2604,Chicken Crispy Tacos,$8.75 
+2605,Veggie Burrito,$8.75 
+2606,Chicken Bowl,$11.25 
+2607,Chips,$2.15 
+2608,Chips and Guacamole,$8.90 
+2609,Chicken Bowl,$11.25 
+2610,Carnitas Salad Bowl,$11.89 
+2611,Chicken Bowl,$10.98 
+2612,Chicken Burrito,$11.25 
+2613,Chips and Guacamole,$4.45 
+2614,Chicken Bowl,$11.25 
+2615,Chicken Salad Bowl,$11.25 
+2616,Chicken Bowl,$8.49 
+2617,Chicken Burrito,$10.98 
+2618,Chicken Burrito,$8.49 
+2619,Izze,$3.39 
+2620,Barbacoa Bowl,$9.25 
+2621,Chicken Bowl,$8.75 
+2622,Chips and Tomatillo Red Chili Salsa,$2.95 
+2623,Bottled Water,$3.00 
+2624,Steak Salad Bowl,$9.39 
+2625,Steak Burrito,$11.75 
+2626,Chips and Fresh Tomato Salsa,$2.95 
+2627,Bottled Water,$1.50 
+2628,Chicken Bowl,$11.25 
+2629,Steak Crispy Tacos,$11.75 
+2630,Chicken Bowl,$8.75 
+2631,Chips,$2.15 
+2632,Bottled Water,$1.50 
+2633,Chicken Burrito,$8.49 
+2634,Izze,$3.39 
+2635,Steak Bowl,$11.75 
+2636,Canned Soft Drink,$1.25 
+2637,Chicken Burrito,$17.50 
+2638,Veggie Burrito,$11.25 
+2639,Canned Soft Drink,$1.25 
+2640,Chicken Burrito,$8.75 
+2641,Chips and Tomatillo Green Chili Salsa,$2.95 
+2642,Canned Soft Drink,$1.25 
+2643,Chicken Burrito,$11.25 
+2644,Steak Bowl,$11.75 
+2645,Chips and Guacamole,$13.35 
+2646,Chicken Bowl,$11.25 
+2647,Carnitas Bowl,$11.75 
+2648,Chicken Burrito,$11.25 
+2649,Chicken Burrito,$11.25 
+2650,Chips and Guacamole,$4.45 
+2651,Chicken Crispy Tacos,$11.25 
+2652,Chicken Burrito,$8.49 
+2653,Nantucket Nectar,$3.39 
+2654,Steak Soft Tacos,$9.25 
+2655,Chips and Tomatillo Green Chili Salsa,$2.95 
+2656,Chips and Tomatillo-Green Chili Salsa,$4.78 
+2657,Chips and Fresh Tomato Salsa,$2.39 
+2658,Chips and Guacamole,$3.99 
+2659,Steak Burrito,$8.99 
+2660,Barbacoa Burrito,$8.99 
+2661,Chicken Soft Tacos,$11.25 
+2662,Chicken Soft Tacos,$11.25 
+2663,Chicken Bowl,$8.75 
+2664,Chicken Bowl,$11.25 
+2665,Chips and Tomatillo Red Chili Salsa,$2.95 
+2666,Chips and Guacamole,$4.45 
+2667,Barbacoa Bowl,$9.25 
+2668,Chicken Crispy Tacos,$8.75 
+2669,Chips and Guacamole,$4.45 
+2670,Chicken Burrito,$8.49 
+2671,Chicken Soft Tacos,$8.49 
+2672,Chicken Bowl,$10.98 
+2673,Veggie Bowl,$10.98 
+2674,Chips and Guacamole,$3.99 
+2675,Steak Burrito,$11.75 
+2676,Chicken Burrito,$8.75 
+2677,Steak Bowl,$11.75 
+2678,Chips and Guacamole,$4.45 
+2679,Bottled Water,$1.50 
+2680,Canned Soft Drink,$1.25 
+2681,Chicken Burrito,$8.49 
+2682,Chicken Burrito,$8.49 
+2683,Veggie Salad Bowl,$8.75 
+2684,Chicken Bowl,$8.75 
+2685,Veggie Burrito,$8.75 
+2686,Carnitas Burrito,$9.25 
+2687,Chicken Burrito,$8.75 
+2688,Chips and Fresh Tomato Salsa,$2.95 
+2689,Canned Soft Drink,$1.25 
+2690,Chicken Burrito,$11.25 
+2691,Bottled Water,$1.50 
+2692,Chicken Burrito,$11.25 
+2693,Chips and Guacamole,$4.45 
+2694,Steak Burrito,$9.25 
+2695,Chicken Soft Tacos,$8.75 
+2696,Chicken Burrito,$8.75 
+2697,Carnitas Burrito,$9.25 
+2698,Chicken Burrito,$8.75 
+2699,Chips and Guacamole,$4.45 
+2700,Bottled Water,$1.50 
+2701,Chicken Bowl,
+2702,Chicken Bowl,$8.75 
+2703,Chicken Burrito,$8.49 
+2704,Side of Chips,$1.69 
+2705,Chicken Bowl,$8.75 
+2706,Chips,$2.15 
+2707,Barbacoa Burrito,$9.25 
+2708,Chips,$2.15 
+2709,Bottled Water,$1.50 
+2710,Chicken Bowl,$11.25 
+2711,Steak Bowl,$11.75 
+2712,Chips,$2.15 
+2713,6 Pack Soft Drink,$6.49 
+2714,Steak Burrito,$9.25 
+2715,Carnitas Soft Tacos,$9.25 
+2716,Chicken Bowl,$11.25 
+2717,Chicken Bowl,$11.25 
+2718,Barbacoa Burrito,$11.75 
+2719,Carnitas Bowl,$11.75 
+2720,Steak Burrito,$11.75 
+2721,Chicken Burrito,$11.25 
+2722,Chicken Burrito,$8.75 
+2723,Chips,$2.15 
+2724,Canned Soft Drink,$1.25 
+2725,Carnitas Bowl,$11.75 
+2726,Steak Bowl,$9.25 
+2727,Chicken Burrito,$11.25 
+2728,Chicken Salad Bowl,$8.75 
+2729,Chips and Fresh Tomato Salsa,$5.90 
+2730,Chicken Burrito,$8.75 
+2731,Chips and Guacamole,$4.45 
+2732,Steak Soft Tacos,$9.25 
+2733,Carnitas Bowl,$9.25 
+2734,Chips and Guacamole,$4.45 
+2735,Chicken Burrito,$11.25 
+2736,Chips and Guacamole,$4.45 
+2737,Chicken Burrito,$11.25 
+2738,Chicken Bowl,$8.75 
+2739,Chips,$2.15 
+2740,Steak Salad Bowl,$11.89 
+2741,Chicken Bowl,$11.25 
+2742,Chicken Bowl,$8.75 
+2743,Chips and Tomatillo Red Chili Salsa,$2.95 
+2744,Bottled Water,$1.50 
+2745,Chicken Burrito,$8.75 
+2746,Chips,$4.30 
+2747,Chicken Bowl,$8.75 
+2748,Chicken Bowl,$11.25 
+2749,Barbacoa Bowl,$11.75 
+2750,Steak Bowl,$11.75 
+2751,Chips,$2.15 
+2752,Chicken Burrito,$11.25 
+2753,Steak Bowl,$8.99 
+2754,Bottled Water,$1.09 
+2755,Veggie Burrito,$8.49 
+2756,Veggie Salad,$8.49 
+2757,Chicken Burrito,$8.49 
+2758,Izze,$3.39 
+2759,Steak Burrito,$8.99 
+2760,Chicken Bowl,$10.98 
+2761,Chips and Guacamole,$3.99 
+2762,Barbacoa Bowl,$11.75 
+2763,Chips,$2.15 
+2764,Chicken Soft Tacos,$8.75 
+2765,Chips and Guacamole,$4.45 
+2766,Canned Soft Drink,$2.50 
+2767,Steak Burrito,$11.48 
+2768,Canned Soda,$1.09 
+2769,Chicken Burrito,$8.49 
+2770,Chicken Burrito,$8.49 
+2771,Chicken Bowl,$16.98 
+2772,Chips and Guacamole,$3.99 
+2773,Veggie Bowl,$10.98 
+2774,Canned Soda,$1.09 
+2775,Chicken Burrito,
+2776,Chips and Fresh Tomato Salsa,$2.95 
+2777,Chicken Bowl,$8.75 
+2778,Chicken Burrito,$8.75 
+2779,Chips and Fresh Tomato Salsa,$2.95 
+2780,Barbacoa Soft Tacos,$9.25 
+2781,Chicken Bowl,$11.25 
+2782,Chips,$2.15 
+2783,Steak Burrito,$9.25 
+2784,Chips and Guacamole,$4.45 
+2785,Chips and Guacamole,$4.45 
+2786,Barbacoa Burrito,$9.25 
+2787,Barbacoa Crispy Tacos,$11.75 
+2788,Steak Bowl,$11.75 
+2789,Chips,$2.15 
+2790,Carnitas Burrito,$9.25 
+2791,Chicken Burrito,$8.75 
+2792,Chicken Burrito,$11.25 
+2793,6 Pack Soft Drink,$6.49 
+2794,Chicken Bowl,$8.75 
+2795,Veggie Bowl,$11.25 
+2796,Chips and Fresh Tomato Salsa,$2.95 
+2797,Chicken Burrito,$10.98 
+2798,Chips and Guacamole,$3.99 
+2799,Bottled Water,$1.50 
+2800,Barbacoa Bowl,$9.25 
+2801,Chips,$2.15 
+2802,Chicken Soft Tacos,$8.75 
+2803,Veggie Bowl,$11.25 
+2804,Steak Salad Bowl,$11.89 
+2805,Chips and Guacamole,$4.45 
+2806,Bottled Water,$1.50 
+2807,Canned Soft Drink,$1.25 
+2808,Chicken Bowl,$8.75 
+2809,Chicken Bowl,$8.75 
+2810,Chips and Guacamole,$4.45 
+2811,Chicken Bowl,$11.25 
+2812,Steak Crispy Tacos,$11.75 
+2813,Chicken Bowl,$8.49 
+2814,Canned Soda,$1.09 
+2815,Bottled Water,$1.09 
+2816,Side of Chips,$1.69 
+2817,Steak Burrito,$8.99 
+2818,Nantucket Nectar,$3.39 
+2819,Steak Burrito,$8.99 
+2820,Side of Chips,$1.69 
+2821,Chicken Burrito,$8.49 
+2822,Steak Burrito,$8.99 
+2823,Bottled Water,$3.27 
+2824,Steak Burrito,$8.99 
+2825,Steak Burrito,$8.99 
+2826,Canned Soda,$1.09 
+2827,Chicken Bowl,$10.98 
+2828,Side of Chips,$1.69 
+2829,Chips and Guacamole,$3.99 
+2830,Chicken Soft Tacos,$8.49 
+2831,Canned Soda,$1.09 
+2832,Chicken Burrito,$8.75 
+2833,Chicken Burrito,$8.75 
+2834,Steak Burrito,$11.75 
+2835,Chicken Burrito,$8.75 
+2836,Steak Burrito,$9.25 
+2837,Chicken Bowl,$8.75 
+2838,Nantucket Nectar,$3.39 
+2839,Steak Burrito,$8.99 
+2840,Steak Soft Tacos,$8.99 
+2841,Chips and Fresh Tomato Salsa,$2.39 
+2842,Steak Crispy Tacos,$9.25 
+2843,Chicken Bowl,$8.75 
+2844,Steak Soft Tacos,$9.25 
+2845,Steak Burrito,$9.25 
+2846,Steak Burrito,$8.99 
+2847,Chips and Guacamole,$3.99 
+2848,Chips and Tomatillo-Green Chili Salsa,$2.39 
+2849,Veggie Burrito,$8.49 
+2850,Canned Soda,$1.09 
+2851,Veggie Soft Tacos,$8.49 
+2852,Steak Burrito,$8.99 
+2853,Nantucket Nectar,$3.39 
+2854,Chicken Soft Tacos,$11.25 
+2855,Canned Soft Drink,$1.25 
+2856,Steak Bowl,$8.99 
+2857,Chips and Guacamole,$3.99 
+2858,Chicken Salad Bowl,$8.75 
+2859,Chips and Guacamole,$8.90 
+2860,6 Pack Soft Drink,$6.49 
+2861,Chicken Burrito,$8.75 
+2862,Steak Crispy Tacos,$9.25 
+2863,Chicken Salad Bowl,$11.25 
+2864,Chicken Bowl,$11.25 
+2865,Chicken Burrito,$11.25 
+2866,Canned Soft Drink,$1.25 
+2867,Chicken Bowl,$8.75 
+2868,Steak Bowl,$9.25 
+2869,Chips and Guacamole,$4.45 
+2870,Canned Soft Drink,$1.25 
+2871,Chicken Burrito,$8.75 
+2872,Canned Soft Drink,$1.25 
+2873,Chips,$2.15 
+2874,Steak Crispy Tacos,$17.98 
+2875,Steak Burrito,$8.99 
+2876,Chicken Bowl,$8.75 
+2877,Chips and Tomatillo Red Chili Salsa,$2.95 
+2878,Canned Soft Drink,$1.25 
+2879,Steak Soft Tacos,$11.75 
+2880,Bottled Water,$1.50 
+2881,Bottled Water,$1.50 
+2882,Chicken Burrito,$8.75 
+2883,Chicken Salad Bowl,$8.75 
+2884,Carnitas Burrito,$11.08 
+2885,Steak Burrito,$8.99 
+2886,Side of Chips,$1.69 
+2887,Carnitas Bowl,$8.99 
+2888,Side of Chips,$1.69 
+2889,Chicken Burrito,$10.98 
+2890,Chips and Guacamole,$3.99 
+2891,Izze,$3.39 
+2892,Steak Bowl,$11.75 
+2893,Chips,$2.15 
+2894,Steak Burrito,$11.75 
+2895,Chips and Fresh Tomato Salsa,$2.95 
+2896,Chicken Bowl,$8.75 
+2897,Chicken Salad Bowl,$8.75 
+2898,Carnitas Soft Tacos,$11.75 
+2899,Chicken Bowl,$11.25 
+2900,Steak Burrito,$11.75 
+2901,Chicken Burrito,$11.25 
+2902,Chips and Guacamole,$4.45 
+2903,Veggie Bowl,$11.25 
+2904,Canned Soft Drink,$1.25 
+2905,Canned Soda,
+2906,Canned Soda,$2.18 
+2907,Chips and Roasted Chili-Corn Salsa,$2.39 
+2908,Chicken Crispy Tacos,$8.49 
+2909,Steak Burrito,$8.99 
+2910,Chips and Fresh Tomato Salsa,$2.39 
+2911,Veggie Burrito,$11.25 
+2912,Chicken Crispy Tacos,$8.75 
+2913,Carnitas Bowl,$11.75 
+2914,Carnitas Bowl,$11.75 
+2915,Chicken Bowl,$11.25 
+2916,Chips and Guacamole,$4.45 
+2917,Chips,$2.15 
+2918,Chicken Bowl,$8.19 
+2919,Chicken Bowl,$10.58 
+2920,Chips and Guacamole,$4.45 
+2921,Steak Bowl,$9.25 
+2922,Bottled Water,$1.09 
+2923,Steak Bowl,$8.99 
+2924,Chicken Burrito,$11.25 
+2925,Bottled Water,$1.50 
+2926,Carnitas Bowl,$8.99 
+2927,Chips and Guacamole,$3.99 
+2928,Chips and Guacamole,$4.45 
+2929,Steak Bowl,$11.75 
+2930,Chips,$2.15 
+2931,Chicken Bowl,$11.25 
+2932,Chicken Soft Tacos,$8.75 
+2933,Chips and Guacamole,$4.45 
+2934,Chicken Burrito,$8.75 
+2935,Barbacoa Burrito,$9.25 
+2936,Chips,$6.45 
+2937,Chicken Bowl,$8.75 
+2938,Chicken Salad Bowl,$11.25 
+2939,Veggie Bowl,$11.25 
+2940,Chicken Bowl,$8.75 
+2941,Steak Bowl,$11.75 
+2942,Chicken Bowl,$21.96 
+2943,Steak Burrito,$8.99 
+2944,Side of Chips,$5.07 
+2945,Chicken Bowl,$8.49 
+2946,Steak Burrito,$9.25 
+2947,Chicken Burrito,$11.25 
+2948,Chips and Guacamole,$4.45 
+2949,Nantucket Nectar,$3.39 
+2950,Chicken Burrito,$8.49 
+2951,Carnitas Burrito,$8.99 
+2952,Chicken Bowl,$8.49 
+2953,Chicken Burrito,$17.50 
+2954,Steak Burrito,$22.96 
+2955,Chicken Bowl,$8.75 
+2956,Chicken Bowl,$11.25 
+2957,Steak Salad Bowl,$11.89 
+2958,Chicken Bowl,$11.25 
+2959,Chicken Bowl,$8.49 
+2960,Side of Chips,$1.69 
+2961,Canned Soda,$1.09 
+2962,Barbacoa Burrito,$8.99 
+2963,Steak Crispy Tacos,$8.99 
+2964,Steak Burrito,$9.25 
+2965,Chicken Crispy Tacos,$8.75 
+2966,Barbacoa Burrito,$9.25 
+2967,Chips and Roasted Chili Corn Salsa,$2.95 
+2968,Chicken Salad,$8.49 
+2969,Chips and Guacamole,$3.99 
+2970,Steak Bowl,$8.99 
+2971,Chicken Bowl,$8.49 
+2972,Chips and Tomatillo-Red Chili Salsa,$7.17 
+2973,Chicken Bowl,$8.49 
+2974,Steak Bowl,$8.99 
+2975,Chicken Burrito,$17.50 
+2976,Steak Bowl,$9.25 
+2977,Steak Bowl,$9.25 
+2978,Chicken Burrito,$11.25 
+2979,Canned Soft Drink,$1.25 
+2980,Carnitas Bowl,$8.99 
+2981,Bottled Water,$1.09 
+2982,Chicken Bowl,$8.75 
+2983,Chips and Guacamole,$4.45 
+2984,Chicken Bowl,$11.25 
+2985,Chips,$2.15 
+2986,Barbacoa Burrito,$11.75 
+2987,Chicken Bowl,$11.25 
+2988,Chicken Salad Bowl,$11.25 
+2989,Chicken Salad Bowl,$8.75 
+2990,Chicken Burrito,$8.75 
+2991,Chips and Guacamole,$4.45 
+2992,Canned Soft Drink,$1.25 
+2993,Steak Burrito,$11.75 
+2994,Steak Burrito,$11.75 
+2995,Canned Soft Drink,$2.50 
+2996,Veggie Salad,$8.49 
+2997,Steak Burrito,$8.99 
+2998,Bottled Water,$2.18 
+2999,Chicken Bowl,$11.25 
+3000,Chips and Guacamole,$4.45 
+3001,Chicken Salad Bowl,$11.25 
+3002,Steak Bowl,$11.75 
+3003,Chicken Bowl,$8.49 
+3004,Carnitas Bowl,$8.99 
+3005,Side of Chips,$1.69 
+3006,Canned Soda,$1.09 
+3007,Steak Bowl,$8.99 
+3008,Barbacoa Burrito,$8.99 
+3009,Chicken Bowl,$11.25 
+3010,6 Pack Soft Drink,$6.49 
+3011,Chicken Bowl,$11.25 
+3012,Chicken Bowl,$8.75 
+3013,Chips and Guacamole,$4.45 
+3014,Steak Burrito,$8.99 
+3015,Side of Chips,$1.69 
+3016,Steak Bowl,$11.48 
+3017,Barbacoa Bowl,$11.75 
+3018,Canned Soft Drink,$2.50 
+3019,Chicken Bowl,$8.49 
+3020,Canned Soda,$1.09 
+3021,Bottled Water,$1.09 
+3022,Side of Chips,$1.69 
+3023,Chicken Bowl,$8.49 
+3024,Chips and Roasted Chili-Corn Salsa,$2.39 
+3025,Barbacoa Bowl,$11.75 
+3026,Canned Soft Drink,$1.25 
+3027,Chicken Burrito,$8.49 
+3028,Side of Chips,$1.69 
+3029,Veggie Burrito,$8.49 
+3030,Side of Chips,$1.69 
+3031,Barbacoa Burrito,$11.75 
+3032,Chips and Guacamole,$4.45 
+3033,Chicken Salad Bowl,$8.75 
+3034,Chicken Bowl,$8.75 
+3035,Chips and Guacamole,$4.45 
+3036,Veggie Burrito,$8.75 
+3037,Veggie Burrito,$11.25 
+3038,Chicken Bowl,$11.25 
+3039,Chicken Bowl,$8.75 
+3040,Chips and Guacamole,$7.98 
+3041,Chicken Crispy Tacos,$8.49 
+3042,Bottled Water,$1.09 
+3043,Chicken Soft Tacos,$8.49 
+3044,Chips and Guacamole,$3.99 
+3045,Chicken Salad,
+3046,Chips and Guacamole,$3.99 
+3047,Steak Bowl,$8.99 
+3048,Chips and Guacamole,$3.99 
+3049,Chicken Burrito,$11.25 
+3050,Chips and Guacamole,$4.45 
+3051,Chicken Bowl,$8.49 
+3052,Chips and Tomatillo-Red Chili Salsa,$2.39 
+3053,Chicken Bowl,$8.49 
+3054,Chips and Roasted Chili-Corn Salsa,$2.39 
+3055,Chips and Guacamole,$3.99 
+3056,Veggie Burrito,$8.49 
+3057,Canned Soft Drink,$1.25 
+3058,Chicken Bowl,$11.25 
+3059,Chips and Guacamole,$4.45 
+3060,Barbacoa Burrito,$9.25 
+3061,Chips and Guacamole,$4.45 
+3062,Canned Soda,$1.09 
+3063,Steak Burrito,$8.99 
+3064,Chips and Guacamole,$3.99 
+3065,Chicken Bowl,$11.25 
+3066,Chips and Guacamole,$8.90 
+3067,Carnitas Soft Tacos,$9.25 
+3068,Chicken Bowl,$11.25 
+3069,Chicken Salad Bowl,$8.75 
+3070,Chicken Bowl,$11.25 
+3071,Chicken Soft Tacos,$11.25 
+3072,Chicken Crispy Tacos,$11.25 
+3073,Chicken Bowl,$11.25 
+3074,Chicken Bowl,$11.25 
+3075,Steak Crispy Tacos,$8.99 
+3076,Chicken Bowl,$8.49 
+3077,Chicken Crispy Tacos,$8.75 
+3078,Chicken Crispy Tacos,$8.75 
+3079,Chips and Guacamole,$4.45 
+3080,Chicken Bowl,$16.98 
+3081,Steak Bowl,$11.75 
+3082,Veggie Bowl,$11.25 
+3083,Steak Bowl,$9.25 
+3084,Chips and Guacamole,$4.45 
+3085,Steak Crispy Tacos,$9.25 
+3086,Chips and Fresh Tomato Salsa,$2.95 
+3087,Chicken Bowl,$8.49 
+3088,Side of Chips,$1.69 
+3089,Canned Soft Drink,$3.75 
+3090,Chips and Guacamole,$4.45 
+3091,Steak Bowl,$9.25 
+3092,Bottled Water,$1.50 
+3093,Chicken Bowl,$11.25 
+3094,Steak Burrito,$11.48 
+3095,Veggie Bowl,$11.25 
+3096,Chips,$2.15 
+3097,Chicken Burrito,$8.75 
+3098,Steak Salad Bowl,$9.39 
+3099,Chicken Crispy Tacos,$8.49 
+3100,Chips and Guacamole,$3.99 
+3101,Chicken Bowl,$8.19 
+3102,Chips and Fresh Tomato Salsa,$2.29 
+3103,Carnitas Bowl,$11.48 
+3104,Side of Chips,
+3105,Steak Soft Tacos,$11.48 
+3106,Chips and Guacamole,$3.99 
+3107,Chicken Bowl,$8.49 
+3108,Side of Chips,$1.69 
+3109,Steak Burrito,$9.25 
+3110,Chips and Fresh Tomato Salsa,$2.95 
+3111,Chicken Burrito,$8.49 
+3112,Side of Chips,$1.69 
+3113,Veggie Burrito,$11.25 
+3114,Chips and Guacamole,$4.45 
+3115,Carnitas Salad Bowl,$9.39 
+3116,Steak Burrito,$9.25 
+3117,Chicken Salad Bowl,$8.75 
+3118,Chicken Burrito,$8.75 
+3119,Chips and Guacamole,$4.45 
+3120,Steak Salad Bowl,$11.89 
+3121,Chips and Guacamole,$4.45 
+3122,Chips and Guacamole,$4.45 
+3123,Chicken Burrito,$8.75 
+3124,Chicken Bowl,$8.75 
+3125,Chicken Burrito,$8.75 
+3126,Chips,$2.15 
+3127,Chicken Burrito,$8.75 
+3128,Canned Soft Drink,$3.75 
+3129,Steak Burrito,$9.25 
+3130,Chicken Burrito,$11.25 
+3131,Chips and Guacamole,$4.45 
+3132,6 Pack Soft Drink,$6.49 
+3133,Chicken Bowl,$16.98 
+3134,Steak Burrito,$18.50 
+3135,Canned Soft Drink,$2.50 
+3136,Chips and Tomatillo Red Chili Salsa,$2.95 
+3137,Chips and Guacamole,
+3138,Chicken Burrito,$8.49 
+3139,Chicken Burrito,$8.19 
+3140,Steak Burrito,$11.08 
+3141,6 Pack Soft Drink,$6.49 
+3142,Steak Bowl,$11.75 
+3143,Chips and Tomatillo-Green Chili Salsa,$2.39 
+3144,Steak Bowl,$8.99 
+3145,Canned Soda,$1.09 
+3146,Veggie Bowl,$11.25 
+3147,Chips and Guacamole,$4.45 
+3148,Veggie Bowl,$11.25 
+3149,Barbacoa Burrito,$8.99 
+3150,Side of Chips,$1.69 
+3151,Chicken Bowl,$21.96 
+3152,Canned Soda,$2.18 
+3153,Steak Burrito,$8.99 
+3154,Steak Bowl,$8.99 
+3155,Chips and Fresh Tomato Salsa,$2.39 
+3156,Barbacoa Burrito,$8.69 
+3157,Side of Chips,$1.69 
+3158,Chips and Guacamole,$8.90 
+3159,Canned Soft Drink,$2.50 
+3160,Chicken Soft Tacos,$8.75 
+3161,Steak Burrito,$8.99 
+3162,Canned Soda,$1.09 
+3163,Veggie Salad,$8.49 
+3164,Veggie Burrito,$8.49 
+3165,Veggie Bowl,$8.75 
+3166,Chips and Guacamole,$4.45 
+3167,Chicken Salad Bowl,$17.50 
+3168,Chicken Burrito,$8.75 
+3169,Steak Burrito,$9.25 
+3170,Chicken Burrito,$8.49 
+3171,Chips and Tomatillo-Red Chili Salsa,$2.39 
+3172,Chicken Bowl,$8.75 
+3173,Chips and Guacamole,$4.45 
+3174,Chicken Bowl,$11.25 
+3175,Chicken Salad Bowl,$11.25 
+3176,Steak Burrito,$11.75 
+3177,Chicken Bowl,$8.75 
+3178,Chicken Bowl,$8.49 
+3179,Chicken Bowl,$8.49 
+3180,Chicken Bowl,$8.49 
+3181,Steak Burrito,$8.99 
+3182,Chicken Bowl,$8.75 
+3183,Chips and Guacamole,$4.45 
+3184,Barbacoa Soft Tacos,$11.48 
+3185,Chicken Bowl,$8.75 
+3186,Canned Soft Drink,$1.25 
+3187,Chips,$2.15 
+3188,Steak Burrito,$9.25 
+3189,Chips and Guacamole,$4.45 
+3190,Steak Bowl,$11.75 
+3191,Chips,$2.15 
+3192,Chicken Crispy Tacos,$11.25 
+3193,Steak Burrito,$8.99 
+3194,Chips and Roasted Chili-Corn Salsa,$2.39 
+3195,Barbacoa Bowl,$8.69 
+3196,Steak Bowl,$8.69 
+3197,Steak Burrito,$11.75 
+3198,Chips and Fresh Tomato Salsa,$2.95 
+3199,Steak Burrito,$11.75 
+3200,Bottled Water,$1.50 
+3201,Steak Bowl,$9.25 
+3202,Chips and Guacamole,$4.45 
+3203,Bottled Water,$1.50 
+3204,Steak Burrito,$11.48 
+3205,Steak Soft Tacos,$8.99 
+3206,Chips and Roasted Chili-Corn Salsa,$2.39 
+3207,Chicken Bowl,$11.25 
+3208,Barbacoa Salad Bowl,$11.89 
+3209,Chips,$2.15 
+3210,Canned Soft Drink,$1.25 
+3211,Barbacoa Soft Tacos,$11.75 
+3212,Chips and Guacamole,$4.45 
+3213,Chicken Bowl,$8.75 
+3214,Chicken Bowl,$8.75 
+3215,Chicken Bowl,$11.25 
+3216,Chips and Guacamole,$4.45 
+3217,Chicken Bowl,$11.25 
+3218,Chips,$2.15 
+3219,Chips and Guacamole,$4.45 
+3220,Chicken Bowl,$8.49 
+3221,Canned Soda,$1.09 
+3222,Chips and Guacamole,$3.99 
+3223,Veggie Salad Bowl,$11.25 
+3224,Chicken Bowl,$11.25 
+3225,Chicken Bowl,$8.49 
+3226,Chips and Fresh Tomato Salsa,$2.39 
+3227,Steak Burrito,$8.99 
+3228,Chips and Fresh Tomato Salsa,$2.39 
+3229,Chicken Bowl,$11.25 
+3230,Chips,$2.15 
+3231,Chicken Burrito,$8.75 
+3232,Chips and Fresh Tomato Salsa,$2.95 
+3233,Canned Soft Drink,$1.25 
+3234,Veggie Burrito,$8.75 
+3235,Veggie Burrito,$11.25 
+3236,Chicken Burrito,$17.50 
+3237,Steak Burrito,$11.75 
+3238,Steak Bowl,$11.75 
+3239,Chicken Bowl,$11.25 
+3240,Chicken Crispy Tacos,$11.25 
+3241,Chips and Guacamole,$4.45 
+3242,Canned Soft Drink,$2.50 
+3243,Chicken Soft Tacos,$8.75 
+3244,Carnitas Bowl,$8.99 
+3245,Barbacoa Bowl,$8.99 
+3246,Side of Chips,$1.69 
+3247,Steak Burrito,$8.99 
+3248,Side of Chips,$1.69 
+3249,Chicken Bowl,$11.25 
+3250,Canned Soft Drink,$1.25 
+3251,Steak Burrito,$11.08 
+3252,Carnitas Burrito,$8.69 
+3253,Barbacoa Bowl,$8.99 
+3254,Canned Soda,$1.09 
+3255,Chicken Burrito,$11.25 
+3256,Chicken Burrito,$11.25 
+3257,Chips and Tomatillo Green Chili Salsa,$2.95 
+3258,Canned Soft Drink,$1.25 
+3259,Chicken Salad Bowl,$8.75 
+3260,Canned Soft Drink,$1.25 
+3261,Chicken Salad Bowl,$8.75 
+3262,Chicken Bowl,$8.75 
+3263,Chips,$2.15 
+3264,Canned Soft Drink,$1.25 
+3265,Chicken Bowl,$8.49 
+3266,Chips and Guacamole,$3.99 
+3267,Chicken Burrito,$8.49 
+3268,Chips and Roasted Chili-Corn Salsa,$2.39 
+3269,Chicken Bowl,$8.49 
+3270,Chips and Tomatillo-Red Chili Salsa,$7.17 
+3271,Chicken Burrito,$8.75 
+3272,Chips and Guacamole,$4.45 
+3273,Steak Burrito,$11.48 
+3274,Veggie Burrito,$8.75 
+3275,Veggie Bowl,$8.75 
+3276,Barbacoa Burrito,$11.48 
+3277,Chicken Bowl,$8.75 
+3278,Steak Bowl,$9.25 
+3279,Chicken Soft Tacos,$8.49 
+3280,Chips and Guacamole,$3.99 
+3281,Bottled Water,$1.50 
+3282,Chicken Bowl,$11.25 
+3283,Chicken Bowl,$11.25 
+3284,Chicken Bowl,$8.75 
+3285,Chicken Bowl,$8.75 
+3286,Chips and Guacamole,$4.45 
+3287,Steak Bowl,$9.25 
+3288,Chips and Guacamole,$4.45 
+3289,Chicken Burrito,$8.75 
+3290,Chicken Soft Tacos,$8.75 
+3291,Chips,$4.30 
+3292,Chips and Tomatillo Red Chili Salsa,$2.95 
+3293,Veggie Salad Bowl,$8.75 
+3294,Bottled Water,$4.50 
+3295,Steak Burrito,$9.25 
+3296,Chicken Burrito,$11.25 
+3297,Chips and Guacamole,$4.45 
+3298,Chicken Bowl,$11.25 
+3299,Chicken Bowl,$11.25 
+3300,Chicken Burrito,$8.75 
+3301,Barbacoa Burrito,$9.25 
+3302,Chicken Bowl,$8.75 
+3303,Chips,$2.15 
+3304,Canned Soft Drink,$1.25 
+3305,Chicken Bowl,$8.75 
+3306,Chips,$2.15 
+3307,Canned Soft Drink,$1.25 
+3308,Carnitas Soft Tacos,$8.99 
+3309,Chicken Crispy Tacos,$8.49 
+3310,Chicken Salad Bowl,$8.75 
+3311,Chicken Bowl,$8.75 
+3312,Canned Soft Drink,$1.25 
+3313,Steak Burrito,$11.75 
+3314,Bottled Water,$4.50 
+3315,Chicken Salad Bowl,$8.75 
+3316,Chicken Burrito,$8.75 
+3317,Chips and Guacamole,$3.99 
+3318,Nantucket Nectar,$3.39 
+3319,Chicken Burrito,$8.49 
+3320,Chips and Tomatillo-Green Chili Salsa,$2.39 
+3321,Barbacoa Crispy Tacos,$8.99 
+3322,Bottled Water,$1.50 
+3323,Chicken Bowl,$11.25 
+3324,Chicken Crispy Tacos,$11.25 
+3325,Chicken Bowl,$8.75 
+3326,Chicken Bowl,$8.75 
+3327,Chips,$2.15 
+3328,Chicken Bowl,$8.75 
+3329,Chips,$2.15 
+3330,Canned Soft Drink,$1.25 
+3331,Chicken Burrito,$21.96 
+3332,Chicken Burrito,
+3333,Side of Chips,$1.69 
+3334,Steak Bowl,$26.07 
+3335,Steak Bowl,$11.75 
+3336,Bottled Water,$1.50 
+3337,Steak Bowl,$8.99 
+3338,Carnitas Bowl,$8.99 
+3339,Steak Burrito,$11.48 
+3340,Carnitas Soft Tacos,$9.25 
+3341,Carnitas Soft Tacos,$9.25 
+3342,Chicken Burrito,$8.75 
+3343,Chicken Bowl,$8.75 
+3344,Chicken Burrito,$8.75 
+3345,Barbacoa Burrito,$9.25 
+3346,Chicken Bowl,$8.75 
+3347,Chicken Burrito,$8.75 
+3348,Chips,
+3349,Canned Soft Drink,$1.25 
+3350,Steak Salad Bowl,$11.89 
+3351,Veggie Burrito,$8.75 
+3352,Steak Burrito,$11.75 
+3353,Chips and Guacamole,$4.45 
+3354,Steak Bowl,$18.50 
+3355,Steak Bowl,$9.25 
+3356,Barbacoa Salad Bowl,$9.39 
+3357,Chicken Bowl,$8.49 
+3358,Chips and Tomatillo-Red Chili Salsa,$2.39 
+3359,Chicken Bowl,$8.49 
+3360,Side of Chips,$1.69 
+3361,Bottled Water,$1.09 
+3362,Steak Burrito,$8.99 
+3363,Chicken Salad,$8.49 
+3364,Canned Soda,$2.18 
+3365,Chicken Bowl,$11.25 
+3366,Canned Soft Drink,$1.25 
+3367,Veggie Burrito,$8.49 
+3368,Nantucket Nectar,$3.39 
+3369,Chicken Burrito,$8.49 
+3370,Chips and Guacamole,$3.99 
+3371,Chicken Burrito,$11.25 
+3372,Chicken Crispy Tacos,$8.75 
+3373,Chicken Burrito,$8.49 
+3374,Side of Chips,$1.69 
+3375,Chicken Burrito,$16.98 
+3376,Barbacoa Bowl,$9.25 
+3377,Steak Burrito,$9.25 
+3378,Steak Burrito,$11.75 
+3379,Canned Soft Drink,$1.25 
+3380,Chicken Salad Bowl,$11.25 
+3381,Chicken Salad Bowl,$8.75 
+3382,Chicken Burrito,$8.49 
+3383,Chicken Bowl,$8.49 
+3384,Chicken Bowl,$8.75 
+3385,Canned Soft Drink,
+3386,Canned Soft Drink,$1.25 
+3387,Canned Soft Drink,$1.25 
+3388,Chicken Burrito,$11.25 
+3389,6 Pack Soft Drink,$12.98 
+3390,Steak Burrito,$11.75 
+3391,Barbacoa Burrito,$11.75 
+3392,Chips and Guacamole,$4.45 
+3393,Chicken Bowl,$11.25 
+3394,Barbacoa Bowl,$11.75 
+3395,Chicken Bowl,$10.98 
+3396,Chicken Bowl,$8.49 
+3397,Veggie Bowl,$8.49 
+3398,Chips and Roasted Chili-Corn Salsa,$2.39 
+3399,Steak Burrito,$9.25 
+3400,Chicken Burrito,$11.25 
+3401,Chicken Burrito,$8.75 
+3402,Chips and Tomatillo Green Chili Salsa,$2.95 
+3403,Bottled Water,$1.50 
+3404,Veggie Burrito,$11.25 
+3405,Chips and Fresh Tomato Salsa,$2.95 
+3406,Steak Crispy Tacos,$9.25 
+3407,Chips and Fresh Tomato Salsa,$2.95 
+3408,Steak Bowl,$9.25 
+3409,Chicken Bowl,$8.75 
+3410,Chicken Salad Bowl,$11.25 
+3411,Chicken Salad Bowl,$8.75 
+3412,Veggie Bowl,$8.75 
+3413,Chips and Guacamole,$4.45 
+3414,Chicken Burrito,$11.25 
+3415,Canned Soft Drink,$1.25 
+3416,Chicken Burrito,$8.75 
+3417,Chips and Fresh Tomato Salsa,$2.95 
+3418,Canned Soft Drink,$2.50 
+3419,Steak Burrito,$9.25 
+3420,Barbacoa Burrito,$9.25 
+3421,Carnitas Burrito,$9.25 
+3422,6 Pack Soft Drink,$6.49 
+3423,Chicken Bowl,$17.50 
+3424,Chicken Bowl,$8.49 
+3425,Side of Chips,$1.69 
+3426,Chicken Burrito,$8.49 
+3427,Chips and Guacamole,$3.99 
+3428,Chicken Bowl,$8.75 
+3429,Chips and Tomatillo Red Chili Salsa,$2.95 
+3430,Chips and Tomatillo Red Chili Salsa,$2.95 
+3431,Chicken Burrito,$8.49 
+3432,Steak Bowl,$8.99 
+3433,Steak Burrito,$8.99 
+3434,Canned Soda,$1.09 
+3435,Chicken Burrito,$8.75 
+3436,Chips and Guacamole,$4.45 
+3437,Canned Soft Drink,$1.25 
+3438,Chicken Bowl,$11.25 
+3439,Steak Crispy Tacos,$11.75 
+3440,Chicken Bowl,$11.25 
+3441,Carnitas Burrito,$9.25 
+3442,Chicken Salad Bowl,$11.25 
+3443,Bottled Water,$1.50 
+3444,Chicken Bowl,
+3445,Chips,$2.15 
+3446,Chicken Burrito,$10.98 
+3447,Chicken Burrito,$8.75 
+3448,Steak Bowl,$11.75 
+3449,Chips and Roasted Chili Corn Salsa,$2.95 
+3450,Chicken Burrito,$11.25 
+3451,Chicken Bowl,$11.25 
+3452,Steak Soft Tacos,$9.25 
+3453,Chicken Burrito,$8.75 
+3454,Steak Burrito,$9.25 
+3455,Chicken Soft Tacos,$8.75 
+3456,Chicken Bowl,$8.75 
+3457,Chicken Bowl,$8.75 
+3458,Canned Soft Drink,$1.25 
+3459,Chicken Bowl,$11.25 
+3460,Bottled Water,$1.50 
+3461,Chips,$2.15 
+3462,Chicken Burrito,$8.75 
+3463,Chicken Burrito,$8.75 
+3464,Chicken Bowl,$11.25 
+3465,Chicken Burrito,$8.75 
+3466,Chicken Burrito,$8.75 
+3467,Chicken Bowl,$11.25 
+3468,Chips and Guacamole,$4.45 
+3469,Veggie Burrito,$8.49 
+3470,Veggie Burrito,$8.49 
+3471,Veggie Salad,$8.49 
+3472,Chicken Crispy Tacos,$8.49 
+3473,Steak Soft Tacos,$8.99 
+3474,Side of Chips,$1.69 
+3475,Chips and Fresh Tomato Salsa,$2.39 
+3476,Canned Soda,$1.09 
+3477,Canned Soda,$1.09 
+3478,Veggie Burrito,$11.25 
+3479,Chips and Tomatillo Green Chili Salsa,$2.95 
+3480,Carnitas Bowl,$35.25 
+3481,Chicken Bowl,$8.75 
+3482,Chips and Tomatillo Red Chili Salsa,$2.95 
+3483,Canned Soft Drink,$1.25 
+3484,Chicken Bowl,$11.25 
+3485,Chips,$2.15 
+3486,Steak Bowl,$9.25 
+3487,Chips and Guacamole,$4.45 
+3488,Chicken Burrito,$8.75 
+3489,Chicken Bowl,$8.75 
+3490,Chicken Burrito,$8.75 
+3491,Chips and Guacamole,$4.45 
+3492,Canned Soft Drink,$1.25 
+3493,Steak Salad Bowl,$11.89 
+3494,Chicken Bowl,$8.75 
+3495,Chips,$2.15 
+3496,Canned Soft Drink,$1.25 
+3497,Chicken Bowl,$8.49 
+3498,Canned Soda,$1.09 
+3499,Bottled Water,$1.09 
+3500,Side of Chips,$1.69 
+3501,Steak Burrito,$8.69 
+3502,Steak Salad,$8.69 
+3503,Steak Crispy Tacos,$9.25 
+3504,Chips and Fresh Tomato Salsa,$2.95 
+3505,Chicken Bowl,$10.98 
+3506,Chips and Fresh Tomato Salsa,$2.39 
+3507,Chicken Salad Bowl,$22.50 
+3508,Chicken Bowl,$21.96 
+3509,Chicken Bowl,$10.98 
+3510,Chicken Bowl,$8.49 
+3511,Side of Chips,$1.69 
+3512,Barbacoa Burrito,$11.75 
+3513,Chips and Tomatillo Green Chili Salsa,$2.95 
+3514,Chicken Bowl,$8.75 
+3515,Chicken Bowl,$11.25 
+3516,Chicken Burrito,$8.75 
+3517,Steak Burrito,$9.25 
+3518,Chicken Soft Tacos,$8.75 
+3519,Chicken Burrito,$8.19 
+3520,Chicken Burrito,$10.58 
+3521,Chicken Burrito,$8.75 
+3522,Chips and Tomatillo Green Chili Salsa,$2.95 
+3523,Bottled Water,$1.50 
+3524,Canned Soft Drink,$2.50 
+3525,Carnitas Bowl,$9.25 
+3526,Chips and Guacamole,$4.45 
+3527,Steak Burrito,$9.25 
+3528,Chicken Burrito,$11.25 
+3529,Carnitas Burrito,$8.69 
+3530,Steak Burrito,$8.69 
+3531,Chips and Guacamole,$3.89 
+3532,Steak Burrito,$8.69 
+3533,Side of Chips,$1.69 
+3534,Chips and Guacamole,$4.45 
+3535,Steak Burrito,$9.25 
+3536,Chicken Bowl,$11.25 
+3537,Chips and Guacamole,$4.45 
+3538,Chips,$2.15 
+3539,Chicken Burrito,$8.19 
+3540,Steak Burrito,$8.69 
+3541,Chips and Guacamole,$4.45 
+3542,Veggie Burrito,$11.25 
+3543,Canned Soft Drink,$1.25 
+3544,Chicken Burrito,$11.25 
+3545,Chicken Bowl,$8.75 
+3546,Barbacoa Salad Bowl,$11.89 
+3547,Barbacoa Bowl,$11.75 
+3548,Barbacoa Soft Tacos,$11.75 
+3549,Barbacoa Bowl,$9.25 
+3550,Chicken Bowl,$8.75 
+3551,Chips,$2.15 
+3552,Bottled Water,$1.50 
+3553,Steak Burrito,$11.75 
+3554,Chips and Guacamole,$4.45 
+3555,Chips and Guacamole,$3.99 
+3556,Steak Burrito,$8.99 
+3557,Chicken Burrito,$10.98 
+3558,Chips and Tomatillo-Red Chili Salsa,$2.39 
+3559,Canned Soft Drink,$1.25 
+3560,Chips and Tomatillo Green Chili Salsa,$2.95 
+3561,Chicken Bowl,$8.75 
+3562,Chips and Tomatillo Green Chili Salsa,$2.95 
+3563,Steak Burrito,$9.25 
+3564,Steak Burrito,$9.25 
+3565,Steak Burrito,$9.25 
+3566,Chicken Burrito,$8.75 
+3567,Chips,$2.15 
+3568,Steak Burrito,$9.25 
+3569,Steak Soft Tacos,$9.25 
+3570,Nantucket Nectar,$3.39 
+3571,Chicken Burrito,$8.49 
+3572,Chicken Soft Tacos,$8.49 
+3573,Chips and Tomatillo-Green Chili Salsa,$2.39 
+3574,Chicken Burrito,$10.98 
+3575,Canned Soda,$1.09 
+3576,Canned Soda,$1.09 
+3577,Chicken Burrito,$8.49 
+3578,Chicken Salad Bowl,$11.25 
+3579,Canned Soft Drink,$1.25 
+3580,Steak Bowl,$8.99 
+3581,Bottled Water,$1.09 
+3582,Chicken Bowl,$8.75 
+3583,Chips,$2.15 
+3584,Bottled Water,$1.50 
+3585,Chips and Guacamole,$3.99 
+3586,Chicken Bowl,$8.49 
+3587,Chicken Bowl,$8.75 
+3588,Chips,$2.15 
+3589,Bottled Water,$1.50 
+3590,Chicken Burrito,$8.49 
+3591,Chicken Bowl,$10.98 
+3592,Canned Soda,$2.18 
+3593,Chicken Crispy Tacos,$8.75 
+3594,Chips,$2.15 
+3595,Bottled Water,$1.50 
+3596,Chips and Guacamole,$4.45 
+3597,Steak Soft Tacos,$9.25 
+3598,Chips and Fresh Tomato Salsa,$44.25 
+3599,Bottled Water,$10.50 
+3600,6 Pack Soft Drink,$6.49 
+3601,Veggie Burrito,$33.75 
+3602,Chicken Burrito,$35.00 
+3603,Steak Burrito,$27.75 
+3604,Bottled Water,$3.00 
+3605,Chicken Bowl,$11.25 
+3606,Steak Crispy Tacos,$11.75 
+3607,Chicken Bowl,$10.98 
+3608,Chips and Fresh Tomato Salsa,$2.39 
+3609,Canned Soft Drink,$2.50 
+3610,Chicken Soft Tacos,$8.75 
+3611,Chips and Guacamole,$4.45 
+3612,Chicken Bowl,$16.98 
+3613,Chicken Burrito,$8.75 
+3614,6 Pack Soft Drink,$6.49 
+3615,Chicken Burrito,$16.98 
+3616,Steak Burrito,$17.98 
+3617,Veggie Bowl,$16.98 
+3618,Chicken Bowl,$16.98 
+3619,Carnitas Burrito,$8.99 
+3620,Carnitas Soft Tacos,$8.99 
+3621,Chicken Soft Tacos,$8.49 
+3622,Steak Burrito,$9.25 
+3623,Chicken Salad Bowl,$8.75 
+3624,Chips and Tomatillo Green Chili Salsa,$2.95 
+3625,Steak Soft Tacos,$11.48 
+3626,Chips and Tomatillo-Green Chili Salsa,$2.39 
+3627,Steak Burrito,$8.99 
+3628,Chips and Roasted Chili-Corn Salsa,$2.39 
+3629,Chicken Burrito,$11.25 
+3630,Chips and Guacamole,$4.45 
+3631,Chicken Crispy Tacos,$8.75 
+3632,Barbacoa Burrito,$9.25 
+3633,6 Pack Soft Drink,$6.49 
+3634,Chicken Burrito,$26.25 
+3635,Chicken Soft Tacos,$8.75 
+3636,Chicken Burrito,$26.25 
+3637,Chicken Soft Tacos,$8.75 
+3638,Chicken Crispy Tacos,$8.75 
+3639,Chicken Bowl,$11.25 
+3640,Chicken Salad Bowl,$11.25 
+3641,Chips,$2.15 
+3642,Canned Soft Drink,$1.25 
+3643,Steak Burrito,$11.75 
+3644,Chicken Burrito,$8.75 
+3645,Chips,$2.15 
+3646,Bottled Water,$1.50 
+3647,Chicken Bowl,$11.25 
+3648,Chips,$2.15 
+3649,Steak Burrito,$8.99 
+3650,Chips and Tomatillo-Red Chili Salsa,$2.39 
+3651,Chicken Bowl,$11.25 
+3652,Chicken Bowl,$11.25 
+3653,Chips,$2.15 
+3654,Chicken Bowl,$11.25 
+3655,Chicken Bowl,$11.25 
+3656,Chicken Salad Bowl,$8.75 
+3657,Chips and Tomatillo-Green Chili Salsa,$4.78 
+3658,Chicken Soft Tacos,$21.96 
+3659,Veggie Bowl,$8.49 
+3660,Chips and Tomatillo-Red Chili Salsa,$2.39 
+3661,Steak Burrito,$9.25 
+3662,Chips and Fresh Tomato Salsa,$2.95 
+3663,Chicken Bowl,$16.98 
+3664,Chicken Bowl,$8.19 
+3665,Chips and Guacamole,$3.89 
+3666,Steak Bowl,$8.99 
+3667,Bottled Water,$1.09 
+3668,Steak Burrito,$8.99 
+3669,Izze,$3.39 
+3670,Steak Burrito,$9.25 
+3671,Chips and Guacamole,$4.45 
+3672,Chicken Bowl,$10.98 
+3673,Chicken Bowl,$10.98 
+3674,Chicken Burrito,$17.50 
+3675,Chicken Bowl,$11.25 
+3676,Canned Soft Drink,$1.25 
+3677,Veggie Bowl,$8.75 
+3678,Steak Burrito,$11.75 
+3679,Chips and Guacamole,$4.45 
+3680,Chicken Bowl,$11.25 
+3681,Chicken Salad Bowl,$11.25 
+3682,Steak Burrito,$8.99 
+3683,Canned Soda,$1.09 
+3684,Chicken Bowl,$10.98 
+3685,Chicken Bowl,$8.49 
+3686,Side of Chips,$1.69 
+3687,Chicken Salad Bowl,$11.25 
+3688,Carnitas Soft Tacos,$9.25 
+3689,Chicken Burrito,$16.98 
+3690,Chicken Bowl,$8.75 
+3691,Chips and Guacamole,$4.45 
+3692,Chicken Burrito,$11.25 
+3693,6 Pack Soft Drink,$6.49 
+3694,Steak Crispy Tacos,$11.75 
+3695,Carnitas Soft Tacos,$9.25 
+3696,Barbacoa Burrito,$9.25 
+3697,Chicken Burrito,$8.75 
+3698,Chips and Guacamole,$4.45 
+3699,Canned Soft Drink,$2.50 
+3700,Chicken Bowl,$8.75 
+3701,Steak Bowl,$11.75 
+3702,Chicken Burrito,$8.75 
+3703,Steak Bowl,$9.25 
+3704,Steak Burrito,$11.75 
+3705,Steak Soft Tacos,$9.25 
+3706,Chicken Salad Bowl,$8.75 
+3707,Steak Bowl,$9.25 
+3708,Chicken Bowl,$8.75 
+3709,Chicken Bowl,$11.25 
+3710,Steak Soft Tacos,$11.75 
+3711,Carnitas Bowl,$9.25 
+3712,Chicken Salad Bowl,$8.75 
+3713,Steak Bowl,$11.75 
+3714,Chicken Burrito,$8.49 
+3715,Canned Soda,$1.09 
+3716,Canned Soda,$1.09 
+3717,Chicken Bowl,$8.49 
+3718,Canned Soda,$1.09 
+3719,Side of Chips,$1.69 
+3720,Chicken Bowl,$11.25 
+3721,Canned Soft Drink,$1.25 
+3722,Chicken Bowl,$8.75 
+3723,Chips,$2.15 
+3724,Bottled Water,$1.50 
+3725,Chicken Bowl,$8.49 
+3726,Side of Chips,$1.69 
+3727,Canned Soft Drink,$1.25 
+3728,Chicken Bowl,$8.75 
+3729,Chips and Tomatillo Red Chili Salsa,$2.95 
+3730,Chicken Salad,$8.49 
+3731,Chips and Guacamole,$3.99 
+3732,Chicken Burrito,$8.49 
+3733,Chicken Salad,$8.49 
+3734,Chicken Burrito,$8.75 
+3735,Veggie Bowl,$11.25 
+3736,Chips,$2.15 
+3737,Bottled Water,$1.50 
+3738,Steak Bowl,$11.75 
+3739,Steak Burrito,$8.99 
+3740,Canned Soda,$1.09 
+3741,Chicken Bowl,$10.98 
+3742,Chicken Bowl,$10.98 
+3743,Chicken Bowl,$11.25 
+3744,Canned Soft Drink,$1.25 
+3745,Veggie Bowl,$8.75 
+3746,Chips and Guacamole,$4.45 
+3747,Chips and Guacamole,$4.45 
+3748,Canned Soft Drink,$1.25 
+3749,Carnitas Salad Bowl,$11.89 
+3750,Carnitas Salad,$8.99 
+3751,Steak Burrito,$8.99 
+3752,Chicken Burrito,$11.25 
+3753,Chips and Guacamole,$4.45 
+3754,Steak Bowl,$23.50 
+3755,Veggie Burrito,$8.49 
+3756,Chips and Guacamole,$3.99 
+3757,Carnitas Burrito,$9.25 
+3758,Chips and Guacamole,$4.45 
+3759,Chips and Guacamole,$4.45 
+3760,Steak Burrito,$9.25 
+3761,Chicken Burrito,$8.75 
+3762,Chips and Guacamole,$4.45 
+3763,Chicken Burrito,$8.75 
+3764,Chicken Burrito,$8.75 
+3765,Steak Burrito,$11.75 
+3766,6 Pack Soft Drink,$6.49 
+3767,Chicken Burrito,$17.50 
+3768,Chips and Guacamole,
+3769,Chicken Burrito,$8.75 
+3770,Chips and Fresh Tomato Salsa,$2.95 
+3771,Bottled Water,$1.50 
+3772,Chicken Burrito,$8.75 
+3773,Chicken Bowl,$8.75 
+3774,Chicken Burrito,$8.75 
+3775,Chips and Guacamole,$4.45 
+3776,Veggie Burrito,$11.25 
+3777,Chicken Bowl,$11.25 
+3778,Steak Crispy Tacos,$11.75 
+3779,Chicken Burrito,$11.25 
+3780,Chips and Roasted Chili Corn Salsa,$2.95 
+3781,Chicken Bowl,$11.25 
+3782,Chips and Guacamole,$4.45 
+3783,Bottled Water,$3.00 
+3784,Canned Soft Drink,$1.25 
+3785,Chips and Fresh Tomato Salsa,$2.95 
+3786,Barbacoa Burrito,$9.25 
+3787,Steak Bowl,$8.99 
+3788,Chips and Tomatillo-Green Chili Salsa,$2.39 
+3789,6 Pack Soft Drink,$6.49 
+3790,Chicken Salad Bowl,$8.75 
+3791,Chips and Guacamole,$8.90 
+3792,Carnitas Bowl,$11.48 
+3793,Canned Soda,$1.09 
+3794,Chicken Burrito,$10.98 
+3795,Barbacoa Burrito,$9.25 
+3796,Steak Soft Tacos,$9.25 
+3797,Chicken Salad Bowl,$11.25 
+3798,Chicken Salad Bowl,$8.75 
+3799,Steak Burrito,$11.75 
+3800,Chicken Salad Bowl,$11.25 
+3801,Chicken Bowl,$11.25 
+3802,Canned Soft Drink,$1.25 
+3803,Carnitas Burrito,$9.25 
+3804,Chips and Guacamole,$4.45 
+3805,Steak Burrito,$9.25 
+3806,6 Pack Soft Drink,$6.49 
+3807,Steak Burrito,$11.75 
+3808,Steak Bowl,$11.75 
+3809,Barbacoa Burrito,$8.99 
+3810,Chips and Tomatillo-Green Chili Salsa,$2.39 
+3811,Chicken Bowl,$8.49 
+3812,Chicken Bowl,$8.49 
+3813,Barbacoa Burrito,$9.25 
+3814,Carnitas Soft Tacos,$9.25 
+3815,Canned Soft Drink,$1.25 
+3816,Chicken Crispy Tacos,$8.75 
+3817,Chips and Tomatillo Green Chili Salsa,$2.95 
+3818,Steak Burrito,$11.75 
+3819,Chips,$2.15 
+3820,Veggie Bowl,$8.49 
+3821,Veggie Burrito,$8.49 
+3822,Barbacoa Bowl,$8.69 
+3823,Chicken Burrito,$16.38 
+3824,Chicken Burrito,$8.19 
+3825,Chips and Guacamole,$3.89 
+3826,Chips and Fresh Tomato Salsa,$2.29 
+3827,Barbacoa Burrito,$11.75 
+3828,Chicken Burrito,$8.75 
+3829,Chicken Burrito,$8.75 
+3830,Chicken Bowl,$8.75 
+3831,Chips and Guacamole,$4.45 
+3832,Chicken Burrito,$8.49 
+3833,Chicken Soft Tacos,$8.49 
+3834,Steak Burrito,$9.25 
+3835,Chicken Burrito,$8.75 
+3836,6 Pack Soft Drink,$6.49 
+3837,Chips and Fresh Tomato Salsa,$2.95 
+3838,Chicken Bowl,$11.25 
+3839,Chicken Bowl,$11.25 
+3840,Chips,$2.15 
+3841,Steak Burrito,
+3842,Steak Burrito,$11.75 
+3843,Chicken Bowl,$21.96 
+3844,Chicken Burrito,$8.49 
+3845,Nantucket Nectar,$3.39 
+3846,Side of Chips,$1.69 
+3847,Veggie Burrito,$8.49 
+3848,Chicken Bowl,$8.75 
+3849,Chips and Guacamole,$4.45 
+3850,Chicken Bowl,$8.49 
+3851,Chips and Guacamole,$3.99 
+3852,Chicken Burrito,$11.25 
+3853,Chicken Bowl,$8.75 
+3854,Chicken Burrito,$11.25 
+3855,Chips,$2.15 
+3856,Steak Bowl,$11.75 
+3857,Chips and Guacamole,$4.45 
+3858,Chicken Burrito,$11.25 
+3859,Steak Burrito,$9.25 
+3860,Chicken Soft Tacos,$8.75 
+3861,Steak Burrito,$18.50 
+3862,Bottled Water,$1.50 
+3863,Chicken Bowl,$8.75 
+3864,Chips,$2.15 
+3865,Steak Bowl,$11.48 
+3866,Canned Soda,$2.18 
+3867,Chips and Guacamole,$3.99 
+3868,Chicken Bowl,$11.25 
+3869,Bottled Water,$1.50 
+3870,Steak Soft Tacos,$8.99 
+3871,Chips and Tomatillo-Green Chili Salsa,$2.39 
+3872,Steak Burrito,$11.75 
+3873,Bottled Water,$1.50 
+3874,Chicken Bowl,$11.25 
+3875,6 Pack Soft Drink,
+3876,Chips and Guacamole,$4.45 
+3877,Veggie Bowl,$11.25 
+3878,Chicken Burrito,
+3879,Chips and Guacamole,$3.99 
+3880,Canned Soft Drink,$2.50 
+3881,Chicken Burrito,$8.75 
+3882,Carnitas Burrito,$9.25 
+3883,Chips and Guacamole,$3.99 
+3884,Steak Burrito,$8.99 
+3885,Chicken Bowl,$8.75 
+3886,6 Pack Soft Drink,$6.49 
+3887,Side of Chips,$13.52 
+3888,Chicken Soft Tacos,$16.98 
+3889,Veggie Soft Tacos,$16.98 
+3890,Carnitas Crispy Tacos,$17.98 
+3891,Chicken Crispy Tacos,$16.98 
+3892,Chicken Bowl,$8.75 
+3893,Chicken Bowl,$8.75 
+3894,Chicken Bowl,$11.25 
+3895,Chicken Bowl,$11.25 
+3896,Chicken Burrito,$8.49 
+3897,Canned Soda,$1.09 
+3898,Side of Chips,$1.69 
+3899,Canned Soft Drink,$1.25 
+3900,Steak Soft Tacos,$9.25 
+3901,Chips and Tomatillo Green Chili Salsa,$2.95 
+3902,Barbacoa Burrito,$8.69 
+3903,Chicken Burrito,$8.19 
+3904,Chicken Burrito,$8.49 
+3905,Chips and Roasted Chili-Corn Salsa,$2.39 
+3906,Chicken Burrito,$8.49 
+3907,Chips and Fresh Tomato Salsa,$2.39 
+3908,Chicken Bowl,$10.98 
+3909,Steak Burrito,$8.99 
+3910,Steak Soft Tacos,$8.99 
+3911,Side of Chips,$1.69 
+3912,Veggie Burrito,$8.49 
+3913,Chicken Bowl,$8.75 
+3914,Chicken Burrito,$8.75 
+3915,Chicken Bowl,$11.25 
+3916,Chips and Guacamole,$4.45 
+3917,Chips and Guacamole,$4.45 
+3918,Chicken Burrito,$17.50 
+3919,Chicken Burrito,$8.75 
+3920,Chips and Guacamole,$4.45 
+3921,Chicken Bowl,$8.75 
+3922,Chips,
+3923,Bottled Water,$1.50 
+3924,Bottled Water,$1.50 
+3925,Steak Bowl,$8.99 
+3926,Canned Soda,$1.09 
+3927,Chicken Bowl,$8.75 
+3928,Chips and Guacamole,$4.45 
+3929,Chicken Bowl,$8.75 
+3930,Chicken Bowl,$8.75 
+3931,Chicken Bowl,$11.25 
+3932,Chips,$4.30 
+3933,Chicken Bowl,$8.49 
+3934,Side of Chips,$1.69 
+3935,Bottled Water,$1.09 
+3936,Canned Soda,$1.09 
+3937,Chicken Bowl,$8.75 
+3938,Chips,$2.15 
+3939,Bottled Water,$1.50 
+3940,Carnitas Soft Tacos,$8.99 
+3941,Chicken Burrito,$8.49 
+3942,Chips and Guacamole,$3.99 
+3943,Chicken Bowl,$8.75 
+3944,Chips,$2.15 
+3945,Canned Soft Drink,$1.25 
+3946,Steak Crispy Tacos,$9.25 
+3947,Chips and Fresh Tomato Salsa,$2.95 
+3948,Chicken Burrito,$11.25 
+3949,Chips and Guacamole,$4.45 
+3950,Steak Crispy Tacos,$9.25 
+3951,Chips and Fresh Tomato Salsa,$2.95 
+3952,Chips and Guacamole,$3.99 
+3953,Steak Burrito,$8.99 
+3954,Veggie Burrito,$8.49 
+3955,Chicken Burrito,$8.75 
+3956,Chicken Burrito,$8.75 
+3957,Chicken Burrito,$11.25 
+3958,Steak Burrito,$9.25 
+3959,Chicken Burrito,$8.75 
+3960,Chips and Guacamole,$4.45 
+3961,Chicken Burrito,$11.25 
+3962,Canned Soft Drink,$1.25 
+3963,Steak Burrito,$9.25 
+3964,Chicken Burrito,$11.25 
+3965,Chips and Guacamole,$4.45 
+3966,Chips and Fresh Tomato Salsa,$2.95 
+3967,Chicken Burrito,$10.98 
+3968,Chicken Bowl,$8.75 
+3969,Chicken Burrito,$8.75 
+3970,Steak Burrito,$18.50 
+3971,Steak Bowl,$9.25 
+3972,Steak Burrito,
+3973,Canned Soft Drink,$5.00 
+3974,Chicken Salad Bowl,$8.75 
+3975,Chips and Tomatillo Green Chili Salsa,$2.95 
+3976,Chicken Bowl,$16.98 
+3977,Chicken Bowl,$11.25 
+3978,Chips and Fresh Tomato Salsa,$2.95 
+3979,Chicken Bowl,$8.75 
+3980,Chips,$2.15 
+3981,Bottled Water,$1.50 
+3982,Chicken Salad,$8.49 
+3983,Chips and Fresh Tomato Salsa,$2.39 
+3984,Steak Bowl,$9.25 
+3985,Chips,$2.15 
+3986,Canned Soft Drink,$1.25 
+3987,Chicken Burrito,$8.19 
+3988,Steak Burrito,$8.69 
+3989,Chicken Salad,$8.19 
+3990,Chicken Burrito,$8.19 
+3991,Chicken Burrito,$8.75 
+3992,Chips and Tomatillo Green Chili Salsa,$2.95 
+3993,Canned Soft Drink,$1.25 
+3994,Steak Crispy Tacos,$9.25 
+3995,Chips and Tomatillo Green Chili Salsa,$2.95 
+3996,Chicken Bowl,$11.25 
+3997,Chicken Salad Bowl,$8.75 
+3998,Chicken Bowl,$11.25 
+3999,Chicken Bowl,$11.25 
+4000,Steak Burrito,$8.99 
+4001,Bottled Water,$1.09 
+4002,Barbacoa Burrito,$9.25 
+4003,Steak Burrito,$9.25 
+4004,Chips and Guacamole,$4.45 
+4005,Chicken Bowl,$8.49 
+4006,Chips and Guacamole,$3.99 
+4007,Chips and Tomatillo-Green Chili Salsa,$2.39 
+4008,Canned Soda,$1.09 
+4009,Steak Burrito,$8.99 
+4010,Chicken Bowl,$8.49 
+4011,Chicken Bowl,$8.75 
+4012,Chicken Salad Bowl,$8.75 
+4013,Chicken Bowl,$11.25 
+4014,Steak Crispy Tacos,$11.75 
+4015,Chips and Guacamole,$4.45 
+4016,Canned Soft Drink,$2.50 
+4017,Chicken Soft Tacos,$8.75 
+4018,Veggie Burrito,$8.49 
+4019,Nantucket Nectar,$3.39 
+4020,Chicken Burrito,$8.75 
+4021,Steak Bowl,$9.25 
+4022,Chips and Guacamole,$4.45 
+4023,Canned Soft Drink,$1.25 
+4024,Chicken Bowl,$11.25 
+4025,Chips,$2.15 
+4026,Chips and Guacamole,$4.45 
+4027,Canned Soft Drink,
+4028,Steak Bowl,$8.99 
+4029,Chips and Guacamole,$3.99 
+4030,Chicken Soft Tacos,$8.75 
+4031,Chips,$2.15 
+4032,Steak Bowl,$11.75 
+4033,Steak Burrito,$11.75 
+4034,Canned Soft Drink,$1.25 
+4035,Chicken Salad Bowl,$8.75 
+4036,Steak Salad Bowl,$9.39 
+4037,Chicken Burrito,$11.25 
+4038,Steak Soft Tacos,$9.25 
+4039,Barbacoa Burrito,$9.25 
+4040,Chips and Tomatillo Red Chili Salsa,$2.95 
+4041,Carnitas Burrito,$9.25 
+4042,Chips and Guacamole,$4.45 
+4043,Canned Soft Drink,$1.25 
+4044,Carnitas Bowl,$9.25 
+4045,Chicken Bowl,$8.75 
+4046,Barbacoa Bowl,$11.75 
+4047,Bottled Water,$1.50 
+4048,Chicken Bowl,$8.75 
+4049,Chips and Guacamole,$4.45 
+4050,Steak Bowl,$8.99 
+4051,Canned Soda,$1.09 
+4052,Steak Soft Tacos,$9.25 
+4053,Chips and Fresh Tomato Salsa,$2.95 
+4054,Steak Bowl,$8.99 
+4055,Side of Chips,$1.69 
+4056,Barbacoa Bowl,$8.69 
+4057,Side of Chips,$1.69 
+4058,Chicken Bowl,$11.25 
+4059,Chips and Guacamole,$4.45 
+4060,Chicken Bowl,$8.75 
+4061,Chicken Burrito,$8.75 
+4062,Chips and Guacamole,$4.45 
+4063,Chicken Bowl,$11.25 
+4064,Chicken Salad Bowl,$8.75 
+4065,Chips and Fresh Tomato Salsa,$2.95 
+4066,Bottled Water,$1.50 
+4067,Chicken Burrito,$8.19 
+4068,Steak Burrito,$8.69 
+4069,Bottled Water,$1.09 
+4070,Side of Chips,$1.69 
+4071,Chicken Bowl,$8.49 
+4072,Chicken Burrito,$8.75 
+4073,Chips and Fresh Tomato Salsa,$2.95 
+4074,Canned Soft Drink,$1.25 
+4075,Chicken Bowl,$8.49 
+4076,Chips and Guacamole,$3.99 
+4077,Chicken Bowl,$10.98 
+4078,Nantucket Nectar,$3.39 
+4079,Chicken Salad Bowl,$11.25 
+4080,Veggie Bowl,$11.25 
+4081,Chips,$2.15 
+4082,Steak Bowl,$18.50 
+4083,Veggie Burrito,$8.49 
+4084,Veggie Salad,$8.49 
+4085,Chicken Salad Bowl,$11.25 
+4086,Bottled Water,$1.50 
+4087,Chicken Bowl,$8.49 
+4088,Chips and Tomatillo-Red Chili Salsa,$2.39 
+4089,Steak Burrito,$8.99 
+4090,Chips and Fresh Tomato Salsa,$2.39 
+4091,Steak Burrito,$11.75 
+4092,Chips and Guacamole,$4.45 
+4093,Chicken Burrito,$17.50 
+4094,Steak Burrito,$9.25 
+4095,Carnitas Soft Tacos,$9.25 
+4096,Chicken Bowl,$8.75 
+4097,Chips and Guacamole,$4.45 
+4098,Canned Soft Drink,$3.75 
+4099,Chicken Bowl,$8.75 
+4100,Chips and Guacamole,$4.45 
+4101,Steak Burrito,$11.75 
+4102,Chips and Fresh Tomato Salsa,$2.95 
+4103,Canned Soft Drink,$1.25 
+4104,Chips and Guacamole,$4.45 
+4105,Chicken Bowl,$8.75 
+4106,Canned Soft Drink,$1.25 
+4107,Bottled Water,$1.50 
+4108,Steak Burrito,$9.25 
+4109,Veggie Salad Bowl,$11.25 
+4110,Chicken Bowl,$11.25 
+4111,Chicken Bowl,$11.25 
+4112,Chicken Bowl,$11.25 
+4113,Steak Burrito,$9.25 
+4114,Chicken Burrito,$11.25 
+4115,Chips and Guacamole,$4.45 
+4116,Chicken Crispy Tacos,$8.75 
+4117,Steak Burrito,$9.25 
+4118,Chicken Soft Tacos,$8.75 
+4119,Chicken Soft Tacos,$8.75 
+4120,Chips and Guacamole,$4.45 
+4121,Chicken Bowl,$8.75 
+4122,Canned Soft Drink,$1.25 
+4123,Chips,$2.15 
+4124,Chicken Bowl,$8.75 
+4125,Chicken Burrito,$8.75 
+4126,Chips,$4.30 
+4127,Chicken Bowl,$8.75 
+4128,Canned Soft Drink,$1.25 
+4129,Chips and Tomatillo Green Chili Salsa,$2.95 
+4130,Steak Soft Tacos,$9.25 
+4131,Chips and Tomatillo Red Chili Salsa,$2.95 
+4132,Chips and Guacamole,$4.45 
+4133,Chicken Bowl,$11.25 
+4134,Veggie Burrito,$11.25 
+4135,Barbacoa Bowl,$9.25 
+4136,Carnitas Soft Tacos,$9.25 
+4137,Bottled Water,$4.50 
+4138,Steak Burrito,$11.75 
+4139,Canned Soft Drink,$1.25 
+4140,Barbacoa Bowl,$11.75 
+4141,Carnitas Burrito,$11.75 
+4142,Canned Soft Drink,$1.25 
+4143,Canned Soft Drink,$1.25 
+4144,Steak Bowl,$9.25 
+4145,Chips and Guacamole,$4.45 
+4146,Chicken Burrito,$11.25 
+4147,Carnitas Soft Tacos,$11.75 
+4148,Chicken Burrito,$17.50 
+4149,Chips,$2.15 
+4150,Canned Soft Drink,$1.25 
+4151,Chicken Bowl,$11.25 
+4152,Bottled Water,$15.00 
+4153,Veggie Bowl,$11.25 
+4154,Chips and Guacamole,$4.45 
+4155,Chips and Guacamole,$4.45 
+4156,Chips and Tomatillo Red Chili Salsa,$2.95 
+4157,Chicken Bowl,$11.25 
+4158,Chips,$2.15 
+4159,Canned Soft Drink,
+4160,Bottled Water,$1.50 
+4161,Chicken Burrito,$8.75 
+4162,Chicken Soft Tacos,$11.25 
+4163,Chips and Fresh Tomato Salsa,$2.95 
+4164,Chicken Burrito,$11.25 
+4165,Canned Soft Drink,$1.25 
+4166,Chips,$2.15 
+4167,Chicken Bowl,$11.25 
+4168,Carnitas Bowl,$9.25 
+4169,6 Pack Soft Drink,$6.49 
+4170,Canned Soft Drink,$1.25 
+4171,Chicken Burrito,$8.75 
+4172,Chips,$2.15 
+4173,Chicken Bowl,$8.75 
+4174,6 Pack Soft Drink,$6.49 
+4175,Chicken Burrito,$11.25 
+4176,Bottled Water,$1.50 
+4177,Veggie Bowl,$8.75 
+4178,Chips and Guacamole,$4.45 
+4179,Chicken Burrito,$8.75 
+4180,Chips and Guacamole,$4.45 
+4181,Steak Soft Tacos,$9.25 
+4182,Barbacoa Soft Tacos,$9.25 
+4183,Canned Soft Drink,$1.25 
+4184,Canned Soft Drink,$1.25 
+4185,Chicken Bowl,$8.75 
+4186,Bottled Water,$4.50 
+4187,Chicken Bowl,$11.25 
+4188,Canned Soft Drink,$1.25 
+4189,Bottled Water,$1.50 
+4190,Steak Bowl,$9.25 
+4191,Chips,$2.15 
+4192,Chicken Bowl,$11.25 
+4193,Chips and Guacamole,$4.45 
+4194,Chicken Bowl,$11.25 
+4195,Chips and Guacamole,$4.45 
+4196,Chicken Bowl,$8.75 
+4197,Chips and Guacamole,$4.45 
+4198,Steak Burrito,$9.25 
+4199,Chips and Guacamole,$4.45 
+4200,Canned Soft Drink,$1.25 
+4201,Veggie Salad Bowl,
+4202,Chips and Guacamole,$4.45 
+4203,Chicken Bowl,$8.75 
+4204,Chips and Guacamole,$4.45 
+4205,Chicken Salad Bowl,$8.75 
+4206,Chips,$2.15 
+4207,Chicken Salad Bowl,$8.75 
+4208,Chips and Guacamole,$4.45 
+4209,Chicken Bowl,$8.75 
+4210,Steak Bowl,$11.75 
+4211,Bottled Water,$1.50 
+4212,Chicken Burrito,$11.25 
+4213,Chips and Guacamole,$4.45 
+4214,Chicken Bowl,$8.75 
+4215,Chips,$2.15 
+4216,Bottled Water,$1.50 
+4217,Chicken Bowl,$8.75 
+4218,Chips and Guacamole,$4.45 
+4219,Chicken Burrito,$8.75 
+4220,Steak Bowl,$11.75 
+4221,Chicken Bowl,$8.75 
+4222,Chicken Burrito,$8.75 
+4223,Chicken Salad Bowl,$11.25 
+4224,Veggie Bowl,$11.25 
+4225,Bottled Water,$1.50 
+4226,Chicken Bowl,$8.75 
+4227,Chips,$2.15 
+4228,Steak Bowl,$11.75 
+4229,Chips,$2.15 
+4230,Steak Soft Tacos,$9.25 
+4231,Chips and Fresh Tomato Salsa,$2.95 
+4232,Steak Bowl,$18.50 
+4233,Canned Soft Drink,$1.25 
+4234,Chips and Guacamole,$4.45 
+4235,Chicken Bowl,$8.50 
+4236,Chicken Bowl,$8.50 
+4237,Chips and Guacamole,$8.50 
+4238,Chicken Salad Bowl,$11.25 
+4239,Carnitas Salad Bowl,$11.89 
+4240,Canned Soft Drink,$1.25 
+4241,Steak Salad Bowl,$9.39 
+4242,Chips and Guacamole,$4.45 
+4243,Chicken Bowl,$8.75 
+4244,Chips,$2.15 
+4245,Bottled Water,$1.50 
+4246,Steak Burrito,$11.75 
+4247,Chicken Soft Tacos,$8.75 
+4248,Steak Burrito,$9.25 
+4249,Carnitas Burrito,$9.25 
+4250,Chips and Guacamole,$4.45 
+4251,Canned Soft Drink,$1.25 
+4252,Chicken Burrito,$11.25 
+4253,Steak Bowl,$9.25 
+4254,Chips and Tomatillo Green Chili Salsa,$2.95 
+4255,Chicken Bowl,$8.75 
+4256,Chicken Burrito,$8.75 
+4257,Chips,$2.15 
+4258,Chicken Burrito,$8.75 
+4259,Chicken Bowl,$11.25 
+4260,Chicken Bowl,$11.25 
+4261,Veggie Salad Bowl,$11.25 
+4262,Steak Burrito,$11.75 
+4263,Chicken Burrito,$11.25 
+4264,Chips,$2.15 
+4265,Veggie Bowl,$11.25 
+4266,Chips,$2.15 
+4267,Steak Bowl,$8.99 
+4268,Steak Burrito,$8.99 
+4269,Chicken Burrito,$8.75 
+4270,Steak Burrito,$9.25 
+4271,Barbacoa Soft Tacos,$9.25 
+4272,Chicken Burrito,$11.25 
+4273,Chicken Bowl,$8.75 
+4274,Chips and Guacamole,$4.45 
+4275,Chicken Burrito,$8.75 
+4276,Canned Soft Drink,$1.25 
+4277,Chips and Guacamole,$4.45 
+4278,Veggie Burrito,$11.25 
+4279,Canned Soft Drink,$1.25 
+4280,Chicken Burrito,$8.75 
+4281,Chicken Burrito,$8.75 
+4282,Veggie Bowl,$11.25 
+4283,Chicken Bowl,$8.75 
+4284,Canned Soft Drink,$1.25 
+4285,Canned Soft Drink,$1.25 
+4286,Canned Soft Drink,$1.25 
+4287,Steak Soft Tacos,$9.25 
+4288,Barbacoa Burrito,$11.75 
+4289,Chips,$2.15 
+4290,Chicken Soft Tacos,$8.75 
+4291,Chips and Guacamole,$4.45 
+4292,Chicken Bowl,$8.75 
+4293,Chips and Guacamole,$4.45 
+4294,Chicken Bowl,$11.25 
+4295,Steak Bowl,$9.25 
+4296,Chicken Burrito,$8.75 
+4297,Steak Soft Tacos,$9.25 
+4298,Chips and Guacamole,$4.45 
+4299,Steak Burrito,$11.75 
+4300,Chips and Guacamole,$4.45 
+4301,Canned Soft Drink,$1.25 
+4302,Chips and Guacamole,$4.45 
+4303,Steak Bowl,$11.75 
+4304,Steak Bowl,$9.25 
+4305,Chicken Bowl,$11.25 
+4306,Chips,$2.15 
+4307,Steak Bowl,$23.50 
+4308,Steak Bowl,$9.25 
+4309,Chips,$2.15 
+4310,Steak Burrito,$18.50 
+4311,Chicken Soft Tacos,$8.75 
+4312,Chips and Tomatillo Red Chili Salsa,$5.90 
+4313,Steak Salad Bowl,$11.89 
+4314,Chips and Guacamole,$4.45 
+4315,Veggie Bowl,$8.75 
+4316,Chips and Guacamole,$4.45 
+4317,Steak Burrito,$9.25 
+4318,Chips and Fresh Tomato Salsa,$2.95 
+4319,Veggie Burrito,$11.25 
+4320,Chips and Tomatillo Red Chili Salsa,$2.95 
+4321,Chicken Burrito,$11.25 
+4322,Chicken Crispy Tacos,$11.25 
+4323,Chicken Bowl,$11.25 
+4324,Chips and Fresh Tomato Salsa,$2.95 
+4325,Steak Burrito,$11.75 
+4326,Carnitas Soft Tacos,$9.25 
+4327,Steak Burrito,$9.25 
+4328,Chips and Tomatillo Green Chili Salsa,$2.95 
+4329,Chicken Bowl,$11.25 
+4330,Chips,$2.15 
+4331,Steak Burrito,$9.25 
+4332,Chips and Guacamole,$8.90 
+4333,Chicken Salad Bowl,$8.75 
+4334,Chicken Burrito,$11.25 
+4335,Chicken Salad Bowl,$11.25 
+4336,Veggie Bowl,$11.25 
+4337,Chicken Bowl,$8.75 
+4338,Chips,$2.15 
+4339,Canned Soft Drink,$1.25 
+4340,Chicken Bowl,$11.25 
+4341,Canned Soft Drink,$1.25 
+4342,Chicken Bowl,$8.75 
+4343,Chips and Guacamole,$4.45 
+4344,Canned Soft Drink,$1.25 
+4345,Chicken Bowl,$11.25 
+4346,Chicken Crispy Tacos,$11.25 
+4347,Barbacoa Burrito,$11.75 
+4348,Canned Soft Drink,$1.25 
+4349,Chicken Salad Bowl,$11.25 
+4350,Chicken Burrito,$11.25 
+4351,Chicken Bowl,$11.25 
+4352,Chicken Salad Bowl,$8.75 
+4353,Chicken Burrito,$8.75 
+4354,Steak Soft Tacos,$18.50 
+4355,Barbacoa Burrito,$11.75 
+4356,Canned Soft Drink,$1.25 
+4357,Chips and Guacamole,$4.45 
+4358,Barbacoa Burrito,$9.25 
+4359,6 Pack Soft Drink,$6.49 
+4360,Chips and Guacamole,$4.45 
+4361,Chicken Burrito,$8.75 
+4362,Chicken Bowl,$11.25 
+4363,6 Pack Soft Drink,$6.49 
+4364,Steak Bowl,$11.75 
+4365,Chicken Burrito,$8.75 
+4366,Steak Bowl,$9.25 
+4367,Chicken Bowl,$11.25 
+4368,Chips,$2.15 
+4369,Chicken Bowl,$8.75 
+4370,Chips and Guacamole,$4.45 
+4371,Chicken Crispy Tacos,$11.25 
+4372,Chips and Guacamole,$4.45 
+4373,Chicken Burrito,$8.75 
+4374,Carnitas Bowl,$9.25 
+4375,Chips and Guacamole,$4.45 
+4376,Canned Soft Drink,$1.25 
+4377,Canned Soft Drink,$1.25 
+4378,Chicken Bowl,$8.75 
+4379,Chicken Burrito,$11.25 
+4380,Barbacoa Bowl,$11.75 
+4381,Chips,$2.15 
+4382,Steak Burrito,$11.75 
+4383,Chips and Guacamole,$4.45 
+4384,Steak Burrito,$11.75 
+4385,Canned Soft Drink,$1.25 
+4386,Carnitas Burrito,$11.75 
+4387,Steak Bowl,$11.75 
+4388,Chicken Salad Bowl,$11.25 
+4389,Chips,$4.30 
+4390,Barbacoa Salad Bowl,$9.39 
+4391,Steak Salad Bowl,$9.39 
+4392,Chicken Bowl,$8.75 
+4393,Canned Soft Drink,$1.25 
+4394,Steak Burrito,$9.25 
+4395,Chips and Guacamole,$4.45 
+4396,Chicken Bowl,$11.25 
+4397,Canned Soft Drink,$1.25 
+4398,Chicken Bowl,$8.75 
+4399,Canned Soft Drink,$1.25 
+4400,Chips and Tomatillo Green Chili Salsa,$2.95 
+4401,Chicken Bowl,$11.25 
+4402,Chips and Guacamole,$4.45 
+4403,Chicken Burrito,$8.75 
+4404,Bottled Water,$1.50 
+4405,Chips and Guacamole,$4.45 
+4406,Chips and Guacamole,$4.45 
+4407,Steak Burrito,$9.25 
+4408,Chicken Bowl,$8.75 
+4409,Chips and Tomatillo Red Chili Salsa,$2.95 
+4410,Canned Soft Drink,$1.25 
+4411,Chicken Bowl,$11.25 
+4412,Chips and Tomatillo Red Chili Salsa,$2.95 
+4413,Chicken Bowl,$8.75 
+4414,Chicken Burrito,$8.75 
+4415,Chicken Burrito,$8.75 
+4416,Chicken Burrito,$8.75 
+4417,Chips,$4.30 
+4418,Steak Burrito,$9.25 
+4419,Steak Salad Bowl,$9.39 
+4420,Chips and Guacamole,$4.45 
+4421,Carnitas Burrito,$9.25 
+4422,Canned Soft Drink,$1.25 
+4423,Chicken Bowl,$22.50 
+4424,Chips and Guacamole,$4.45 
+4425,Chips and Fresh Tomato Salsa,$2.95 
+4426,Chips,$2.15 
+4427,Steak Bowl,$23.50 
+4428,Carnitas Bowl,$11.75 
+4429,Chips,$2.15 
+4430,Canned Soft Drink,$1.25 
+4431,Steak Burrito,$9.25 
+4432,Chips and Guacamole,$4.45 
+4433,Chicken Bowl,$11.25 
+4434,Steak Burrito,$11.75 
+4435,Chicken Bowl,$17.50 
+4436,Chicken Bowl,$8.75 
+4437,Carnitas Burrito,$11.75 
+4438,Chicken Soft Tacos,$11.25 
+4439,Chicken Salad Bowl,
+4440,Chips and Guacamole,$4.45 
+4441,Barbacoa Bowl,$11.75 
+4442,Bottled Water,$1.50 
+4443,Chicken Bowl,$8.75 
+4444,Chicken Bowl,$8.75 
+4445,Steak Burrito,$11.75 
+4446,Steak Burrito,$9.25 
+4447,Chicken Burrito,$11.25 
+4448,Chips and Guacamole,$4.45 
+4449,Steak Bowl,$11.75 
+4450,Carnitas Crispy Tacos,$9.25 
+4451,Chips and Guacamole,$4.45 
+4452,Veggie Bowl,$11.25 
+4453,Chicken Crispy Tacos,$8.75 
+4454,Chicken Burrito,$8.75 
+4455,Chips,$2.15 
+4456,Bottled Water,$1.50 
+4457,Chicken Burrito,$8.75 
+4458,Chips and Guacamole,$4.45 
+4459,Steak Bowl,$9.25 
+4460,Chicken Burrito,$8.75 
+4461,Bottled Water,$1.50 
+4462,Canned Soft Drink,$1.25 
+4463,Canned Soft Drink,$1.25 
+4464,Canned Soft Drink,$1.25 
+4465,Chicken Bowl,$8.75 
+4466,Chips and Tomatillo Red Chili Salsa,$2.95 
+4467,Chicken Salad Bowl,$11.25 
+4468,Veggie Bowl,$11.25 
+4469,Bottled Water,$1.50 
+4470,Steak Bowl,$11.75 
+4471,Veggie Burrito,$11.25 
+4472,Chips,$2.15 
+4473,Steak Burrito,$9.25 
+4474,Chicken Soft Tacos,$8.75 
+4475,Carnitas Bowl,$11.75 
+4476,Chips and Tomatillo Green Chili Salsa,$2.95 
+4477,Bottled Water,$1.50 
+4478,Chicken Burrito,$8.75 
+4479,Bottled Water,$1.50 
+4480,Canned Soft Drink,$1.25 
+4481,Chicken Bowl,$8.75 
+4482,Carnitas Burrito,$11.75 
+4483,Chicken Bowl,$11.25 
+4484,Chicken Bowl,$11.25 
+4485,Barbacoa Bowl,$11.75 
+4486,Chicken Bowl,$11.25 
+4487,Carnitas Burrito,$11.75 
+4488,Chicken Bowl,$8.75 
+4489,Chips and Guacamole,$17.80 
+4490,Canned Soft Drink,$5.00 
+4491,Canned Soft Drink,$5.00 
+4492,Chicken Burrito,$8.75 
+4493,Chips and Tomatillo Green Chili Salsa,$2.95 
+4494,Canned Soft Drink,$1.25 
+4495,Chicken Bowl,$11.25 
+4496,Canned Soft Drink,$1.25 
+4497,Chips,$2.15 
+4498,Chicken Bowl,$11.25 
+4499,Canned Soft Drink,$2.50 
+4500,Carnitas Bowl,$9.25 
+4501,Canned Soft Drink,$1.25 
+4502,Chicken Soft Tacos,$11.25 
+4503,Chips and Fresh Tomato Salsa,$2.95 
+4504,Carnitas Bowl,$11.75 
+4505,Chips,$2.15 
+4506,Chicken Bowl,$11.25 
+4507,Bottled Water,$1.50 
+4508,Steak Burrito,$8.99 
+4509,Chips,$1.99 
+4510,Barbacoa Bowl,$11.49 
+4511,Chicken Bowl,$8.75 
+4512,Chips and Guacamole,$4.45 
+4513,Canned Soft Drink,$1.25 
+4514,Chicken Soft Tacos,$8.75 
+4515,Chips and Guacamole,$4.45 
+4516,Canned Soft Drink,$1.25 
+4517,Bottled Water,$1.50 
+4518,Steak Bowl,$11.75 
+4519,Veggie Burrito,$8.75 
+4520,Chicken Salad Bowl,$8.75 
+4521,Chicken Burrito,$11.25 
+4522,6 Pack Soft Drink,$6.49 
+4523,Steak Crispy Tacos,$11.75 
+4524,Chicken Burrito,$8.75 
+4525,Chips,$2.15 
+4526,Canned Soft Drink,$1.25 
+4527,6 Pack Soft Drink,$6.49 
+4528,Chicken Burrito,$8.75 
+4529,Chips and Guacamole,$4.45 
+4530,Chicken Burrito,$8.75 
+4531,Chips and Guacamole,$4.45 
+4532,Chicken Bowl,$8.75 
+4533,Chicken Burrito,$11.25 
+4534,Chips and Guacamole,$4.45 
+4535,6 Pack Soft Drink,$6.49 
+4536,Steak Burrito,$9.25 
+4537,Chicken Bowl,$8.75 
+4538,Canned Soft Drink,$1.25 
+4539,Chips and Guacamole,$4.45 
+4540,Chicken Bowl,$11.25 
+4541,Veggie Salad Bowl,$8.75 
+4542,Bottled Water,$1.50 
+4543,Chicken Burrito,$8.75 
+4544,Bottled Water,$1.50 
+4545,Canned Soft Drink,$1.25 
+4546,Steak Burrito,$9.25 
+4547,Steak Salad Bowl,$9.39 
+4548,Chips and Guacamole,$4.45 
+4549,Steak Soft Tacos,$9.25 
+4550,Chicken Soft Tacos,$8.75 
+4551,Chips and Guacamole,$4.45 
+4552,Canned Soft Drink,$1.25 
+4553,Chicken Bowl,$11.25 
+4554,Steak Crispy Tacos,$11.75 
+4555,Chicken Bowl,$8.75 
+4556,Chicken Burrito,$11.25 
+4557,Carnitas Soft Tacos,$9.25 
+4558,Chicken Burrito,$8.75 
+4559,Chicken Burrito,$11.25 
+4560,Canned Soft Drink,$2.50 
+4561,Chicken Salad Bowl,$17.50 
+4562,Carnitas Bowl,$9.25 
+4563,Chips and Guacamole,$4.45 
+4564,Chicken Bowl,$11.25 
+4565,Canned Soft Drink,$1.25 
+4566,Chicken Burrito,$8.75 
+4567,Chips and Guacamole,$4.45 
+4568,Bottled Water,$1.50 
+4569,Chicken Burrito,$8.75 
+4570,Bottled Water,$1.50 
+4571,Canned Soft Drink,$1.25 
+4572,Steak Salad Bowl,$9.39 
+4573,Veggie Salad Bowl,$8.75 
+4574,Chicken Bowl,$8.75 
+4575,Chips and Guacamole,$4.45 
+4576,Chicken Bowl,$11.25 
+4577,Canned Soft Drink,$1.25 
+4578,Carnitas Burrito,$9.25 
+4579,Chips and Guacamole,$4.45 
+4580,Chicken Salad Bowl,$11.25 
+4581,Chicken Bowl,$8.75 
+4582,Bottled Water,$3.00 
+4583,Chicken Bowl,$8.75 
+4584,Chips,$2.15 
+4585,Canned Soft Drink,$1.25 
+4586,Chicken Bowl,$11.25 
+4587,Chicken Bowl,$11.25 
+4588,Chips and Guacamole,$4.45 
+4589,Chicken Bowl,$11.25 
+4590,Chicken Bowl,$11.25 
+4591,Chicken Bowl,$8.75 
+4592,Barbacoa Burrito,$11.75 
+4593,Carnitas Bowl,$11.75 
+4594,Barbacoa Bowl,$11.75 
+4595,Chicken Bowl,$8.75 
+4596,Chips and Guacamole,$4.45 
+4597,Canned Soft Drink,$1.25 
+4598,Bottled Water,$1.50 
+4599,Chicken Bowl,$8.75 
+4600,Chips and Guacamole,$4.45 
+4601,Canned Soft Drink,$1.25 
+4602,Barbacoa Burrito,$9.25 
+4603,Barbacoa Burrito,$9.25 
+4604,Chicken Bowl,$8.75 
+4605,Chips and Guacamole,$4.45 
+4606,Canned Soft Drink,$1.25 
+4607,Steak Burrito,$11.75 
+4608,Veggie Burrito,$11.25 
+4609,Canned Soft Drink,$1.25 
+4610,Steak Burrito,$11.75 
+4611,Veggie Burrito,$11.25 
+4612,Carnitas Bowl,$9.25 
+4613,Chips,$2.15 
+4614,Bottled Water,$1.50 
+4615,Chicken Soft Tacos,$8.75 
+4616,Chips and Guacamole,$4.45 
+4617,Steak Burrito,$11.75 
+4618,Steak Burrito,$11.75 
+4619,Chicken Salad Bowl,$11.25 
+4620,Chicken Salad Bowl,$8.75 
+4621,Chicken Salad Bowl,$8.75 
